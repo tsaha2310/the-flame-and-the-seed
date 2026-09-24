@@ -3,4 +3,5 @@
 *.key
 *.pem
 .local
+*.stub.md
 __pycache__/

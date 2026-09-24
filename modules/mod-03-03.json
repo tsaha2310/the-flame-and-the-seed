@@ -1,0 +1,47 @@
+{
+  "id": "mod-03-03",
+  "moduleId": "mod-03-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.3 Who lost the electrons?"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "oxidation-first-pass",
+      "rust",
+      "reduction",
+      "redox",
+      "oxidation-number",
+      "oxidant",
+      "reductant"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-03-01.json",
+      "title": {
+        "en": "The apple and the gate"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-03-02.json",
+      "title": {
+        "en": "Take oxygen away"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-03-03.json",
+      "title": {
+        "en": "The Tug-of-War scoreboard"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-03-04.json",
+      "title": {
+        "en": "Thieves and givers"
+      }
+    }
+  ]
+}

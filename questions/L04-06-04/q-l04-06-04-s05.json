@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-06-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir suggests a coin ten times bigger than ATP, \"so you need fewer of them\". What does the shop do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Most jobs are far smaller than the new coin, so most of each coin is wasted as heat. The shop runs hotter and gets no more work done. A coin that is too big is the glucose note again, only less so."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Runs better with fewer coins to count."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nobody counts. Every coin is spent whole, so a big coin on a small job is waste."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Runs the same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Energy paid is not energy used. The leftover from each job is heat, and there is more leftover per job with a bigger coin."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cannot run because the coin is too heavy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight is not the issue in a shop of molecules. Matching the job is."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Waste per job is coin size minus job size. Smaller coins, less waste. The limit is a coin so small that nothing useful can be bought with it, and ATP sits near the sweet spot."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

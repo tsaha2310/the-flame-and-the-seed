@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Adrenaline makes the liver release sugar and makes the heart beat faster. Kabir says \"so it must be two different molecules\". What does the trace show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One molecule. It fits the same kind of receptor on both cells and makes cyclic AMP in both. What differs is the enzymes each cell has downstream: phosphorylase in the liver, contraction machinery in the heart. The meaning of a message is in the receiver."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Two molecules."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The blood carries one adrenaline. The liver and heart make different things of it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The heart gets more."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dose sets how strong, not what kind. The kind of response is set by the cell's own proteins."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The liver has cyclic AMP and the heart does not."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both make cyclic AMP. The chains diverge after that."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A signal is a key. Every cell with the lock opens it. What is behind each door is the cell's own business, set by its switches."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

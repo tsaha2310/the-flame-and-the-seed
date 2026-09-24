@@ -1,0 +1,37 @@
+{
+  "id": "les-05-04-01",
+  "lessonId": "les-05-04-01",
+  "type": "lesson",
+  "title": {
+    "en": "Downhill and uphill work"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05-04-01/blk-l05-04-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05-04-01/blk-l05-04-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05-04-01/blk-l05-04-01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05-04-01/blk-l05-04-01-s04.json"
+    },
+    {
+      "blockRef": "questions/L05-04-01/q-l05-04-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05-04-01/blk-l05-04-01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L05-04-01/blk-l05-04-01-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

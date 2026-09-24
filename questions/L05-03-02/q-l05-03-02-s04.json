@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Some people are born with a broken receptor for cholesterol packets. Kabir says \"so their cells have no cholesterol\". What actually happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Their cells cannot pull the packets in, so the packets stay in the blood and pile up. The blood carries far too much cholesterol, and the arteries clog. The cells make some of their own and get by."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Their cells have no cholesterol."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cells can make cholesterol themselves, slowly. The problem is what stays in the blood, not what the cells lack."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing; drinking picks it up anyway."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Gulping takes the bath's proportions, and the packets are rare in the bath. Without the pits, the intake is a trickle."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Their blood has no cholesterol."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Backwards. It cannot get out of the blood into cells, so the blood has far too much."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A receptor is a door for one thing. Break it, and that thing piles up on the wrong side of the door."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

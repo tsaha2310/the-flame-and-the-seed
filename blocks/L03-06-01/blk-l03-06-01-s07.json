@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-06-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-06-01/blk-l03-06-01-s07.md",
+  "image": {
+    "src": "media/L03-06-01/blk-l03-06-01-s07.webp",
+    "alt": "A gas burner with gas and air mixing for a moment with no flame, then a spark, then a flame that stays lit on its own."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

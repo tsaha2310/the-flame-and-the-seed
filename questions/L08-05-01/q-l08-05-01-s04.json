@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-05-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"The beetles turned brown because they needed to hide on the bark.\" What actually happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Beetles of every shade were born. On bark, the pale ones were eaten more, and the browner ones bred more. The population turned brown because brown survived, not because any beetle changed to suit. Mutations are random; selection is not."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The beetles needed to hide, so they turned brown."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No beetle changed colour in its life. Each was born its colour. The population changed because of who was left."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The bark stained them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sim's beetles inherit colour; nothing rubs off. And their children are brown too."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They chose brown mates."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mates can select, but in this sim you were the only selector, and you selected by eating."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Say what survived and why. Never say what a species wanted or needed. Selection is subtraction, not intention."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

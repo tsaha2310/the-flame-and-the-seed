@@ -1,0 +1,52 @@
+{
+  "id": "q-l04-08-06-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"Same molecules. Same DNA, letter for letter. You are telling me the difference is that some strings are tangled. A tangled ball of wool is still wool. Untangle it.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The oil has no proteins, so proteins are life.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The boiled seed is full of proteins, by sequence, and is dead. Having proteins is not the difference. Having them folded might be, and Kabir's real card is about that."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The seed has DNA and the oil does not, so DNA is life.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The boiled seed's DNA is intact and identical. A tape that nothing reads is a tape in a drawer."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "image": {
+    "src": "media/L04-08-06/q-l04-08-06-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed molecule ledger, a folded protein sketch and a helix drawing on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

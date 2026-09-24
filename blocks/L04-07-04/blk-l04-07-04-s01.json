@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-07-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-07-04/blk-l04-07-04-s01.md",
+  "image": {
+    "src": "media/L04-07-04/blk-l04-07-04-s01.webp",
+    "alt": "A blackboard with a row of twelve identical teeth and, below it, a row of thirteen, a boy counting them."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

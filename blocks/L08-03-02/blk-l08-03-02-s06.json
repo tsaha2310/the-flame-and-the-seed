@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-03-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-03-02/blk-l08-03-02-s06.md",
+  "image": {
+    "src": "media/L08-03-02/blk-l08-03-02-s06.webp",
+    "alt": "Chromosomes lining up randomly, then crossing over segments with their partner, creating gametes with brand new combinations never seen before."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

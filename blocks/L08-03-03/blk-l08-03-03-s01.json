@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-03-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-03-03/blk-l08-03-03-s01.md",
+  "image": {
+    "src": "media/L08-03-03/blk-l08-03-03-s01.webp",
+    "alt": "A chromosome movement diagram matched directly against Mendel's pea-plant ratio square, showing the physical mechanism behind the numbers."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

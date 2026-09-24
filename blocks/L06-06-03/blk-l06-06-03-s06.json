@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-03/blk-l06-06-03-s06.md",
+  "image": {
+    "src": "media/L06-06-03/blk-l06-06-03-s06.webp",
+    "alt": "A day's timeline for a bacterium: glucose present and lactose gene off, then glucose running out and the lactose gene switching on."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

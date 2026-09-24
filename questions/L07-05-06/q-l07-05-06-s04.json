@@ -1,0 +1,64 @@
+{
+  "id": "q-l07-05-06-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put a signal's journey in order, from a hormone in the blood to a body that has changed."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A hormone from a gland fits a receptor on a cell's outside, and the fit bends the receptor's inside face."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bent receptor makes cyclic AMP, and a relay of phosphate-adding shape changes amplifies the message."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The relay's last enzyme switches on glycogen phosphorylase, or, through a transcription factor, changes which genes are copied."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A nerve carries the fast version as a wave of gates, and spits a neurotransmitter across a synapse to a muscle."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "Cells that stick, signal and flip different switches make tissues, organs and a body that holds its lines."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "Every signal fades, so every line can be corrected, and a cell that goes deaf to stop is a lump."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

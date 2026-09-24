@@ -1,0 +1,45 @@
+{
+  "id": "mod-03-02",
+  "moduleId": "mod-03-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.2 The chemist's dozen"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "relative-atomic-mass",
+      "mole",
+      "avogadro-s-number",
+      "molar-mass",
+      "limiting-reagent"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-02-01.json",
+      "title": {
+        "en": "Counting coins by weighing"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-02-02.json",
+      "title": {
+        "en": "The mole"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-02-03.json",
+      "title": {
+        "en": "Molar mass"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-02-04.json",
+      "title": {
+        "en": "Laddoo kitchen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l01-05-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01-05-03/blk-l01-05-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Chlorine, because it has more electrons to spare.",
+      "feedback": "Kabir's card: \"Seven is more than one.\""
+    },
+    {
+      "id": "b",
+      "text": "Sodium."
+    },
+    {
+      "id": "c",
+      "text": "The same, because both are in the third row.",
+      "feedback": "Kabir's card: \"Same row, same size, same pull.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L01-05-03/blk-l01-05-03-s02.webp",
+    "alt": "A sodium atom with one lone outer electron far from its nucleus beside a chlorine atom with seven outer electrons and one gap, each pulled by a small hand."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "les-02-01-03",
+  "lessonId": "les-02-01-03",
+  "type": "lesson",
+  "title": {
+    "en": "Share: the covalent grip"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02-01-03/blk-l02-01-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02-01-03/blk-l02-01-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02-01-03/blk-l02-01-03-s03.json"
+    },
+    {
+      "blockRef": "questions/L02-01-03/q-l02-01-03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02-01-03/blk-l02-01-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L02-01-03/blk-l02-01-03-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "les-03-09-06",
+  "lessonId": "les-03-09-06",
+  "type": "lesson",
+  "title": {
+    "en": "Ledger duel III"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-09-06/blk-l03-09-06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-06/blk-l03-09-06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-06/blk-l03-09-06-s03.json"
+    },
+    {
+      "blockRef": "questions/L03-09-06/q-l03-09-06-s03-say.json"
+    },
+    {
+      "blockRef": "questions/L03-09-06/q-l03-09-06-s03-attack-01.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-06/blk-l03-09-06-s03-line.json"
+    },
+    {
+      "blockRef": "questions/L03-09-06/q-l03-09-06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-06/blk-l03-09-06-s05.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

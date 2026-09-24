@@ -1,0 +1,100 @@
+{
+  "id": "q-l02-01-04-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each material by the grip that holds it together."
+  },
+  "categories": [
+    {
+      "id": "steal-ionic-lattice",
+      "label": {
+        "en": "Steal (ionic lattice)"
+      }
+    },
+    {
+      "id": "share-covalent-molecules",
+      "label": {
+        "en": "Share (covalent molecules)"
+      }
+    },
+    {
+      "id": "pool-metallic",
+      "label": {
+        "en": "Pool (metallic)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "rock salt"
+      },
+      "correctCategoryId": "steal-ionic-lattice"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "the copper pot"
+      },
+      "correctCategoryId": "pool-metallic"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "sugar"
+      },
+      "correctCategoryId": "share-covalent-molecules"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "an iron nail"
+      },
+      "correctCategoryId": "pool-metallic"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "water"
+      },
+      "correctCategoryId": "share-covalent-molecules"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "chuna, calcium oxide"
+      },
+      "correctCategoryId": "steal-ionic-lattice"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "the diya's oil"
+      },
+      "correctCategoryId": "share-covalent-molecules"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "aluminium foil"
+      },
+      "correctCategoryId": "pool-metallic"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-02-01"
+  ],
+  "image": {
+    "src": "media/L02-01-04/q-l02-01-04-s04.webp",
+    "alt": "An unsorted jumble of materials waiting to be sorted by their grip: rock salt, a copper pot, a sugar cube, an iron nail, water, chuna, oil and aluminium foil."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

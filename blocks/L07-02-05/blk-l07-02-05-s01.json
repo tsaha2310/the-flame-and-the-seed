@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-05/blk-l07-02-05-s01.md",
+  "image": {
+    "src": "media/L07-02-05/blk-l07-02-05-s01.webp",
+    "alt": "A prepared pufferfish dish on a plate beside a molecule plugging tiny gate structures in a nerve wall, drawn as a warning rather than a meal."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

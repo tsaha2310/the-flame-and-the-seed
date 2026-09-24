@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-01-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-01-01/blk-l03-01-01-s06.md",
+  "simulation": {
+    "src": "simulations/L03-01-01/FizzScene-hiding-gas.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-03-03-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-03-03/blk-l03-03-03-s02.md",
+  "simulation": {
+    "src": "simulations/shared/TugOfWarScene-scoreboard.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

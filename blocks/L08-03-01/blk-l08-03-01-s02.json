@@ -1,0 +1,32 @@
+{
+  "id": "blk-l08-03-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08-03-01/blk-l08-03-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It stays at twenty-two, because the extra ones are thrown away at fertilisation.",
+      "feedback": "Kabir's card: \"The seed discards the spares.\""
+    },
+    {
+      "id": "b",
+      "text": "It doubles every generation: forty-four, eighty-eight, and so on, until the cells cannot manage."
+    },
+    {
+      "id": "c",
+      "text": "It halves, because each parent gives only some.",
+      "feedback": "Kabir's card: \"Sharing halves it.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L08-03-01/blk-l08-03-01-s02.webp",
+    "alt": "A plant's pollen and egg cells made by ordinary division carrying the full chromosome count, generations shown doubling upward."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

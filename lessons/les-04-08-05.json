@@ -1,0 +1,34 @@
+{
+  "id": "les-04-08-05",
+  "lessonId": "les-04-08-05",
+  "type": "lesson",
+  "title": {
+    "en": "Big with big"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04-08-05/blk-l04-08-05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-05/blk-l04-08-05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-05/blk-l04-08-05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-05/blk-l04-08-05-s04.json"
+    },
+    {
+      "blockRef": "questions/L04-08-05/q-l04-08-05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-05/blk-l04-08-05-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

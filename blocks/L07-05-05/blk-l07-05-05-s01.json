@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-05-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-05-05/blk-l07-05-05-s01.md",
+  "image": {
+    "src": "media/L07-05-05/blk-l07-05-05-s01.webp",
+    "alt": "Three sabotage scenes: a cell deaf to a stop signal dividing endlessly, a plant with no growing tips at all, and an animal with one single growing tip at its head."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

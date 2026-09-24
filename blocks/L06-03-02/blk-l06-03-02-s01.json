@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-03-02/blk-l06-03-02-s01.md",
+  "image": {
+    "src": "media/L06-03-02/blk-l06-03-02-s01.webp",
+    "alt": "A 1960s scientist feeding a test tube an RNA message made of nothing but one repeated letter, a single kind of bead chain coming out."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

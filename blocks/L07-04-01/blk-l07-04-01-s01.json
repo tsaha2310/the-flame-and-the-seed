@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-04-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-04-01/blk-l07-04-01-s01.md",
+  "image": {
+    "src": "media/L07-04-01/blk-l07-04-01-s01.webp",
+    "alt": "A line of ants marching to a sugar jar and back, a finger's swipe breaking the trail and ants milling in confusion before reforming it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

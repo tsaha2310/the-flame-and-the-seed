@@ -1,0 +1,1 @@
+**Ledger line, written:** Flame - no sensing. Live seed - cells that sense with receptors they made, relay by shape change, hold lines with opposite signals, and copy the whole arrangement. Boiled seed - receptors present and unfolded; nothing sensed. Verdict: the thermostat breaks "senses and responds". Kabir's question stands: show the copying.

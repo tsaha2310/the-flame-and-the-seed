@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-06-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir groups the whale with the fish, \"because it swims and has fins\". What conflicts does the sim report?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Lungs, milk, warm blood, a hand's bones inside the flipper, and a tail that moves up and down like a running mammal's spine, not side to side like a fish's. Five inherited features say mammal; one way of life says fish."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "None; whales are fish."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every feature a whale inherited, from bones to milk, is a mammal's. Swimming is what it does, not what it is."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the milk."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The flipper's five fingers, the lungs, the blood, the spine. It is a mammal in every inherited part."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The whale is its own group."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Its DNA, from tomorrow's lesson, sits it next to hippos. It has a place on the tree, and it is not among the fish."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask of every feature: inherited from an ancestor, or shaped by a way of life? Fins and a streamlined body are the second kind and turn up in fish, whales and penguins alike. Bones and milk are the first kind."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

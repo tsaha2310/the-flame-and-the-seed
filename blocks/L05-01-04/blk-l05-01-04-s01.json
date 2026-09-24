@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-04/blk-l05-01-04-s01.md",
+  "image": {
+    "src": "media/L05-01-04/blk-l05-01-04-s01.webp",
+    "alt": "Two boiled potatoes cut open, the small one cooked through and the large one raw in the middle."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

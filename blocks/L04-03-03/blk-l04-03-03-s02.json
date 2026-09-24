@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-03-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-03-03/blk-l04-03-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The kinked one, because kinks tangle and tangles are solid.",
+      "feedback": "Kabir's card: \"Tangled hair is stiff.\""
+    },
+    {
+      "id": "b",
+      "text": "The straight one, because straight tails pack close and stick to each other along their whole length."
+    },
+    {
+      "id": "c",
+      "text": "Both the same, because it is the same number of atoms.",
+      "feedback": "Kabir's card: \"Same atoms, same state.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-03-03/blk-l04-03-03-s02.webp",
+    "alt": "Two boxes of fat molecules, one where every tail is straight and one where every fat has one kinked tail."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

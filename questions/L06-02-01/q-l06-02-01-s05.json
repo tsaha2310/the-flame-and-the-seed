@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-02-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The strand the copyist reads is 3'-TACGGA-5'. Kabir writes the mRNA as 5'-ATGCCT-3'. What did he forget?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "RNA has no T. Across from A the copyist puts U. The mRNA is 5'-AUGCCU-3'."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; that is correct."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He paired and reversed correctly. He used DNA's alphabet for an RNA strand. U for T."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "He should have copied the other strand."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The strand given is the one the copyist reads. The copy is its complement, in RNA letters."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "He should not have reversed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The copy is antiparallel to its template, from IV.8 L04. Reversing is right."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Three steps. Pair each letter. Reverse the direction. Then swap every T in the copy for U, because the copy is RNA."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

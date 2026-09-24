@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-05-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-05-05/blk-l05-05-05-s01.md",
+  "image": {
+    "src": "media/L05-05-05/blk-l05-05-05-s01.webp",
+    "alt": "Two sabotage set-ups side by side: an unbranched sugar tree that is slow to strip, and a muscle cut off from its coin supply."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

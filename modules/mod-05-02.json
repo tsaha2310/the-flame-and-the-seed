@@ -1,0 +1,56 @@
+{
+  "id": "mod-05-02",
+  "moduleId": "mod-05-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.2 Gates, channels and pumps"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "permeability",
+      "channel-protein",
+      "carrier-protein",
+      "pump",
+      "gradient",
+      "sodium-potassium-pump",
+      "turgor",
+      "plasmolysis",
+      "water-channel",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-02-01.json",
+      "title": {
+        "en": "A refugee camp, 1971"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-02-02.json",
+      "title": {
+        "en": "Channels and carriers"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-02-03.json",
+      "title": {
+        "en": "Pumps"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-02-04.json",
+      "title": {
+        "en": "Osmosis in real cells"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-02-05.json",
+      "title": {
+        "en": "ORS designer"
+      }
+    }
+  ]
+}

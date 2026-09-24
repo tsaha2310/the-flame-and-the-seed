@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-05-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A drug stops splicing in a human cell. Kabir says \"bacteria would be hit even harder, since they are simpler\". What happens to each?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The human cell stops making most of its proteins, since most human genes have introns. The bacterium is untouched: it has no introns and no splicing, so there is nothing to stop."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both die."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bacterial genes are written straight through. A splicing inhibitor finds nothing to inhibit."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The bacterium dies and the human cell is fine."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Backwards. The human cell depends on splicing; the bacterium never needed it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither is affected, because splicing is optional."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An intron left in makes a truncated, useless protein, from VI.5 L02. For a human cell, splicing is not optional."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask whether the target exists in each cell. Splicing exists in eukaryotes and not in bacteria. The drug's effect follows."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

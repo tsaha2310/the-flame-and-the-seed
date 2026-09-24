@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-01-03-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-01-03/blk-l06-01-03-s05.md",
+  "simulation": {
+    "src": "simulations/L06-01-03/SpoolItScene-no-spools.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-04-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the code is \"nearly the same in every living thing\", from VI.3. What sets it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The charging enzymes' pockets. Every living thing inherited the same twenty enzymes matching the same tRNA shapes to the same beads. Change one and every protein in the cell would be spelt wrong at once."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A law of chemistry."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing about AAA resembles lysine. The pairing is held in an enzyme's two pockets, and could in principle be otherwise."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ribosome decides."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ribosome checks codon against anticodon and takes whatever bead is on the hook. It does not know beads."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The DNA."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tape spells codons. What a codon means is set by which tRNA carries which bead, and the enzymes set that."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Find where the pairing is physically held. It is in twenty proteins' pockets. The code is a set of shapes, inherited."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

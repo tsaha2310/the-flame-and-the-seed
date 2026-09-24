@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-01-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-01/blk-l02-02-01-s03.md",
+  "simulation": {
+    "src": "simulations/L02-02-01/BalloonBuilderScene-clouds.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "q-l08-01-03-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the dance in order."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every chromosome is copied, and the two copies stay joined at one point."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Each chromosome winds tight into a short rod."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The nuclear envelope dissolves and threads attach to each chromosome."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The chromosomes are lined up across the middle of the cell."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "The joins are cut and one copy of each is pulled to each end."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "Two envelopes rebuild and the cell splits in two."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-08-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

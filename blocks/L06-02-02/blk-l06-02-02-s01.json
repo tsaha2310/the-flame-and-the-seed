@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-02-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-02-02/blk-l06-02-02-s01.md",
+  "image": {
+    "src": "media/L06-02-02/blk-l06-02-02-s01.webp",
+    "alt": "A short marked sequence just before a gene that an enzyme's shaped pocket fits snugly, like a key finding its lock among billions of letters."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

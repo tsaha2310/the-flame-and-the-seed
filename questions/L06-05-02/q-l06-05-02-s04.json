@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-05-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mutation changes the sequence at the start of an intron so the splicing machine no longer recognises it. Kabir says \"so the intron just stays in, one extra piece\". What does the ribosome make?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A chain that runs into the intron's letters, which spell nonsense in the recipe's frame, and usually hits a stop codon within a few codons. The protein is truncated and useless."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The same protein with a few extra beads."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An intron is not a spare exon. Its letters, read in the recipe's frame, are junk, and junk usually contains a stop."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing, because the message cannot leave the nucleus."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sometimes true, and then the result is the same: no working protein."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A better protein, because more is more."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Extra nonsense is not extra recipe."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Introns are not recipe. Leave one in and the ribosome reads it anyway. The frame and the stops decide what comes out."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

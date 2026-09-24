@@ -1,0 +1,31 @@
+{
+  "id": "q-l00-01-04-s05-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "What is the best single sentence you can write today that separates living things from the flame?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "Living things eat, breathe, grow, move, respond and reproduce. Every one of those is something a flame also does, and a mule fails \"reproduce\" while a dormant seed fails all of them, so this line does not survive Kabir. It is a list of what living things usually do, not what they are."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-00-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

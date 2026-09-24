@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the rough bacteria \"caught the disease from the dead ones, like a cold\". Why is that the wrong picture?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A cold is a live virus multiplying. The dead smooth cells could not multiply or do anything. What passed was a molecule carrying the instructions for a coat, and the rough cells' own machinery read it and built the coat. And their children built it too, with no dead cells anywhere near."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is the right picture."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dead cells do not infect. The transformed cells were rough cells with new instructions, and the instructions were inherited."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The rough bacteria ate the coats off the dead ones."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A stolen coat would not be passed to daughters. The daughters made their own coats, which means they had the recipe."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The mouse made the rough cells smooth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The same transformation happened in a dish with no mouse. The mouse was only the test."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask what is inherited. A coat is not. A recipe for a coat is. The rough cells received a recipe."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

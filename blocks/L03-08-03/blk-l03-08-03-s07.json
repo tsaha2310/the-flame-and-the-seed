@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-03/blk-l03-08-03-s07.md",
+  "image": {
+    "src": "media/L03-08-03/blk-l03-08-03-s07.webp",
+    "alt": "A green seed making sugar uphill, drawn as the heavy marble lifting the light marble over a pulley on the true hill."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

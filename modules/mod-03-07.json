@@ -1,0 +1,58 @@
+{
+  "id": "mod-03-07",
+  "moduleId": "mod-03-07",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.7 Sour and slippery"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "hydrogen-ion",
+      "acid",
+      "base-upgraded",
+      "ph",
+      "strong-acid",
+      "weak-acid",
+      "neutralisation",
+      "salt-chemist-s-sense",
+      "titration",
+      "acidic-oxide",
+      "basic-oxide",
+      "buffer"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-07-01.json",
+      "title": {
+        "en": "The turmeric stain"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-07-02.json",
+      "title": {
+        "en": "Ten times each step"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-07-03.json",
+      "title": {
+        "en": "Stop on the drop"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-07-04.json",
+      "title": {
+        "en": "Oxides, sour and sweet"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-07-05.json",
+      "title": {
+        "en": "Blood with no buffer"
+      }
+    }
+  ]
+}

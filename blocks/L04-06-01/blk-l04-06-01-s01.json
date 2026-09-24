@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-06-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-06-01/blk-l04-06-01-s01.md",
+  "image": {
+    "src": "media/L04-06-01/blk-l04-06-01-s01.webp",
+    "alt": "Match heads, a bag of fertiliser, a bone and a seed, each with a glowing orange phosphorus sphere, and a small coin."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

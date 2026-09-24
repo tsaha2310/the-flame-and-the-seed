@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-09-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-09-03/blk-l05-09-03-s01.md",
+  "image": {
+    "src": "media/L05-09-03/blk-l05-09-03-s01.webp",
+    "alt": "A single lifted electron falling short of the height needed, a second staircase and a second light-lift pushing it the rest of the way."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

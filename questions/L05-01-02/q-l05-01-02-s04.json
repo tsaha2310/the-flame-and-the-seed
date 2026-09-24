@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Hooke discovered cells.\" Leeuwenhoek's letters came eleven years later. Who found what?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hooke saw and named the empty walls of dead plant cells. Leeuwenhoek saw living cells, swimming and dividing, for the first time. Both were needed; neither knew what a cell was for."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Hooke found everything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He was first to see the boxes. He saw cork, which is dead. He never saw a living cell."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Leeuwenhoek found everything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He did, and he had no word for them. Hooke's word and Leeuwenhoek's sight had to be joined by later people."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither; Schleiden and Schwann did."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They wrote the rule from two centuries of looking. The rule needed the looking first."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Discovery is usually several people. Name who saw what, and what each one could not yet see."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-04-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-04-05/blk-l06-04-05-s01.md",
+  "image": {
+    "src": "media/L06-04-05/blk-l06-04-05-s01.webp",
+    "alt": "A ribosome catching a wrongly loaded adaptor molecule, a tape with a deleted letter scrambling everything after, and a small molecule jamming only some ribosomes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

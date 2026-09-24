@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-08-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-08-03/blk-l03-08-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It stays put; the reaction just gets faster.",
+      "feedback": "Kabir's card: \"Heat is speed, not direction.\""
+    },
+    {
+      "id": "b",
+      "text": "It moves toward the products, because splitting gains ways and ways count more when it is hot."
+    },
+    {
+      "id": "c",
+      "text": "It moves toward the reactants, because heat is a reactant.",
+      "feedback": "Kabir's card: \"Heat pushes everything forward.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-08-03/blk-l03-08-03-s02.webp",
+    "alt": "Water molecules on a valley curve at room temperature, and the same curve beside a blazing sun surface, where the floor might shift."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

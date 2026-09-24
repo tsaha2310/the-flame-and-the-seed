@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-02-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-02-04/blk-l05-02-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both swell and burst.",
+      "feedback": "Kabir's card: \"Water goes in until they pop.\""
+    },
+    {
+      "id": "b",
+      "text": "The blood cell swells and bursts. The plant cell swells until its fence pushes back, and then stops, firm and full."
+    },
+    {
+      "id": "c",
+      "text": "Neither changes, because water cannot cross a bilayer.",
+      "feedback": "Kabir's card: \"The wall stops water.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-02-04/blk-l05-02-04-s02.webp",
+    "alt": "A plant cell and a red blood cell both placed in pure water, water entering both by osmosis, outcomes not yet shown."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

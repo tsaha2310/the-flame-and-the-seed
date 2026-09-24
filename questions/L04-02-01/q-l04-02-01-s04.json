@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kerosene, about twelve carbons, is a liquid that pours. Wax, about twenty-five carbons, is a solid. Kabir says \"wax has stronger bonds\". What is the real difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The bonds inside are the same kind and strength. Wax molecules are longer, so the dispersion pulls between them are stronger, and it takes more jiggle to slide them past each other."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Wax has stronger bonds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Melting wax does not break a single bond inside it. It only loosens the pulls between molecules."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wax has more hydrogen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ratio of hydrogen to carbon is nearly the same in both. What differs is length."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Kerosene is a different element."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both are carbon and hydrogen only, same bonds, different chain lengths."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Inside, alkanes are alike. Between molecules, the longer chain has more surface to stick with. State follows the stickiness, as II.4 said."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

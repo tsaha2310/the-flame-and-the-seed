@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-02-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-02-05/blk-l05-02-05-s01.md",
+  "image": {
+    "src": "media/L05-02-05/blk-l05-02-05-s01.webp",
+    "alt": "A simple glass of water with careful measures of sugar and salt spoons beside it, a recipe for saving lives with no fancy equipment."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

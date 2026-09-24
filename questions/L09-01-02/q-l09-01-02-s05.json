@@ -1,0 +1,61 @@
+{
+  "id": "q-l09-01-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks where the diya's oil, sitting cold in its tin, fits. What is the tin of oil?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fuel with no loop at all. It sits high on the Hill, from IV.2, behind a hump, from III.6. It is the seed's slow fire with no wall, no steps, no tape, no machines: a fall waiting for a match. Light it and it is the flame; leave it and it is nothing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A dormant seed of fire."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A dormant seed has a tape and machines paused. The oil has fuel and nothing else. There is nothing in it to wake."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Alive, because it can burn."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Energy is on every card. Wood has it, the sun has it. The loop is what uses it to build a loop."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Dead, because it was once a seed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It came from a seed, from IV.3, and is the seed's stored fall, pressed out. It was never the loop; it was the loop's bank."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask which arrows are present. The oil has one thing: a stored fall. The flame adds the falling. Neither has a tape, a wall or a copy."
+  },
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-04-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Milk kept at 4 degrees lasts a week; at 30 degrees it turns in a day. Kabir says \"so cold kills the milk's microbes\". What do their enzymes do at 4 degrees?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They keep their folds and work slowly. Cold does not unfold anything; it only slows the collisions, from III.6. Warm the milk and the microbes' enzymes pick up where they left off."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They unfold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cold does not break a fold; the pulls that hold it get stronger, if anything. Only heat and acid unfold."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They stop completely."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "At 4 degrees nothing is frozen. The enzymes are slow, not stopped, which is why the milk still turns in a week."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They work faster in the cold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cuts per second fall steadily as you cool, on every enzyme in the lab."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Cold slows and heat kills. A fridge is a slowing; a boil is an unfolding. Only one of them is undone by warming back up."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

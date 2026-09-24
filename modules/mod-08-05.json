@@ -1,0 +1,62 @@
+{
+  "id": "mod-08-05",
+  "moduleId": "mod-08-05",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VIII.5 Evolution"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "variation",
+      "natural-selection",
+      "artificial-selection",
+      "fossil",
+      "homologous-structure",
+      "antibiotic-resistance",
+      "species",
+      "genetic-drift",
+      "common-descent",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-08-05-01.json",
+      "title": {
+        "en": "The pigeon loft"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-05-02.json",
+      "title": {
+        "en": "Build the case"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-05-03.json",
+      "title": {
+        "en": "Superbug"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-05-04.json",
+      "title": {
+        "en": "New kinds"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-05-05.json",
+      "title": {
+        "en": "Lamarck's mice"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-05-06.json",
+      "title": {
+        "en": "The RNA world"
+      }
+    }
+  ]
+}

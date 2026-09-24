@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Plant B got the message through its roots, obviously; plants are all connected underground.\" Which of the sim's runs settles it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The glass-wall run. Roots and soil were shared and the air was sealed, and B did nothing. The air-shared, pots-separated run gave the response. The channel is the air, at least for this signal."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No run settles it; both channels could work."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "With the air sealed, nothing happened. If roots carried it, something would have."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The wasp run."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The wasp run shows the wasp smells the plume. It says nothing about B's roots."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Plants cannot signal at all; B was just coincidence."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sealed-air run and the shared-air run differ every time. That is not coincidence."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Block one channel at a time. The one whose blocking kills the response is the one carrying it. That is how the real experiment was done."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

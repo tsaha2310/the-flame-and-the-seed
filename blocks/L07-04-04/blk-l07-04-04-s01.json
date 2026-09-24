@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-04-04/blk-l07-04-04-s01.md",
+  "image": {
+    "src": "media/L07-04-04/blk-l07-04-04-s01.webp",
+    "alt": "An ant trail with its usual fading effect removed, glowing permanently bright and never fading even long after use."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

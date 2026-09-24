@@ -1,0 +1,32 @@
+{
+  "id": "blk-l02-03-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02-03-03/blk-l02-03-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Water, because opposite partial charges on neighbouring molecules pull them toward each other."
+    },
+    {
+      "id": "b",
+      "text": "Oil, because it is thicker and stickier.",
+      "feedback": "Kabir's card: \"Oil is gooey.\""
+    },
+    {
+      "id": "c",
+      "text": "The same, because both are \"share\" molecules.",
+      "feedback": "Kabir's card: \"Same grip, same stick.\""
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L02-03-03/blk-l02-03-03-s02.webp",
+    "alt": "Water molecules with charged corners linking hand to hand beside oil molecules with no charged sides drifting apart, above two coins."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

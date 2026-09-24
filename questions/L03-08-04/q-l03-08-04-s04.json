@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-08-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir couples a small fall to a big lift and the sim refuses. He says \"just use a bigger wheel\". What does a bigger wheel do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing to the energy budget. A wheel can trade speed for force, lifting a heavy bucket slowly, but the total lift energy can never exceed the fall's."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It works."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A big wheel lifts a heavier bucket more slowly, so the energy per second is the same. Height times weight cannot beat what the fall gives."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It breaks the wheel."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Strain is not the problem. The problem is that free energy cannot be made, only moved."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It works if the water is hot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The stream's energy is its fall. Warming it does not raise the wheel's take."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Coupling moves free energy from one change to another. It cannot create it. The gear sets the trade of speed for force, not the budget."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

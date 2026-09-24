@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-05-04/blk-l03-05-04-s01.md",
+  "image": {
+    "src": "media/L03-05-04/blk-l03-05-04-s01.webp",
+    "alt": "Morning: a limp cucumber slice swimming in its own water and a plump smooth raisin in a glass, a boy comparing them."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

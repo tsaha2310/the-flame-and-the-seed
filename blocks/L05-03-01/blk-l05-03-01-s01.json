@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-03-01/blk-l05-03-01-s01.md",
+  "image": {
+    "src": "media/L05-03-01/blk-l05-03-01-s01.webp",
+    "alt": "A grazed knee with reddened skin around it, and inside a blood vessel a round white blood cell reaching out to engulf a bacterium."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

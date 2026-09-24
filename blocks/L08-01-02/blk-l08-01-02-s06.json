@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-02/blk-l08-01-02-s06.md",
+  "image": {
+    "src": "media/L08-01-02/blk-l08-01-02-s06.webp",
+    "alt": "A DNA copier machine shown with two distinct checking mechanisms built in, catching errors the first pass missed."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-04-02-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-04-02/blk-l05-04-02-s05.md",
+  "simulation": {
+    "src": "simulations/L05-04-02/DockingBayScene-rigid-site.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

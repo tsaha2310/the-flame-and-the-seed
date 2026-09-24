@@ -1,0 +1,32 @@
+{
+  "id": "blk-l07-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07-01-01/blk-l07-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "One. One molecule in, one molecule out.",
+      "feedback": "Kabir's card: \"One for one.\""
+    },
+    {
+      "id": "b",
+      "text": "A few hundred.",
+      "feedback": "Kabir's card: \"A receptor can do a lot.\""
+    },
+    {
+      "id": "c",
+      "text": "Millions."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L07-01-01/blk-l07-01-01-s02.webp",
+    "alt": "A single messenger molecule landing on a receptor on a liver cell's surface, triggering an internal cascade toward a full sugar bank."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

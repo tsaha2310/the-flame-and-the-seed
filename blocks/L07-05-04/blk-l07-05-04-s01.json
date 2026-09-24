@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-05-04/blk-l07-05-04-s01.md",
+  "image": {
+    "src": "media/L07-05-04/blk-l07-05-04-s01.webp",
+    "alt": "A grandmother pinching off a plant's growing tip with her thumbnail, dormant side buds nearby waiting to see what happens."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

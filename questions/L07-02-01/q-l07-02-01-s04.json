@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the resting voltage \"sits at minus seventy and not at zero, since the pump is only moving ions\". Where does the voltage come from?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "From potassium leaking out through its channels, carrying charge out, until the inside's negativity pulls back exactly as hard as the gradient pushes out. The pump built the gradient; the leak turns it into a voltage."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From the pump directly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pump's charge imbalance is small. Most of the voltage is the potassium leak balancing against its own gradient."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "From sodium rushing in."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sodium rushing in would make the inside positive. At rest sodium barely leaks. Its rush is tomorrow, and it is the message."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "From the wall itself, which is charged."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bilayer has no charge of its own. The charge is ions on either side."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A gradient plus a leak that passes only one ion gives a voltage. The voltage sits where the electrical pull equals the diffusion push."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

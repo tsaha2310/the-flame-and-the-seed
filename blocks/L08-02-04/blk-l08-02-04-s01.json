@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-02-04/blk-l08-02-04-s01.md",
+  "image": {
+    "src": "media/L08-02-04/blk-l08-02-04-s01.webp",
+    "alt": "A Victorian naturalist imagining inheritance as mixing paint, a tall parent and short parent blending into one medium-toned child, unlike Mendel's peas."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

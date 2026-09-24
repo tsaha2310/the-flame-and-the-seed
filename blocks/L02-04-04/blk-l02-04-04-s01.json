@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-04/blk-l02-04-04-s01.md",
+  "image": {
+    "src": "media/L02-04-04/blk-l02-04-04-s01.webp",
+    "alt": "A steel water bottle from the freezer, bulging with its lid forced up, beside a shrunken set lump of ghee and a shrunken candle."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

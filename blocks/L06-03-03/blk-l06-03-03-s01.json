@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-03-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-03-03/blk-l06-03-03-s01.md",
+  "image": {
+    "src": "media/L06-03-03/blk-l06-03-03-s01.webp",
+    "alt": "A boy counting codons on a wall chart, finding one bead with two codons, one with six, and three blank entries."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-06-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-06-01/blk-l04-06-01-s07.md",
+  "image": {
+    "src": "media/L04-06-01/blk-l04-06-01-s07.webp",
+    "alt": "A crowded chain of three charged phosphates straining apart, beside a five-carbon sugar ring and five flat nitrogen rings in two sizes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

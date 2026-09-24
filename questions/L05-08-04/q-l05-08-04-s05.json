@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-08-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A baker wants bread to rise fast and a brewer wants strong beer. Both use the same yeast. Kabir says \"so they do the same thing\". What does each want the yeast to do, and how do they get it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The baker wants gas: fermentation, in a dough with little air, warm. The brewer wants alcohol: fermentation, sealed from air, cool and slow. Both want the anaerobic pipeline. A brewer who let air in would get vinegar and a yeast that ate the sugar to nothing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The baker wants aerobic yeast for more energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rising is gas, and gas comes from fermentation. Air would make the yeast burn the sugar to water and grow instead of bubble."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The brewer wants aerobic yeast for strong beer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air gives no alcohol at all. Alcohol is the anaerobic waste."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They cannot use the same yeast."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are close cousins, and often the very same strain. The conditions, not the yeast, choose the product."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Decide what product you want. Gas and alcohol are fermentation's. Growth is the powerhouse's. Set the oxygen accordingly."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

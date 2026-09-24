@@ -1,0 +1,52 @@
+{
+  "id": "mod-05-09",
+  "moduleId": "mod-05-09",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.9 Photosynthesis: catching light"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "none",
+      "chloroplast-revisited",
+      "thylakoid",
+      "chlorophyll",
+      "light-reactions",
+      "nadph"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-09-01.json",
+      "title": {
+        "en": "Where does a tree's mass come from?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-09-02.json",
+      "title": {
+        "en": "Green panels"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-09-03.json",
+      "title": {
+        "en": "Two lifts"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-09-04.json",
+      "title": {
+        "en": "Isotope detective"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-09-05.json",
+      "title": {
+        "en": "Green light only"
+      }
+    }
+  ]
+}

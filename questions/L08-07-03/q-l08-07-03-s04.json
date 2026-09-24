@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-07-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If the host evolves a lock the parasite can never open, the race ends.\" Why does that not happen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every lock is a protein, and the parasite's key is a protein, and proteins change by mutation on both sides. No lock is unopenable, only unopened so far. And a lock that also stops the host's own molecules from fitting costs the host."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It does happen; that is how immunity works."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Immunity to one strain lasts until the strain changes. Flu shots change every year for this reason."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The parasite would just eat something else."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some do. Most are shaped for one host, and a switch is itself an arms race with the new host."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Hosts cannot change their locks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Locks are proteins, from IV.5, and a one-letter change reshapes them. The sickle lock is exactly that."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Both sides are made of the same changeable stuff. Any move can be answered. The race has no end because neither side can stop mutating."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

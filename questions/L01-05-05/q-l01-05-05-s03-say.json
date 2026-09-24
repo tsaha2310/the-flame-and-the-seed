@@ -1,0 +1,31 @@
+{
+  "id": "q-l01-05-05-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book I line. What is the flame made of, what is the seed made of, and is there a difference?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "Flame and seed are made of the same few atoms. Carbon, hydrogen and oxygen make up most of both. The seed adds nitrogen, phosphorus, sulphur and a pinch of metals. The boiled seed has exactly the same list as the live one. There is no difference in what they are made of."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

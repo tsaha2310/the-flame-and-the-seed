@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-02/blk-l02-02-02-s01.md",
+  "image": {
+    "src": "media/L02-02-02/blk-l02-02-02-s01.webp",
+    "alt": "A boy wearing the four-balloon bundle as a hat, staring at a blue kitchen gas cylinder."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

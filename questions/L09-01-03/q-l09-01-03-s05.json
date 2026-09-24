@@ -1,0 +1,61 @@
+{
+  "id": "q-l09-01-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"The unbuilt machine would have every arrow. So if someone builds it, it is alive, and it is not made of carbon, so the whole course was about the wrong thing.\" What does the course actually claim?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "That the loop is what makes a thing alive, not the carbon. Book IV said why carbon builds the loop on Earth: strong chains and a gas for ash. If a loop could be built in another material, the course's argument says it would be alive, and that is a conclusion, not a contradiction."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "That only carbon can be alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Book IV explained why carbon, not that carbon is the definition. The definition is the loop."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "That machines cannot be alive by definition."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cell is machines, from V.4 onward, made of protein. The question is whether the loop closes, not what it is made of."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "That the question is meaningless."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The loop is a real thing that a seed has and a flame does not. The four edge cards are where the word blurs; the middle is clear."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the argument to its end. The course defined life by what it does. Anything that does it, in any material, meets the definition. Whether such a thing can be built is a different question."
+  },
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

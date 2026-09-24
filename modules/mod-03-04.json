@@ -1,0 +1,48 @@
+{
+  "id": "mod-03-04",
+  "moduleId": "mod-03-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.4 Heat is not temperature"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "heat",
+      "heat-capacity",
+      "internal-energy",
+      "enthalpy",
+      "bond-energy",
+      "exothermic",
+      "endothermic",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-04-01.json",
+      "title": {
+        "en": "Same flame, water and oil"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-04-02.json",
+      "title": {
+        "en": "Where the heat goes"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-04-03.json",
+      "title": {
+        "en": "The bond ledger"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-04-04.json",
+      "title": {
+        "en": "Water with oil's heat capacity"
+      }
+    }
+  ]
+}

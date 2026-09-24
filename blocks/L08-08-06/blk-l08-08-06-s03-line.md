@@ -1,0 +1,1 @@
+**Ledger line, written:** Flame - copies nothing; has no kind. Live seed - copies its tape with small errors, shuffles it with a partner's, and its kind changes by selection; one branch of one tree; part of every loop. Boiled seed - carries the tape; cannot copy it. Verdict: no single line is enough. Kabir is right.

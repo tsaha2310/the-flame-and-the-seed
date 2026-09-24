@@ -1,0 +1,52 @@
+{
+  "id": "q-l03-09-06-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"Same equation, same energy. A short circuit and a motor are the same chemistry. You have not found a difference in the reaction, only in the wiring, and you cannot see the wiring.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The peanut burned in a minute and Kabir took a day, so the seed's reaction is different.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The hump lesson showed the same reaction runs at any speed if the hump is lowered. Speed is not the reaction."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The flame made light and Kabir did not, so light is the difference.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Light is one way for a fall to come out, along with heat. A hot wire glows; a warm one does not. Same fall."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "image": {
+    "src": "media/L03-09-06/q-l03-09-06-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed reaction ledger, a peanut and a small battery on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

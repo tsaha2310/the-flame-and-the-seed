@@ -1,0 +1,30 @@
+{
+  "id": "blk-l05-09-05-s05",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "Why are leaves not black? Write your own view first."
+  },
+  "viewpoints": [
+    {
+      "en": "Chlorophyll's ancestors evolved in water, under early bacteria that absorbed green and left red and blue to reach deeper. A pigment that caught the leftovers won, and its descendants kept it. Leaves are green because of who lived above them long ago."
+    },
+    {
+      "en": "Full sun delivers more light than a leaf can use; the towers from V.9 L03 jam if photons come too fast, and excess lifts make damaging molecules. Throwing back the brightest colour may protect the machinery. Green is a sunshade."
+    },
+    {
+      "en": "Catching red and blue, at the edges of the sun's spectrum, gives a steadier supply as clouds and canopy shift, because the middle varies most. A steady input beats a big one for a machine that cannot store lifted electrons."
+    },
+    {
+      "en": "None of these is proven, and more than one could be true at once. A living thing's design is history plus physics, and history does not always pick the best physics."
+    }
+  ],
+  "image": {
+    "src": "media/L05-09-05/blk-l05-09-05-s05.webp",
+    "alt": "A leaf held up to sunlight passing through a prism, three candidate reasons floating around it for why it reflects green rather than absorbing every colour."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-06-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A cut apple browns in an hour at room temperature. In the fridge it takes a day. Kabir says \"the fridge has no oxygen\". What is the Crowd's explanation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The fridge has the same oxygen. Its cold particles collide less often and less hard, so the browning reaction runs slower."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The fridge has no oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A fridge is full of ordinary air, and the apple still browns, just slowly. Cold slows the rate; it does not remove a reactant."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Cold apples are drier."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The apple's water is unchanged. Its molecules are just jiggling less."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The fridge light is off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An apple in a dark cupboard browns as fast as one on the table. Temperature is what changed."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask how the change affects collisions. Cold means fewer and softer collisions, so fewer that count."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

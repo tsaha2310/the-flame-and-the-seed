@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-04/blk-l03-08-04-s01.md",
+  "image": {
+    "src": "media/L03-08-04/blk-l03-08-04-s01.webp",
+    "alt": "A homemade waterwheel of a plastic bottle and a bicycle spoke under a tap, its axle thread lifting a paperclip."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

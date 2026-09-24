@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-06/blk-l08-05-06-s01.md",
+  "image": {
+    "src": "media/L08-05-06/blk-l08-05-06-s01.webp",
+    "alt": "Tracing life from a cell back four billion years to a cell with no parent, then asking which of a wall, a tape or machines could have come first, before any could be a cell."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

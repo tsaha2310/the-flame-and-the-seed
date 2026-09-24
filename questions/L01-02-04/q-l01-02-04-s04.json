@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-02-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A negative charge sits far from a positive one, high on the Hill. You let it go. As it falls toward the positive charge, what happens to its energy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its electrical potential energy turns into kinetic energy. It speeds up as it falls, like the marble."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Its potential energy stays the same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "On the charge-hill, \"closer to the opposite charge\" is downhill. Moving closer lowers its potential energy, and the difference has to go somewhere."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its energy disappears when the two charges touch."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Energy is conserved. When the two charges meet, the kinetic energy of the fall becomes warmth, or light, or a spark. Nothing vanishes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It gains energy from the positive charge."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Neither charge is a source. The pair together started high and ended low, and the difference came out as speed."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The pull between opposite charges is a slope. Falling down it converts stored energy into motion, the same as a marble. The spark you see when a charged balloon touches a doorknob is the last bit of that fall becoming light."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

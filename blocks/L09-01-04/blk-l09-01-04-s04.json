@@ -1,0 +1,27 @@
+{
+  "id": "blk-l09-01-04-s04",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "In the Prologue you wrote your first answer. It is here, unchanged. Read it, and then write, under it, what you would say to yourself on the first night."
+  },
+  "viewpoints": [
+    {
+      "en": "The first answer was a list, and the list was true. It was a list of what a loop does when it runs. You were describing the smoke and looking for the fire."
+    },
+    {
+      "en": "The list failed because a flame passed it. The loop passes because a flame cannot: it has the fall and nothing that catches it. The single best question of the whole monsoon was Book III's: where is the load?"
+    },
+    {
+      "en": "The answer is not finished. Four cards are open, and the origin of the first loop is a hypothesis. That is what an answer in science looks like: clear in the middle, honest at the edges."
+    }
+  ],
+  "image": {
+    "src": "media/L09-01-04/blk-l09-01-04-s04.webp",
+    "alt": "A grandmother and a boy reading a first-night answer written months earlier, now adding a new line beneath it in the same notebook, closing the loop of the whole story."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

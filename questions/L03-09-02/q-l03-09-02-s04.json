@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-09-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Silver sits below copper on the ladder. Kabir puts a silver spoon and a copper coin in nimbu and reads the meter. Which way do the electrons flow, and about how many volts?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "From copper to silver, through the wire. Copper is higher, so it gives. The gap is small, about half a volt."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From silver to copper."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Precious means it holds its electrons, which is why it does not tarnish easily. Holding tight is low on the ladder, not high."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No flow; both are shiny metals."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Any two different rungs give a push. Only the same metal on both sides gives zero."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "From copper to silver, at 3 volts."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Volts are the gap between rungs, and copper and silver are close neighbours. Magnesium against silver would be big. Copper against silver is small."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Find both metals on the ladder. The higher one gives. The gap is the volts."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

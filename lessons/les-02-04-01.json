@@ -1,0 +1,34 @@
+{
+  "id": "les-02-04-01",
+  "lessonId": "les-02-04-01",
+  "type": "lesson",
+  "title": {
+    "en": "Ghee on a hot roti"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02-04-01/blk-l02-04-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-01/blk-l02-04-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-01/blk-l02-04-01-s03.json"
+    },
+    {
+      "blockRef": "questions/L02-04-01/q-l02-04-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-01/blk-l02-04-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-01/blk-l02-04-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

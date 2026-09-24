@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-08-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads that \"fermentation is how microbes make energy without oxygen\". What is the honest version?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fermentation makes no energy itself. Glycolysis makes two coins. Fermentation empties the buckets so glycolysis can keep making two coins, over and over, without oxygen."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The label is right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Count the coins in the Lens. Glycolysis: two. Fermentation: zero. The label credits the wrong step."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fermentation makes thirty coins like the powerhouse."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Thirty needs the staircase and oxygen. Fermentation gets two per glucose, which is why it eats so much sugar."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fermentation makes coins from the acid."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The acid is waste, dumped so the bucket can be reused. It still holds most of the glucose's fall, unused."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the coins and the buckets separately. Coins come from glycolysis. Fermentation is the bucket-emptying step, and it is worth nothing in coins and everything in keeping the pipeline open."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

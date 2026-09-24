@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-03-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-03-03/blk-l05-03-03-s01.md",
+  "image": {
+    "src": "media/L05-03-03/blk-l05-03-03-s01.webp",
+    "alt": "A sealed internal bubble travelling to the cell's edge and fusing back into the outer membrane, patching the wall."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

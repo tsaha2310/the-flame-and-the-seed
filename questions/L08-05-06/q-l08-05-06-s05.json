@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-05-06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If nobody has made a self-copying RNA in a lab, the RNA world is disproved.\" What is the state of the evidence?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Not disproved. A hypothesis is tested by what would break it and by what it predicts. The RNA heart of the ribosome and the RNA tools in every cell are what it predicts. The missing self-copier is a gap, not a refutation, and it is being worked on."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Disproved."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Absence of a demonstration is not evidence against. Franklin never saw a helix either."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Proved, because ribosomes are RNA."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is strong support, not proof. Other hypotheses are alive, and the honest word is \"likely\"."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Unknowable, so not science."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Deep-time hypotheses make predictions about present molecules and can be tested in flasks. This one is being tested."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Keep three labels apart: supported, proven, disproved. The RNA world is supported."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

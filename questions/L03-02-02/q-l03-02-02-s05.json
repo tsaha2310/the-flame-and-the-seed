@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-02-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "One mole of carbon weighs 12 g. One mole of oxygen atoms weighs 16 g. Kabir says a mole of carbon \"has fewer atoms because it is lighter\". Is he right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. A mole is always the same count. The carbon mole is lighter because each carbon atom is lighter, not because there are fewer of them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A dozen eggs and a dozen apples are the same count and different weights. So are a mole of carbon and a mole of oxygen."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, a mole of carbon has 12 atoms."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The 12 is the relative mass, and the mole of carbon weighs 12 grams. The count is Avogadro's number, in both cases."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It depends on temperature."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Atom mass does not change with temperature. A mole is a count, and counts do not care about heat."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A mole is a fixed count. Weights differ because atoms differ. That is the whole reason the mole is useful."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

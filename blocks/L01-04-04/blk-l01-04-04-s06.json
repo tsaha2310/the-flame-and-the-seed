@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-04-04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-04-04/blk-l01-04-04-s06.md",
+  "image": {
+    "src": "media/L01-04-04/blk-l01-04-04-s06.webp",
+    "alt": "A salt crystal coming apart into charged spheres in water beside a sugar crystal staying whole, and a wall chart of the elements with deliberate gaps."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

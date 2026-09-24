@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-05/blk-l05-01-05-s01.md",
+  "image": {
+    "src": "media/L05-01-05/blk-l05-01-05-s01.webp",
+    "alt": "A cell drawn about to be broken two ways: stretched too big until it strains, and rebuilt with the wrong wall molecule until it crumbles."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

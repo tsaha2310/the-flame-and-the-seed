@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-05-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If a gene can be spliced five ways, that is really five genes.\" What is the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Five genes would be five separate recipes, each copied from its own promoter and mutated separately. Five splicings of one gene share a promoter, a copy, and every letter of every exon; a mutation in a shared exon changes all five at once."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No difference."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They come from one stretch of tape under one start sign. Count genes by promoters, not by proteins."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Five splicings is fewer than one gene."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A gene is a recipe region. This one gives five products, which is more, not fewer."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Alternative splicing means the gene is broken."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is regulated, not broken. Different cells choose different splicings on purpose."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A gene is a stretch of tape with a promoter. What it yields can be one protein or several. The tape is one thing."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

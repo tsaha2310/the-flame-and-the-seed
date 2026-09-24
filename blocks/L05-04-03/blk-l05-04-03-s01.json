@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-04-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-04-03/blk-l05-04-03-s01.md",
+  "image": {
+    "src": "media/L05-04-03/blk-l05-04-03-s01.webp",
+    "alt": "A boy drawing two contradictory graphs on a notebook, one rising steadily and one rising then falling off a cliff."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

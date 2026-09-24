@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-05-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-05-04/blk-l05-05-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "When ATP binds. Binding is the energy arriving.",
+      "feedback": "Kabir's card: \"Coin goes in, arm moves.\""
+    },
+    {
+      "id": "b",
+      "text": "When the split ATP's pieces leave the pocket, letting the cocked head snap forward against the track."
+    },
+    {
+      "id": "c",
+      "text": "When ATP is split. Splitting releases the energy, and the energy pulls.",
+      "feedback": "Kabir's card: \"Breaking the bond is the push.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-05-04/blk-l05-05-04-s02.webp",
+    "alt": "A motor protein head attached to a track fibre with one ATP coin in its pocket, poised before a pulling motion."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

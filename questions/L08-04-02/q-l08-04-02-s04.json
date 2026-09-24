@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads that a harmful dominant allele causes a disease that appears in adulthood, and says \"so it should have died out, since dominant means everyone who has it gets sick\". Why does it persist?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Because the disease appears after the age at which people have children. The allele is passed on before it does its harm, so selection has little grip on it. Dominance says when it shows in an individual, not whether it spreads."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because dominant alleles are strong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dominant means shows, not spreads. A dominant harmful allele that acts in childhood is very rare, because its carriers rarely have children."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because it keeps mutating fresh."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some do arise fresh, but the main reason this one persists is that it strikes late."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because recessive alleles are weaker."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A harmful recessive hides in carriers, from tomorrow's lessons, and persists for a different reason."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Selection acts on what affects having children. A harm that arrives after that is nearly invisible to it, dominant or not."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

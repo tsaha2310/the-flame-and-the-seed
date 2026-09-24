@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-03-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-03-01/blk-l08-03-01-s07.md",
+  "image": {
+    "src": "media/L08-03-01/blk-l08-03-01-s07.webp",
+    "alt": "A special halving division producing pollen and egg cells with exactly one of each chromosome pair, keeping generations stable."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

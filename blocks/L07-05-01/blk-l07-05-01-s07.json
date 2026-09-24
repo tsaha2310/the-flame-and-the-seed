@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-05-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-05-01/blk-l07-05-01-s07.md",
+  "image": {
+    "src": "media/L07-05-01/blk-l07-05-01-s07.webp",
+    "alt": "A cluster of cells shown with three new things a lone cell never had: a sticking junction, a signal passing between neighbours, and a switch flipping one cell's role."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

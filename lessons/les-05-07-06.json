@@ -1,0 +1,37 @@
+{
+  "id": "les-05-07-06",
+  "lessonId": "les-05-07-06",
+  "type": "lesson",
+  "title": {
+    "en": "Where does lost fat go?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05-07-06/blk-l05-07-06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-06/blk-l05-07-06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-06/blk-l05-07-06-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-06/blk-l05-07-06-s04.json"
+    },
+    {
+      "blockRef": "questions/L05-07-06/q-l05-07-06-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-06/blk-l05-07-06-s06.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-06/blk-l05-07-06-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-04-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the Rr seed is \"fully round, not half round, since it has only half the working genes\". What does the flip show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One working copy makes enough branching enzyme to branch all the starch, because enzymes are catalysts and are not used up, from V.4. Half the enzyme does the whole job a little slower. So the phenotype is the same as RR. That is why R is dominant."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is half round; Mendel did not look closely."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mendel's hybrids were as round as the pure line. The starch in the sim's Rr seed is fully branched."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The R copy repairs the r copy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing repairs the r spelling. It stays broken and is passed on. The R copy simply does the job alone."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The seed uses only the R copy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both are read. The r message makes a useless protein, and the R message makes enough."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Dominance is often just this: one working copy of an enzyme suffices. A catalyst is not used up, so a double amount buys nothing."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

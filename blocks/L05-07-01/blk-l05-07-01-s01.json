@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-01/blk-l05-07-01-s01.md",
+  "image": {
+    "src": "media/L05-07-01/blk-l05-07-01-s01.webp",
+    "alt": "A bean-shaped structure with folded inner shelves, built from two separate outer walls, one smooth and one deeply wrinkled inside the other."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

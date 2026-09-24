@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-03/blk-l08-01-03-s01.md",
+  "image": {
+    "src": "media/L08-01-03/blk-l08-01-03-s01.webp",
+    "alt": "Twenty-two chromosome pairs doubling to forty-four before a cell divides, needing to hand exactly twenty-two to each daughter cell without tangling."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

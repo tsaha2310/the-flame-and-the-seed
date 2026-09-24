@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-07-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-07-04/blk-l08-07-04-s01.md",
+  "image": {
+    "src": "media/L08-07-04/blk-l08-07-04-s01.webp",
+    "alt": "A power-plant organelle and a green leaf structure both shown with two membranes, their own small DNA loop, and bacterial-shaped ribosomes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

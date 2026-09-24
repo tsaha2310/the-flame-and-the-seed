@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir releases a marble from 40 cm up. It races down and climbs the far slope. Where does it stop, with no rubbing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "At 40 cm. Every bit of the potential energy it started with has turned back into potential energy."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Higher than 40 cm, because it picked up speed on the way."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Speed is what the fall bought. Climbing spends it. There is exactly enough to buy back 40 cm and not a centimetre more."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Lower than 40 cm, because going up is harder than going down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "With nothing rubbing, going up costs exactly what going down gave. The marble reaches 40 cm. Real rubbing makes it fall short, and that is the next slide."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "At the bottom, because it is heavy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight decides how hard the Earth pulls, but the height is the same for a light marble and a heavy one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Potential energy at the start sets a budget. Kinetic energy is what the budget buys on the way down. It is all spent buying height back on the far side."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

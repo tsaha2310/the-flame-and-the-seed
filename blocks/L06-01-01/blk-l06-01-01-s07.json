@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-01-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-01-01/blk-l06-01-01-s07.md",
+  "image": {
+    "src": "media/L06-01-01/blk-l06-01-01-s07.webp",
+    "alt": "A researcher stripping proteins, then fats and sugars, from a sample that still transforms, until an enzyme that cuts a double helix finally stops it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "blk-l09-01-01-s02",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "Before you build: after eight Books, what is your own one-sentence answer to Kabir's question? Write it down. Nobody marks this. You will get it back."
+  },
+  "viewpoints": [
+    {
+      "en": "The seed is alive because it keeps its inside different from the outside, on purpose, using energy, and the flame keeps nothing."
+    },
+    {
+      "en": "The seed is alive because it carries instructions and reads them, and the flame has none."
+    },
+    {
+      "en": "The seed is alive because its kind changes over generations, and a flame has no kind."
+    },
+    {
+      "en": "Each of these was a Ledger line, and Kabir broke each of them. Keep yours anyway."
+    }
+  ],
+  "image": {
+    "src": "media/L09-01-01/blk-l09-01-01-s02.webp",
+    "alt": "A boy writing his own one-sentence answer in a fresh notebook, alone at the table before any building begins, the diya unlit and the sky finally clear."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

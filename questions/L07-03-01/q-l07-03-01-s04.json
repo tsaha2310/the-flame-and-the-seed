@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-03-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why a single glowing bacterium \"does not just glow anyway, to be helpful\". What does a lone glow cost?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Coins, for a light no one can see. One cell's glow is invisible; only a million together light the squid. A cell that glows alone spends for nothing, and a cell that waits for the quorum spends only when the light will count."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; glowing is free."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The glow enzyme burns fuel and coins. It is one of the most expensive things a bacterium does."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It would blind the others."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One cell's light is far too faint to affect anything, which is the point."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It would be seen by fish."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The squid wants to be seen, as moonlight. The lone cell's problem is waste, not danger."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Some jobs only pay when done together. Quorum sensing lets each cell wait until enough others will join in."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

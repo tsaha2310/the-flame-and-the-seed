@@ -1,0 +1,61 @@
+{
+  "id": "q-l00-01-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the dry seeds in the dabba are dead too, \"because they do nothing, like the boiled ones.\" What is the difference between a dry seed and a boiled seed?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A dry seed will sprout when it gets water. A boiled seed will not, however long it soaks."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No difference. Both are dead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The dry seeds you soaked two days ago are sprouting now. Doing nothing while waiting is not the same as being unable."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The dry seed is dead and the water brings it back to life."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If water were the magic, the boiled seed would sprout too. It has the same water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The boiled seed is just slower."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Lens ran ten days and can run a hundred. Nothing happens, ever."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A seed that is waiting is called dormant. It is alive but switched off, doing almost nothing, until water arrives. The boiled seed is not waiting. It cannot start, with or without water."
+  },
+  "hints": [],
+  "tags": [
+    "mod-00-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-06-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-06-02/blk-l08-06-02-s01.md",
+  "image": {
+    "src": "media/L08-06-02/blk-l08-06-02-s01.webp",
+    "alt": "A tiger being filed step by step through seven nested classification drawers from broadest to narrowest."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Boron trifluoride has three very polar boron-fluorine bonds, arranged in a flat triangle at 120 degrees. Is the molecule polar?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. Three equal arrows at 120 degrees add up to zero. The bonds are polar; the molecule is not."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, very."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The count does not matter. The directions do. Three equal pulls spread evenly around a point cancel exactly."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, a bit."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They can. Three equal arrows at exactly 120 degrees sum to zero, the same way three children pulling a ring equally hard from three corners leave it still."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only when it is hot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The arrows come from pull scores and shape, neither of which depends on temperature."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Draw the arrows and add them tip to tail. A symmetric shape returns you to where you started. Water's bend is what breaks the symmetry."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

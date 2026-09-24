@@ -1,0 +1,64 @@
+{
+  "id": "q-l03-09-06-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the Hill's story in the order this Book told it."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A reaction is atoms re-gripping, and the balance checks every equation."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Bonds cost to break and pay to make; the difference is heat."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A hump blocks the way, and a catalyst lowers the hump but never the valley."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Free energy counts heat and ways together; every reaction runs to its valley floor."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "One fall can be coupled to lift another, through a wheel."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "A battery is a fall with a load; a flame is a fall with none."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

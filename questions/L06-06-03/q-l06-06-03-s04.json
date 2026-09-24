@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-06-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir sets a diet of glucose and lactose together and is surprised the lactose gene is nearly off. He says \"lactose is there, the repressor should have let go\". Why is the gene quiet?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The repressor has let go, but the helper is not bound, because glucose is plentiful and the scarcity signal is low. Without the helper, the copyist barely lands. Both conditions are needed for full speed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The repressor is still on."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The repressor is off. Check the readout. The gene is quiet because of the other input."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Glucose poisons the lactose enzyme."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Glucose does nothing to the enzyme. It lowers the signal that the helper needs."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The gene needs time."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An hour on the same diet gives the same trickle. The logic is AND NOT, and one input is missing."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two switches in series. Repressor off is necessary. Helper on is also necessary. Only both give full copying."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

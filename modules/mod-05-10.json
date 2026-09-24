@@ -1,0 +1,56 @@
+{
+  "id": "mod-05-10",
+  "moduleId": "mod-05-10",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.10 Photosynthesis: sugar from air"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "calvin-cycle",
+      "rubisco",
+      "g3p",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-10-01.json",
+      "title": {
+        "en": "RuBisCO"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-10-02.json",
+      "title": {
+        "en": "Carbon count"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-10-03.json",
+      "title": {
+        "en": "Calvin's labelled carbon"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-10-04.json",
+      "title": {
+        "en": "One loop, two halves"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-10-05.json",
+      "title": {
+        "en": "An Earth with no photosynthesis"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-10-06.json",
+      "title": {
+        "en": "Ledger duel V"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-02-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the cell does not just close all its channels, \"then nothing would leak, and no pump would be needed\". What would that cost?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A cell uses the gradient. Ions flowing back down through channels, on purpose, power nerves, carry sugar in, and move water. A battery with no wires is useless. The leak is partly the point."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it would save a third of the food."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sealed cell cannot fire a nerve, absorb sugar or adjust its water. The saved coins buy a cell that does nothing."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The channels cannot be closed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Many channels open and close, which is Book VII. The question is what a permanently sealed cell could do, and the answer is little."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The pump would break without work."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pump is a protein. It does not wear from resting. The problem is the battery with no circuit."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The gradient is stored to be spent. Channels are where it is spent, on purpose. A pump and no channels is a battery in a drawer."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

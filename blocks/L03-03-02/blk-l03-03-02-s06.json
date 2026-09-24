@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-03-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-03-02/blk-l03-03-02-s06.md",
+  "image": {
+    "src": "media/L03-03-02/blk-l03-03-02-s06.webp",
+    "alt": "A tug-of-war rope between two atoms drawn on a blackboard, with a number chalked over each atom."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

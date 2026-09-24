@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-02-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-02-02/blk-l03-02-02-s06.md",
+  "simulation": {
+    "src": "simulations/L03-02-02/MoleCounterScene-small-dozen.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

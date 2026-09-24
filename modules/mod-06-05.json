@@ -1,0 +1,48 @@
+{
+  "id": "mod-06-05",
+  "moduleId": "mod-06-05",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VI.5 Inside the nucleus"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "chromatin",
+      "nuclear-envelope",
+      "nuclear-pore",
+      "intron",
+      "exon",
+      "splicing",
+      "alternative-splicing",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-06-05-01.json",
+      "title": {
+        "en": "The pores"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-05-02.json",
+      "title": {
+        "en": "Splice editor"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-05-03.json",
+      "title": {
+        "en": "One gene, several proteins"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-05-04.json",
+      "title": {
+        "en": "One letter off"
+      }
+    }
+  ]
+}

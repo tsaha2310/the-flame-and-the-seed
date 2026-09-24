@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-03-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Ajji says the reason turmeric stains come out with soap and not with water alone is the same reason soap cleans grease. Kabir says \"turmeric is not grease\". What is the connection?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The yellow molecule in turmeric is oily, which is why it dissolved in the ghee in III.5. Soap's tails grab it as they grab grease, and the heads let water carry it off."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No connection; soap is just strong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Soap has no power of its own. It has two ends. Anything oily can be lifted by the tails."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Soap dissolves the shirt."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A shirt washed a hundred times is still a shirt. Soap lifts what is oily and leaves the cotton."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Turmeric reacts with soap and turns red, which is cleaning."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The red is the indicator trick from III.7 and comes back yellow with rinsing. Cleaning is the micelle."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask whether the stain is oily. If it is, the tails can hold it and the heads can carry it. Water alone cannot touch it."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

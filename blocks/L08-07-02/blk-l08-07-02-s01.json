@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-07-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-07-02/blk-l08-07-02-s01.md",
+  "image": {
+    "src": "media/L08-07-02/blk-l08-07-02-s01.webp",
+    "alt": "A koel egg in a crow's nest hatching into a chick that grows larger than the crow's own chicks and pushes them out, beside a remora riding a shark."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

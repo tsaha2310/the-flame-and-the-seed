@@ -1,0 +1,1 @@
+**Ledger line, written:** Flame - fats only, burning. Live seed - fats, sugars, proteins folded, RNA, DNA. Boiled seed - the same, with every protein unfolded. Verdict: the boiled seed has the same molecules. A difference in shape only, and Kabir asks why a shape cannot simply be put back.

@@ -1,0 +1,34 @@
+{
+  "id": "les-05-05-01",
+  "lessonId": "les-05-05-01",
+  "type": "lesson",
+  "title": {
+    "en": "Coupling through ATP"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05-05-01/blk-l05-05-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05-05-01/blk-l05-05-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05-05-01/blk-l05-05-01-s03.json"
+    },
+    {
+      "blockRef": "questions/L05-05-01/q-l05-05-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05-05-01/blk-l05-05-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05-05-01/blk-l05-05-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-08-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Photosynthesis makes sugar and oxygen from carbon dioxide and water. Burning sugar in oxygen is exergonic and runs to completion. What does that make photosynthesis?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Strongly endergonic. It is burning run backwards, uphill in free energy, and it cannot run by itself. Something must push it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Also exergonic, because plants do it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It happens because something pushes. A ball rolling uphill is being pushed. The push is Book V."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Neither; it is a different reaction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Write both equations. One is the other reversed, atom for atom."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Exergonic in the day and endergonic at night."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sunlight supplies the push. The reaction is uphill day and night; the day is when the push is available."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The reverse of an exergonic reaction is endergonic by exactly the same amount. Whatever falls one way must be lifted the other."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

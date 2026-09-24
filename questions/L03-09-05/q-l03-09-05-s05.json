@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-09-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir wraps the torch battery's terminals in a strip of foil and it gets too hot to hold. He says \"the battery is broken\". What has happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "He has short-circuited it. The chemical fall inside is running as fast as it can with nothing to do work, and all of it is coming out as heat. It is not broken yet, but it will drain and may leak."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The battery is broken."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hot means running hard with no load. Take the foil off and it will still light the torch, for a while."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The foil is a fuel."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The foil is a wire. Nothing about it is reacting. It carries the electrons and gets warm doing it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The battery is charging from the foil."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Foil gives nothing. The battery is giving, and giving all of it as heat."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A path with no load is a short. The reaction's free energy still has to go somewhere, and heat is where free energy goes when nothing catches it."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

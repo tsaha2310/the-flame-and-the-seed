@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-04-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A message reads AUG GCU UAC GGA UAA. One letter is deleted from the second codon: AUG CUU ACG GAU AA. Kabir says \"only the second bead changes\". What does the ribosome make?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Methionine, then leucine, threonine, aspartate, and then it runs off the end without a stop. Every bead after the deletion is different, because the frame shifted."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Methionine, then a different second bead, then tyrosine, glycine, stop."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ribosome does not know a letter is missing. It reads the next three, and the next, and all of them have moved."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing; the ribosome detects the missing letter and stops."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It cannot notice. There is no marker for \"a letter was here\". It reads what it finds."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Methionine, alanine, tyrosine, glycine, stop, unchanged."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Read the shifted codons yourself. CUU, ACG, GAU. All different."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "After a deletion, regroup the letters in threes from the start. Every codon after the change is new. That is a frameshift."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

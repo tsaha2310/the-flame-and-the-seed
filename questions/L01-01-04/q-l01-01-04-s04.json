@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-01-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "You have 4 g of hydrogen and 16 g of oxygen. You combine them into water. What is left over?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "2 g of hydrogen. Water needs 1 g of hydrogen per 8 g of oxygen, so 16 g of oxygen uses only 2 g."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "4 to 16 is 1 to 4. Water is 1 to 8. Half the hydrogen has no oxygen to join."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "8 g of oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All 16 g of oxygen get used, because 2 g of hydrogen is enough to take all of it. It is hydrogen that is in excess."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It depends on how hot you make it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heat changes how fast the joining happens, never the recipe. Grains join in whole numbers at any temperature."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Divide the oxygen by 8 to find how much hydrogen it can take. 16 divided by 8 is 2. You had 4. Two grams stay behind."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

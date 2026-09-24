@@ -1,0 +1,46 @@
+{
+  "id": "mod-04-07",
+  "moduleId": "mod-04-07",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.7 RNA: the tape that folds"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "rna",
+      "sugar-phosphate-backbone",
+      "base-pairing",
+      "hairpin",
+      "the-tape",
+      "information"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-07-01.json",
+      "title": {
+        "en": "The spine"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-07-02.json",
+      "title": {
+        "en": "Pairs"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-07-03.json",
+      "title": {
+        "en": "Hairpin"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-07-04.json",
+      "title": {
+        "en": "One kind of letter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-04-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-04/blk-l08-05-04-s07.md",
+  "image": {
+    "src": "media/L08-05-04/blk-l08-05-04-s07.webp",
+    "alt": "Two finch populations tested for successful interbreeding, the key test for whether time and separate selection have made them two separate species."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

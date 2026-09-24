@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-05-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-05-01/blk-l03-05-01-s06.md",
+  "image": {
+    "src": "media/L03-05-01/blk-l03-05-01-s06.webp",
+    "alt": "A boy spooning sugar into a glass, the eighth spoon leaving a pile that sits undissolved on the bottom."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "blk-l08-05-06-s04",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "Where do you think the line between a self-copying molecule and a living thing is? Write your view first."
+  },
+  "viewpoints": [
+    {
+      "en": "A copier with variation and selection is already evolving, and evolving is the thing that makes the living world what it is. The first RNA copier was the first living thing, wall or no wall."
+    },
+    {
+      "en": "Living things keep an inside different from an outside, from Book V. Without a wall, a copier is a chemical in a pool, however clever. Life began when a copier ended up inside a bubble that its products could sustain."
+    },
+    {
+      "en": "There is no line. There is a slope from chemistry to cells, and asking exactly where life starts on it is like asking exactly which drop makes a puddle a pond. The question that matters is what changed along the slope, and the course has answered that: a tape, a wall, a flow of energy."
+    },
+    {
+      "en": "Ajji's torn page is about this, and you will see it in the Epilogue."
+    }
+  ],
+  "image": {
+    "src": "media/L08-05-06/blk-l08-05-06-s04.webp",
+    "alt": "A gentle slope rising from ordinary chemistry to a fully living cell, with a simple self-copying molecule sitting somewhere on the slope, no clear line marking where life begins."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

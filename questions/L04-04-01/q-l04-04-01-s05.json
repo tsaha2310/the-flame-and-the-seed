@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-04-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Fructose is sweeter than glucose, gram for gram, though they have the same atoms. Kabir says \"so fructose has more sugar in it\". What is the better reading?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sweetness is not an amount of sugar; it is how well a molecule fits the tongue's detector. Fructose's shape fits better. Same atoms, different shape, different fit."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Fructose has more sugar."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A gram of fructose and a gram of glucose are the same atoms in the same amount. The difference is arrangement."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fructose has more oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same formula. Six carbons, twelve hydrogens, six oxygens, in both."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The tongue is confused."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tongue is doing exactly its job: it reads shape. A different shape reads differently."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Isomers have the same atoms and different shapes. A detector that reads shape, which is what your tongue is, will read them differently."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

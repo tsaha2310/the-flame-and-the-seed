@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-02-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06-02-01/blk-l06-02-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The DNA itself, briefly, and then it comes back.",
+      "feedback": "Kabir's card: \"Borrow it and return it.\""
+    },
+    {
+      "id": "b",
+      "text": "A single-strand RNA copy of just that gene, made by pairing letters against the DNA."
+    },
+    {
+      "id": "c",
+      "text": "Nothing. The protein is made in the nucleus and sent out.",
+      "feedback": "Kabir's card: \"Make it where the recipe is.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L06-02-01/blk-l06-02-01-s02.webp",
+    "alt": "A cell nucleus holding DNA that must stay inside, with an empty path leading out to the workshop floor beyond the wall."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

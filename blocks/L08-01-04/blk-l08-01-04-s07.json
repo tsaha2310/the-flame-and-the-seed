@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-04-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-04/blk-l08-01-04-s07.md",
+  "image": {
+    "src": "media/L08-01-04/blk-l08-01-04-s07.webp",
+    "alt": "Two DNA strands from a clone and its parent shown nearly but not perfectly identical, a few letters differing, both plants growing fast and alike."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

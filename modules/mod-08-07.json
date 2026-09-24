@@ -1,0 +1,47 @@
+{
+  "id": "mod-08-07",
+  "moduleId": "mod-08-07",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VIII.7 Living together"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "mutualism",
+      "nitrogen-fixation",
+      "rhizobia",
+      "commensalism",
+      "parasitism",
+      "arms-race",
+      "endosymbiosis"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-08-07-01.json",
+      "title": {
+        "en": "Pink nodules"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-07-02.json",
+      "title": {
+        "en": "Who pays?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-07-03.json",
+      "title": {
+        "en": "Running to stay in place"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-07-04.json",
+      "title": {
+        "en": "The bacteria inside you"
+      }
+    }
+  ]
+}

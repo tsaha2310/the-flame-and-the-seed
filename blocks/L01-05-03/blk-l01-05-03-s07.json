@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-03/blk-l01-05-03-s07.md",
+  "image": {
+    "src": "media/L01-05-03/blk-l01-05-03-s07.webp",
+    "alt": "A notebook page with two drawings, a ball on a hill and a tug-of-war rope, beside a cracked salt crystal and a small hammer."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

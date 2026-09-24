@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-04-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-04-03/blk-l08-04-03-s07.md",
+  "image": {
+    "src": "media/L08-04-03/blk-l08-04-03-s07.webp",
+    "alt": "A pink hybrid snapdragon between red and white parents, and a blood cell surface showing two different marker types both displayed at once."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

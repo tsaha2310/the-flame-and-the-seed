@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-03/blk-l05-10-03-s01.md",
+  "image": {
+    "src": "media/L05-10-03/blk-l05-10-03-s01.webp",
+    "alt": "A 1950s scientist with a flat lollipop-shaped glass flask of green algae, squirting in tagged carbon dioxide and draining into boiling alcohol every few seconds."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

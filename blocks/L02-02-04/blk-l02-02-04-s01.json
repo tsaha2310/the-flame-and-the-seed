@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-04/blk-l02-02-04-s01.md",
+  "image": {
+    "src": "media/L02-02-04/blk-l02-02-04-s01.webp",
+    "alt": "A boy joining dough-ball carbons with matchsticks into a growing chain, each ball with four sticks pointing at pyramid corners."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

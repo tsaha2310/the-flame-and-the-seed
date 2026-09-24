@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-01-03/blk-l02-01-03-s01.md",
+  "image": {
+    "src": "media/L02-01-03/blk-l02-01-03-s01.webp",
+    "alt": "A boy scowling at a glass of sugar water with a dark LED, while a grandmother sets a tug-of-war rope between two atom balls on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

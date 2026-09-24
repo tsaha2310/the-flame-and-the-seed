@@ -1,0 +1,58 @@
+{
+  "id": "mod-04-05",
+  "moduleId": "mod-04-05",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.5 Add nitrogen and sulphur: proteins"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "amino-acid",
+      "amine-group",
+      "side-chain",
+      "peptide-bond",
+      "protein",
+      "sequence",
+      "fold",
+      "helix-and-sheet",
+      "sulphur-bridge",
+      "denature",
+      "lock-and-shape",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-05-01.json",
+      "title": {
+        "en": "Paneer"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-05-02.json",
+      "title": {
+        "en": "The chain"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-05-03.json",
+      "title": {
+        "en": "Fold-it"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-05-04.json",
+      "title": {
+        "en": "Shape is the job"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-05-05.json",
+      "title": {
+        "en": "Swap one bead"
+      }
+    }
+  ]
+}

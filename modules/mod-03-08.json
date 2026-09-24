@@ -1,0 +1,53 @@
+{
+  "id": "mod-03-08",
+  "moduleId": "mod-03-08",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.8 Why anything happens"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "entropy",
+      "free-energy",
+      "exergonic",
+      "endergonic",
+      "valley-floor",
+      "coupling",
+      "the-levelling"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-08-01.json",
+      "title": {
+        "en": "Ink never gathers back"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-08-02.json",
+      "title": {
+        "en": "Why ice melts"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-08-03.json",
+      "title": {
+        "en": "Downhill by itself"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-08-04.json",
+      "title": {
+        "en": "The waterwheel"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-08-05.json",
+      "title": {
+        "en": "The Levelling"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "q-l04-08-06-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each molecule into its family."
+  },
+  "categories": [
+    {
+      "id": "fat",
+      "label": {
+        "en": "Fat"
+      }
+    },
+    {
+      "id": "sugar",
+      "label": {
+        "en": "Sugar"
+      }
+    },
+    {
+      "id": "protein",
+      "label": {
+        "en": "Protein"
+      }
+    },
+    {
+      "id": "nucleotide-chain",
+      "label": {
+        "en": "Nucleotide chain"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "a glycerol with three long tails"
+      },
+      "correctCategoryId": "fat"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "a ring of five carbons and an oxygen, crowded with hydroxyls"
+      },
+      "correctCategoryId": "sugar"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "a chain of two hundred beads, each with a side chain, folded with oily beads inside"
+      },
+      "correctCategoryId": "protein"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "a double helix two nanometres wide"
+      },
+      "correctCategoryId": "nucleotide-chain"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "starch"
+      },
+      "correctCategoryId": "sugar"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "the cutter in saliva"
+      },
+      "correctCategoryId": "protein"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "a seventy-six-letter strand folded into a clover leaf"
+      },
+      "correctCategoryId": "nucleotide-chain"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "the oil in the diya"
+      },
+      "correctCategoryId": "fat"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "image": {
+    "src": "media/L04-08-06/q-l04-08-06-s04.webp",
+    "alt": "A scattered set of biological molecules waiting to be sorted into families: a three-tailed fat, a sugar ring, a folded bead chain, a double helix, starch, a saliva enzyme, a clover-leaf strand, lamp oil."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

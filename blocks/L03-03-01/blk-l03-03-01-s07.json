@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-03-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-03-01/blk-l03-03-01-s07.md",
+  "image": {
+    "src": "media/L03-03-01/blk-l03-03-01-s07.webp",
+    "alt": "A lump of sodium burning with a yellow flame inside a jar of pale green gas, white smoke pouring out, with no oxygen anywhere."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

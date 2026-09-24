@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-03-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir heats the sodium as hard as the dial allows. The yellow light gets brighter but stays yellow. Why does it not turn blue?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Brighter means more photons per second. Each one still comes from the same fall between the same two rungs, so each one is still yellow."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The sim is capped."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A real sodium flame at 3000 degrees is the same yellow as at 1500. The rungs do not move with heat."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sodium does not have blue."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sodium has higher rungs and can give blue photons, but they are rare, and the yellow fall is the one that happens most. Brightness does not shift which fall is common."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Yellow and blue mix to make white."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The colour strip separates the colours. It shows a strong yellow line and no strong blue one, however hot."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Heat changes how often electrons are knocked up, not the size of the rungs. Colour is the rung spacing. Brightness is the rate."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

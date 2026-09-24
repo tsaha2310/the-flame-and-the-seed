@@ -1,0 +1,14 @@
+{
+  "id": "blk-l00-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L00-01-01/blk-l00-01-01-s01.md",
+  "image": {
+    "src": "media/L00-01-01/blk-l00-01-01-s01.webp",
+    "alt": "A single brass oil-lamp flame in a dark verandah during a monsoon night, an eight-year-old boy staring at it while rain streaks past the doorway."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

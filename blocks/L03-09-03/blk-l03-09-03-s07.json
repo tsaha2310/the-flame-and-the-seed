@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-09-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-09-03/blk-l03-09-03-s07.md",
+  "image": {
+    "src": "media/L03-09-03/blk-l03-09-03-s07.webp",
+    "alt": "An inverter humming as its battery charges, electrons pushed back into the plates, drawn as water being pumped up a hill."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

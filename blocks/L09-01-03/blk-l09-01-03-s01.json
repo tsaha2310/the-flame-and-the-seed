@@ -1,0 +1,14 @@
+{
+  "id": "blk-l09-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L09-01-03/blk-l09-01-03-s01.md",
+  "image": {
+    "src": "media/L09-01-03/blk-l09-01-03-s01.webp",
+    "alt": "A torn notebook page in a child's round handwriting listing seven signs of life, a tick against each, and one word written hard beneath: a flame passes them all."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

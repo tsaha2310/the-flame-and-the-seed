@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-07-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Blood is pH 7.4. A fizzy drink is pH 3. Kabir says \"so the drink is about four and a half times more acid than blood\". What is the real ratio?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "About 25,000 times. Four and a half steps of ten each: ten thousand times for the four steps, and the half step is about three more."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Four and a half times."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "pH is not a plain count. Subtracting gives the number of ten-times steps, not the ratio."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Ten times."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each step is ten. There are four and a half steps. Ten multiplied by itself four and a half times."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It cannot be compared."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Anything with water in it has some hydrogen ions and a pH. Blood is slightly on the base side of 7, and the ratio is still a real number."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count the steps, then multiply ten by itself that many times. Two steps is a hundred, three is a thousand. Half a step is about three."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

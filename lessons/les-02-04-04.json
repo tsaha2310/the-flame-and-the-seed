@@ -1,0 +1,34 @@
+{
+  "id": "les-02-04-04",
+  "lessonId": "les-02-04-04",
+  "type": "lesson",
+  "title": {
+    "en": "Ice floats"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02-04-04/blk-l02-04-04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-04/blk-l02-04-04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-04/blk-l02-04-04-s03.json"
+    },
+    {
+      "blockRef": "questions/L02-04-04/q-l02-04-04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-04/blk-l02-04-04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-04/blk-l02-04-04-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

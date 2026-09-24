@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-05-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A drop of ink takes ten minutes to spread through a glass 5 cm across. Kabir says it will take twenty minutes for a glass 10 cm across. What does the random walk say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "About forty minutes. A walker needs four times the steps to go twice the distance."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Twenty minutes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is true for a walker in a straight line. A random walker doubles back constantly, and twice the distance costs four times the steps."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Ten minutes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ink has no speed of its own. It has a step rate, and distance covered grows only with the square root of the steps."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It never spreads through a bigger glass."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It always spreads. It just takes longer, and more than proportionally."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Distance grows with the square root of steps. Doubling distance means four times the steps, so four times the time."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

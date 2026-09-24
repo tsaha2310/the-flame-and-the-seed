@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-03-02/blk-l07-03-02-s01.md",
+  "image": {
+    "src": "media/L07-03-02/blk-l07-03-02-s01.webp",
+    "alt": "A bacterium's internal switch protein with a pocket that only activates once enough of the leaked molecule accumulates around it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

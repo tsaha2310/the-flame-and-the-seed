@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Milk turns to dahi overnight. Kabir says it is not a reaction \"because nothing new is added, it is the same milk\". What decides?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Whether grips have changed. Milk's sugar has been re-gripped into an acid by the microbes, which is why dahi is sour and thick. That is a reaction, even with nothing added."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Whether something was added."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The soda and the nimbu were two things, but a single thing can react on its own, like a firework or a rotting fruit. What counts is re-gripping."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Whether it fizzes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nail in copper sulphate did not fizz and was a reaction. Gas is one sign, not the only one."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Whether it can be undone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Many reactions cannot easily be run backwards. Burning is one. That does not make them less of a reaction."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Look past what was added and ask what the atoms are doing. Dahi tastes different because different molecules are present, and different molecules means new grips."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-02/blk-l08-08-02-s01.md",
+  "image": {
+    "src": "media/L08-08-02/blk-l08-08-02-s01.webp",
+    "alt": "A garden food web drawn as arrows from moong and grass through caterpillars and sparrows up to a cat and a mongoose, tracking energy at each step."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

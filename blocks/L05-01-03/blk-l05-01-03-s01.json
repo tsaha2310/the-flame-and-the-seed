@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-03/blk-l05-01-03-s01.md",
+  "image": {
+    "src": "media/L05-01-03/blk-l05-01-03-s01.webp",
+    "alt": "The inside of a root cell described as a house with rooms, a grandmother correcting a boy to describe each room's chemistry instead."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

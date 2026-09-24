@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-03-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Carbon pulls with a score of 2.5, oxygen with 3.4, hydrogen with 2.2, chlorine with 3.2. Which bond is the most polar?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Carbon-oxygen. The difference is 0.9, the largest of the four."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Carbon-hydrogen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size is not the score. Carbon and hydrogen differ by only 0.3. The cloud is nearly centred."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Carbon-chlorine."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorine steals from sodium, whose score is 0.9. Against carbon the difference is 0.7, a lean, not a steal, and smaller than carbon-oxygen's 0.9."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Carbon-carbon."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two of the same atom pull equally. Difference zero. A perfectly fair share, never polar."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Polarity is the gap between the two scores. Two identical atoms have no gap. Oxygen against carbon has the biggest gap on this list."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

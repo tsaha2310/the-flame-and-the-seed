@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-01/blk-l05-10-01-s06.md",
+  "image": {
+    "src": "media/L05-10-01/blk-l05-10-01-s06.webp",
+    "alt": "A six-carbon intermediate immediately splitting into two identical three-carbon pieces after the carbon dioxide is added."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

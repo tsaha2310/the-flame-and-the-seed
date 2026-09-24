@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-05-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-05-02/blk-l04-05-02-s01.md",
+  "image": {
+    "src": "media/L04-05-02/blk-l04-05-02-s01.webp",
+    "alt": "Twenty kinds of coloured bead and an impossibly long necklace of a hundred, with a number so large the boy gives up counting."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

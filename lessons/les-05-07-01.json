@@ -1,0 +1,34 @@
+{
+  "id": "les-05-07-01",
+  "lessonId": "les-05-07-01",
+  "type": "lesson",
+  "title": {
+    "en": "Two membranes"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05-07-01/blk-l05-07-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-01/blk-l05-07-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-01/blk-l05-07-01-s03.json"
+    },
+    {
+      "blockRef": "questions/L05-07-01/q-l05-07-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-01/blk-l05-07-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-01/blk-l05-07-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

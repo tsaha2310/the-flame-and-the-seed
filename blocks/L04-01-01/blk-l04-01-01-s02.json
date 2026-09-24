@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-01-01/blk-l04-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Only minerals. Nothing that a living body makes can come out of a mineral flask.",
+      "feedback": "Kabir's card: \"Dead stuff makes dead stuff.\""
+    },
+    {
+      "id": "b",
+      "text": "Urea, the same molecule a kidney makes."
+    },
+    {
+      "id": "c",
+      "text": "Something alive.",
+      "feedback": "Kabir's card: \"If he gets living stuff, it will be alive.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-01-01/blk-l04-01-01-s02.webp",
+    "alt": "A chemist heating a white mineral salt in a flask, with no plant or animal anywhere, and white crystals forming."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

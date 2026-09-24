@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-03-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In the straight-water world, salt does not dissolve. Kabir says \"so salt would be useless\". What does the failure to dissolve actually tell you?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Dissolving salt needs water's charged corners to pull each ion away from the lattice. Straight water has no charged corners, so the lattice holds."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Salt would be too hard."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hardness is not the issue; the same salt dissolves in bent water and it is the same crystal. What changed is what the water can grab."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Straight water is too cold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sim holds the glass at room temperature. It is a liquid there only because the sim forces it; the salt still will not dissolve, because the water has no partial charges."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Salt would dissolve in oil instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oil has no charged corners either. Salt in oil does exactly what salt in straight water does: nothing."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Dissolving is a pull. The puller is the partial charge on the water molecule. Remove the bend, remove the charge, remove the pull."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

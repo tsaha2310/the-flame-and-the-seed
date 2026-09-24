@@ -1,0 +1,31 @@
+{
+  "id": "q-l03-09-06-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book III line. What reaction does the flame run, what reaction does the seed run, and is there a difference?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "Both run the same reaction: fuel plus oxygen gives carbon dioxide and water, downhill in free energy. Same equation, same energy released. On paper they are identical. The only crack found is that the flame is a short circuit, all heat, while the seed must have a load somewhere that catches part of the fall as work. The boiled seed has the same fuel and does not burn at all, which the paper cannot explain."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

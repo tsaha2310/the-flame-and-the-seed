@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-01-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Then cells should have a dial and make more errors when the world is changing, and fewer when it is stable.\" Does anything like that exist?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Something like it. Some bacteria under stress switch on sloppier copiers, raising their error rate when things are bad. But no cell can know which error will help, so the dial only raises the odds. It cannot aim."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No; error rates are fixed forever."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stress responses that raise mutation rates are real and well studied in bacteria."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, and cells choose the useful mutations."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing can aim a slip at the letter that would help. Mutations are random; selection is not. That sentence is the whole of VIII.5."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Yes; that is what proofreading is for."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Proofreading removes mismatches regardless of what they would do. It cannot tell a helpful change from a harmful one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A cell can change how many slips it makes, not which. The rate can be tuned. The direction never can."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

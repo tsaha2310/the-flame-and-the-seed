@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-05/blk-l01-05-05-s01.md",
+  "image": {
+    "src": "media/L01-05-05/blk-l01-05-05-s01.webp",
+    "alt": "Three balances each under a sealed glass jar holding a dry seed, a boiled seed, and a dish of lamp oil, with a match ready."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

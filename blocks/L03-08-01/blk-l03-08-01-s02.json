@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-08-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-08-01/blk-l03-08-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both equally likely. Every arrangement has the same chance.",
+      "feedback": "Kabir's card: \"Each toss is fifty-fifty, so each outcome is the same.\""
+    },
+    {
+      "id": "b",
+      "text": "Five and five, because there are far more ways to get it."
+    },
+    {
+      "id": "c",
+      "text": "All heads, because it is neater.",
+      "feedback": "Kabir's card: \"Neat things happen more.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-08-01/blk-l03-08-01-s02.webp",
+    "alt": "Ten coins tossed into the air, spinning, about to land, with two possible outcomes sketched faintly below: all heads, or five and five."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

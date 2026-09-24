@@ -1,0 +1,49 @@
+{
+  "id": "mod-04-04",
+  "moduleId": "mod-04-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.4 Add more oxygen: sugars"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "glucose",
+      "sugar-as-a-molecule-family",
+      "condensation",
+      "hydrolysis",
+      "disaccharide",
+      "starch",
+      "cellulose",
+      "glycogen",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-04-01.json",
+      "title": {
+        "en": "Chew the roti"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-04-02.json",
+      "title": {
+        "en": "Join by losing water"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-04-03.json",
+      "title": {
+        "en": "Same bead, different link"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-04-04.json",
+      "title": {
+        "en": "Flip every link in rice"
+      }
+    }
+  ]
+}

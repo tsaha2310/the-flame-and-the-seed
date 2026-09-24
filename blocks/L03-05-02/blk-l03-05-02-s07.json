@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-05-02-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-05-02/blk-l03-05-02-s07.md",
+  "image": {
+    "src": "media/L03-05-02/blk-l03-05-02-s07.webp",
+    "alt": "A single drop of blue ink hanging in a jug of still water, just released from a dropper."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

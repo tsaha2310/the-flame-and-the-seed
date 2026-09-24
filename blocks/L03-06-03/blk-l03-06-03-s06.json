@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-06-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-06-03/blk-l03-06-03-s06.md",
+  "image": {
+    "src": "media/L03-06-03/blk-l03-06-03-s06.webp",
+    "alt": "A seed sitting beside a track where every hump has been lowered, a lamp beside a track with a high hump, and two doorways between rooms."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-04-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An antibiotic that jams bacterial ribosomes is prescribed for an infection. Kabir says \"so it stops all protein-making in the body\". Why is that wrong, and where is there a risk?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Human ribosomes have a different shape and are not jammed, so the body's proteins are made as usual. The risk is the mitochondria: their ribosomes are bacterial in shape, from their history in Book VIII, and some antibiotics touch them, which is why a few have side effects."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It does stop all protein-making."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If it did, the patient would die in hours. It fits one shape and not the other."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It only works on the infection because bacteria are smaller."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size of the cell is not it. The ribosome's slot is shaped differently."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It works on any cell without a nucleus."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nucleus has nothing to do with it. The ribosome's shape does."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask which molecule the drug fits. If it fits the bacterial ribosome and not the human one, it is selective. If it also fits mitochondrial ribosomes, expect side effects."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

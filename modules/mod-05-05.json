@@ -1,0 +1,55 @@
+{
+  "id": "mod-05-05",
+  "moduleId": "mod-05-05",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.5 Spending ATP"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "none-exergonic-and-endergonic-reused",
+      "glycogenin",
+      "glycogen-synthase",
+      "branching-enzyme",
+      "glycogen-phosphorylase",
+      "debranching-enzyme",
+      "myosin",
+      "actin",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-05-01.json",
+      "title": {
+        "en": "Coupling through ATP"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-05-02.json",
+      "title": {
+        "en": "The sugar bank: deposit"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-05-03.json",
+      "title": {
+        "en": "The sugar bank: withdraw"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-05-04.json",
+      "title": {
+        "en": "Myosin"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-05-05.json",
+      "title": {
+        "en": "Rigor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-03-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-03-04/blk-l07-03-04-s01.md",
+  "image": {
+    "src": "media/L07-03-04/blk-l07-03-04-s01.webp",
+    "alt": "A quorum-sensing switch set to trigger alone, a cheater cell taking protection without leaking signal, and a molecule jamming the sensing pocket."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

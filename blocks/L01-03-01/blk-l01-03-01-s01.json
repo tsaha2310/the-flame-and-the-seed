@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-01/blk-l01-03-01-s01.md",
+  "image": {
+    "src": "media/L01-03-01/blk-l01-03-01-s01.webp",
+    "alt": "Six white saucers each holding a pinch of identical-looking white powder, set out before a lit diya."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

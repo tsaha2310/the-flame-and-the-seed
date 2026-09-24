@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-04-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads a food label: \"dietary fibre, 4 g, 0 kilojoules\". He says \"so fibre has no energy\". What is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fibre is mostly cellulose, with as much energy per gram as starch if burned. The label says zero because your gut cannot cut the beta links, so none of that energy reaches you."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Fibre has no energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Burn it and it heats water like any sugar. The zero is about your cutters, not the molecule."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fibre is not made of sugar."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant fibre is cellulose, which is glucose beads on a beta chain."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The label is wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The label is right about what you get. It would be wrong on a cow's label."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A label counts energy that reaches the blood. A bomb calorimeter counts all of it. The difference is the beta link."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

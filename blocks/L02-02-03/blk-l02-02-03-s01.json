@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-03/blk-l02-02-03-s01.md",
+  "image": {
+    "src": "media/L02-02-03/blk-l02-02-03-s01.webp",
+    "alt": "A nitrogen atom with five outer electrons, three shared with hydrogens and a spare pair left over, sitting on a glowing screen."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

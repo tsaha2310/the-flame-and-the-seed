@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-03-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says a two-letter code \"would have been fine if there were only sixteen amino acids\". What else would change?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every recipe would be a third shorter, and there would be no spare words at all. With sixteen beads and sixteen words, every possible typo would change the bead. A code with no spare words is the last lesson of this module."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing else."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It fits exactly, which means every word is used, and that has a cost you will see in three days."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The protein would be weaker."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The number of bead kinds does not set strength. It sets what shapes are possible."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The code would have to be four letters, not two."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Four cubed is sixty-four; four squared is sixteen. Sixteen words name sixteen beads. Two letters would be enough, and dangerous."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count words against beads. Sixteen equals sixteen leaves no slack. Slack is what makes the real code forgiving."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

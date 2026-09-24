@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-02-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-02-02/blk-l03-02-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "About a week.",
+      "feedback": "Kabir's card: \"A million a second is really fast.\""
+    },
+    {
+      "id": "b",
+      "text": "About a thousand years.",
+      "feedback": "Kabir's card: \"Atoms are small, so maybe a thousand years.\""
+    },
+    {
+      "id": "c",
+      "text": "About nineteen billion years, longer than the universe has existed."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-02-02/blk-l03-02-02-s02.webp",
+    "alt": "A counting machine ticking through white spheres one by one, with calendars and clocks piling up around it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

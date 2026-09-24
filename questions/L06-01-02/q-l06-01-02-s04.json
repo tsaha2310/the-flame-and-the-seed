@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why they \"could not just look and see what went in\". What made the labels necessary?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing in 1952 could see a molecule enter a cell. The label turns an invisible molecule into a countable glow, and the choice of sulphur versus phosphorus means each glow can only be one molecule. The detective tool from Book I."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They could have looked; they were lazy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A microscope of the time showed the virus as a dot on the bacterium, and nothing of what passed between them."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The labels made the virus infect."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Unlabelled viruses infect exactly the same way. The label only makes one part visible."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They were checking whether the virus was radioactive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They made it radioactive on purpose, to follow it. The question was which part went where."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "When you cannot see a thing, mark it, and mark it with something that only it can carry. Sulphur marks protein. Phosphorus marks DNA."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

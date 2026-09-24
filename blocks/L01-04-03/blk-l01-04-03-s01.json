@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-04-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-04-03/blk-l01-04-03-s01.md",
+  "image": {
+    "src": "media/L01-04-03/blk-l01-04-03-s01.webp",
+    "alt": "Two pencils sharpened at both ends standing in a bowl of water, wired to a battery, with streams of tiny bubbles rising from each graphite tip."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

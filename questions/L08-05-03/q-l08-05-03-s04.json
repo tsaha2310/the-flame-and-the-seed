@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-05-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"the antibiotic caused the bacteria to become resistant\". What is the accurate order of events?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The resistant slip was already there in a few cells, by random copying error, before any drug. The drug removed the others. It selected; it did not cause. Give the same drug to a colony with no such slip and it cannot make one."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The drug caused it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Test it: a colony with no resistant cells, dosed, dies completely and never becomes resistant. The slip must exist first."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The bacteria learned to resist."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bacterium cannot change its ribosome's shape in its lifetime. Its child inherits its spelling. The population changed because of who was left."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The drug made the bacteria mutate faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some drugs do raise slip rates, from VIII.1 L05, but the direction of the slip is still random. The drug still only removes; it never aims."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Mutation first, at random. Selection second, by the drug. Never the other way round."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

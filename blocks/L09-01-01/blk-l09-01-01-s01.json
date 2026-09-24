@@ -1,0 +1,14 @@
+{
+  "id": "blk-l09-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L09-01-01/blk-l09-01-01-s01.md",
+  "image": {
+    "src": "media/L09-01-01/blk-l09-01-01-s01.webp",
+    "alt": "A dry season verandah, a cold unlit diya, a jar holding six generations of moong seeds, and a torn notebook page kept folded in a purse."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

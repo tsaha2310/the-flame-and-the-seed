@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-09-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-09-01/blk-l05-09-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The tree gained about 75 kilograms, and the soil lost about the same.",
+      "feedback": "Kabir's card: \"Plants eat soil, so the soil goes down.\""
+    },
+    {
+      "id": "b",
+      "text": "The tree gained about 75 kilograms, and the soil lost less than a hundred grams."
+    },
+    {
+      "id": "c",
+      "text": "The tree gained little, because a tub cannot feed a tree.",
+      "feedback": "Kabir's card: \"Not enough soil.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-09-01/blk-l05-09-01-s02.webp",
+    "alt": "A seventeenth-century doctor planting a small willow shoot in a weighed tub of soil, watering it only with rain over years."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

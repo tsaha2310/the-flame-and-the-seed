@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-07-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-07-03/blk-l08-07-03-s01.md",
+  "image": {
+    "src": "media/L08-07-03/blk-l08-07-03-s01.webp",
+    "alt": "A parasite's key shape and a host's lock shape shown evolving back and forth over generations, neither ever staying ahead for long."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

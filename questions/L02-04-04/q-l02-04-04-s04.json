@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-04-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says ice floats \"because it has air bubbles in it, like a boat\". What does the sim show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sim's ice has no air at all and still floats. The holes are in the lattice itself, between molecules, not pockets of air."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kabir is right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cloudy ice does trap some air, but perfectly clear ice, with none, still floats. The open lattice is the reason."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Ice floats because it is cold, and cold things rise."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cold water sinks, which is why the pond cools from the top down until it reaches 4 degrees. Ice floats because of its structure, not its temperature."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ice is lighter because freezing pushes water out."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sealed bottle bulged instead of leaking. The same water took up more space."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Density is molecules per box. Ice locks into a shape with holes, so there are fewer molecules per box. Air is not needed."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

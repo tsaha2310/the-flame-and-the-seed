@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-04-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Distilled water plus a spoon of sugar: LED dark. Tap water plus the same spoon of sugar: LED faintly lit. Kabir says tap water \"activates\" the sugar. What is the better explanation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Tap water already contains a few dissolved minerals, which are ions. They carry the small current. The sugar is still doing nothing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Tap water is warmer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Warmed distilled water with sugar stayed dark. Temperature was tested and failed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sugar needs minerals to become charged."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tap water alone, no sugar, gives the same faint glow. Adding sugar to it changes nothing."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Tap water has a bit of salt in it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Close, but \"salt\" in the kitchen sense is not the point. Tap water carries several dissolved minerals, and what matters is that they are all ions."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "When a fix seems to work, check whether the fix works alone. Tap water conducts faintly on its own. The sugar was a passenger."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

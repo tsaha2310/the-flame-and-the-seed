@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Magnesium has two outer electrons. Oxygen has six. Kabir says magnesium oxide must be \"one magnesium to three oxygens, because six divided by two is three\". What is the recipe?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One magnesium to one oxygen. Magnesium gives two electrons, oxygen takes two, and both reach eight."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "One to three."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oxygen does not need six electrons. It has six and needs two more to reach eight. Magnesium gives exactly two."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Two magnesiums to one oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each magnesium gives two, and one oxygen can only take two. A second magnesium would have nowhere to put its electrons."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It depends on how hot the flame is."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Recipes are set by valency, not by temperature. That was the lesson of the fixed recipe in Book I."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count what is given and what is taken. Magnesium gives two. Oxygen takes two. One of each, and both outer shells are full."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

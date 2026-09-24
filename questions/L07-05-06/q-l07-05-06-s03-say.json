@@ -1,0 +1,31 @@
+{
+  "id": "q-l07-05-06-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book VII line. What do the seed's cells do that a thermostat does not, and is Kabir's geyser alive?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "The seed's cells sense and signal: molecules fit receptors, the fit bends a shape, the bend is relayed and amplified, and opposite signals hold a line. A thermostat senses and responds and holds a line too. But the thermostat's sensor was made by a factory and is replaced by a plumber. The cell built its own sensor from its own tape, replaces it as it wears, and, when it divides, copies the whole arrangement. The geyser senses; it does not make, mend or copy the thing that senses."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

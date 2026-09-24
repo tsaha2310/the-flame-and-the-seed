@@ -1,0 +1,100 @@
+{
+  "id": "q-l03-07-01-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each kitchen thing by what it does to hydrogen ions in water."
+  },
+  "categories": [
+    {
+      "id": "acid-gives-h",
+      "label": {
+        "en": "Acid (gives H+)"
+      }
+    },
+    {
+      "id": "base-takes-h",
+      "label": {
+        "en": "Base (takes H+)"
+      }
+    },
+    {
+      "id": "neither",
+      "label": {
+        "en": "Neither"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "nimbu juice"
+      },
+      "correctCategoryId": "acid-gives-h"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "soap"
+      },
+      "correctCategoryId": "base-takes-h"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "vinegar"
+      },
+      "correctCategoryId": "acid-gives-h"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "chuna"
+      },
+      "correctCategoryId": "base-takes-h"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "pure water"
+      },
+      "correctCategoryId": "neither"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "dahi"
+      },
+      "correctCategoryId": "acid-gives-h"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "baking soda"
+      },
+      "correctCategoryId": "base-takes-h"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "table salt in water"
+      },
+      "correctCategoryId": "neither"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-03-07"
+  ],
+  "image": {
+    "src": "media/L03-07-01/q-l03-07-01-s04.webp",
+    "alt": "A scattered set of kitchen liquids and powders waiting to be sorted by what they do to hydrogen ions: nimbu juice, soap, vinegar, chuna, pure water, dahi, baking soda, salt water."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

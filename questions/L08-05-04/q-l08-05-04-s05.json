@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-05-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If a lion and a tiger can have cubs in a zoo, they are the same species.\" What is the fuller test?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The hybrid cubs are nearly always sterile, and in the wild the two never mate. The species test is fertile young, under natural conditions. Lions and tigers are two species with a blurry edge, which is what recent separation looks like."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Same species."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cubs, yes. Fertile cubs, almost never. And no wild lion has ever courted a tiger."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Different species because they look different."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Looks are not the test. Two dog breeds look far more different and are one species."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The zoo makes them one species."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A zoo forces a mating that the wild never allows. It reveals how recently they parted, not that they are one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Blurry edges are expected. Species are separating populations caught at different stages. The test is fertile young, and the blur is the theory's prediction, not its embarrassment."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

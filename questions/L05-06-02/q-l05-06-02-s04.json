@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-06-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says NADH \"has the energy\". Where on the Hill are NADH's electrons?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "High: lower than they were on glucose's carbon, but far above where they will be on oxygen. NADH is a bucket held partway up the staircase, and the fall from there is where most of the coins come from."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "At the bottom."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Only a small fall happened, from carbon to carrier. The big fall, carrier to oxygen, is still to come."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nowhere; electrons do not have height."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Book III put electrons on the Hill with volts as steepness. NADH's electrons sit about a volt above oxygen's."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "In the hydrogen it carries."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The hydrogen ion comes along for balance. The height is the two electrons' position in the carrier's ring."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the electrons on the Hill. Glucose's carbon, high. NADH, a step down. Oxygen, at the bottom. The staircase runs between the last two."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

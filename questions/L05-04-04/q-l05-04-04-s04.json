@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-04-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why pepsin \"is not made in the mouth as well, to start digesting protein early\". What would happen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The mouth is pH 7, so pepsin would not work there at all. And if it did, it would digest the mouth. The stomach is the one place with the acid pepsin needs and a lining built to survive it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would digest protein sooner."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pepsin at pH 7 is a folded protein that does nothing. Its pocket only grips in acid."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It would be dangerous because it would eat the teeth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Teeth are mostly mineral. The danger is to the mouth's lining, which is protein, if pepsin were awake there."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is made in the mouth already."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Saliva carries amylase for starch and a fat-cutter, and nothing for protein. Protein digestion waits for the stomach."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Match the enzyme to its home. Its optimum pH tells you where it can work, and its substrate tells you what it would damage."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

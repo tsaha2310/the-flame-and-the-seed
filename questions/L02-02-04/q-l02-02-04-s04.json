@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-02-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A carbon in the middle of a chain is bonded to two other carbons and two hydrogens. Kabir says \"the two carbons must be opposite each other, 180 degrees, to make a chain\". What does the sim show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The two carbons are 109 degrees apart, like any two of carbon's four bonds, which is exactly why the chain zigzags."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "180 degrees, as Kabir says."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rotate the five-carbon chain. Every carbon-to-carbon angle reads 109. A straight chain would need bonds carbon does not make."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "120 degrees, because there are three things: two carbons and \"the hydrogens\"."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The two hydrogens are two separate bonds. Four groups, tetrahedral, 109."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "90 degrees, a right angle."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Right angles would put the four bonds on a flat cross, which the balloons showed cannot happen."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The middle carbon's four bonds are the same tetrahedron as methane's. Two of its corners happen to hold carbons. The zigzag angle is the tetrahedral angle."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

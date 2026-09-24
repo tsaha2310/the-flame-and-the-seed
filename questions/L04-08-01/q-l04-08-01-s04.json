@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-08-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Franklin only had a blurry X. She could have been wrong about the helix.\" What made the X convincing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "An X pattern is what a helix, and only a helix, casts. The spacings in the X gave exact numbers for the turn and the rungs, and a model built to those numbers cast the same X back."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "She was probably guessing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pattern was reproduced many times, and every feature of it matched a helix and nothing else."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Somebody had seen the helix with a microscope."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No microscope of the time could see a molecule. The helix was inferred, and the inference held."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The name \"double helix\" made it true."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name came after the numbers. Before Photo 51, several shapes were on the table, including a triple helix that the X ruled out."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A good inference makes a prediction. The double helix predicted the exact X, and got it."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

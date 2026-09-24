@@ -1,0 +1,99 @@
+{
+  "id": "q-l03-01-03-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each reaction into its family."
+  },
+  "categories": [
+    {
+      "id": "combination",
+      "label": {
+        "en": "Combination"
+      }
+    },
+    {
+      "id": "decomposition",
+      "label": {
+        "en": "Decomposition"
+      }
+    },
+    {
+      "id": "displacement",
+      "label": {
+        "en": "Displacement"
+      }
+    },
+    {
+      "id": "combustion",
+      "label": {
+        "en": "Combustion"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "magnesium ribbon flares in air to make white powder"
+      },
+      "correctCategoryId": "combination"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "baking soda heated in a pan gives off gas and leaves washing soda"
+      },
+      "correctCategoryId": "decomposition"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "a copper wire in silver nitrate grows silver crystals"
+      },
+      "correctCategoryId": "displacement"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "the diya's oil burns to carbon dioxide and water"
+      },
+      "correctCategoryId": "combustion"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "hydrogen and chlorine gases make hydrogen chloride"
+      },
+      "correctCategoryId": "combination"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "zinc in nimbu juice fizzes hydrogen"
+      },
+      "correctCategoryId": "displacement"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "sugar heated dry turns to black carbon and steam"
+      },
+      "correctCategoryId": "decomposition"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-03-01"
+  ],
+  "image": {
+    "src": "media/L03-01-03/q-l03-01-03-s04.webp",
+    "alt": "Four small reaction vignettes waiting to be sorted into families: a flaring ribbon, a heated powder releasing gas, a wire growing crystals, a burning oil."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

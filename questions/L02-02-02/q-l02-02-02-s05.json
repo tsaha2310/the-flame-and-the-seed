@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-02-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a molecule with a central atom holding four single bonds to four hydrogens. Then he swaps one hydrogen for a chlorine. What happens to the shape?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays tetrahedral. There are still four groups of clouds. The chlorine end is a bit longer, and the angles shift slightly, but the shape is the same."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It becomes trigonal."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorine shares a pair with the carbon just as hydrogen did. Four partners, four groups, tetrahedral."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It becomes linear."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pull decides where the shared electrons sit along the bond. It does not change how many groups there are, and the count is what sets the shape."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It falls apart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorine and carbon pull nearly the same, so they share. This is the covalent zone of the dial from II.1."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Shape follows the count of groups around the central atom, not which atoms they lead to."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

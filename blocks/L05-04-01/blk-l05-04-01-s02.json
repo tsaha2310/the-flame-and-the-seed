@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-04-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-04-01/blk-l05-04-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both downhill. Reactions in living things always run by themselves.",
+      "feedback": "Kabir's card: \"It is alive, so it goes.\""
+    },
+    {
+      "id": "b",
+      "text": "Splitting starch is downhill and runs by itself once its hump is lowered. Joining amino acids is uphill and must be paid for with ATP."
+    },
+    {
+      "id": "c",
+      "text": "Both uphill, because both need the seedling to be alive.",
+      "feedback": "Kabir's card: \"Dead seeds do neither.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-04-01/blk-l05-04-01-s02.webp",
+    "alt": "Two amino acid beads joining with water falling out, beside a starch chain splitting apart as water is added."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

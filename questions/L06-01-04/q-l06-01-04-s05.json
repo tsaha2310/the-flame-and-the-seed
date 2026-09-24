@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-01-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"But proteins do everything in the cell. Surely the important molecule is the important one.\" What is the division of labour?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "DNA stores the recipes and does almost nothing else. Proteins do nearly all the work and are built from the recipes. A library and its cooks. Neither is the more important; the seed dies without either."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Proteins are more important, so they should be the tape."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Importance is not a job. The tape's job is to be copied and to last, and a protein cannot do either."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "DNA does the work too."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "DNA catalyses nothing. It is read and copied, and it sits there. RNA, from IV.7, can do a little of both, and Book VI.4 has a surprise about that."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Proteins are the tape and DNA is a mistake."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two labels and a million experiments since say otherwise."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two jobs. Store and last: DNA. Fold and act: protein. The Book IV cliffhanger, \"who decides the order of the beads\", is answered by a molecule that cannot itself cut, pump or pull."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

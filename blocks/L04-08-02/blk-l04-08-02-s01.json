@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-02/blk-l04-08-02-s01.md",
+  "image": {
+    "src": "media/L04-08-02/blk-l04-08-02-s01.webp",
+    "alt": "A dry seed from a steel dabba beside a fresh leaf, one holding instructions for years and the other tearing up a message in an hour."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

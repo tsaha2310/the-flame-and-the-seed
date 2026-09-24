@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-01-04/blk-l07-01-04-s01.md",
+  "image": {
+    "src": "media/L07-01-04/blk-l07-01-04-s01.webp",
+    "alt": "Two broken thermostats side by side: one with its sensing cells removed entirely, one with cells present but deaf receptors, both failing the same way."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

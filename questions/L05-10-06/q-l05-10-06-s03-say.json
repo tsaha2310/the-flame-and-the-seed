@@ -1,0 +1,31 @@
+{
+  "id": "q-l05-10-06-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book V line. What does the seed do with the fall that the flame does not, and is Kabir's engine alive?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "The seed has a wall, and inside it burns the same fuel in about thirty small steps instead of one drop, each step coupled to a wheel, and it catches about a third of the fall as coins. It spends the coins on keeping its inside different from the outside, on replacing its own parts, on growing, and, in the leaf, on lifting carbon dioxide back up into fuel, which closes a loop. A steam engine catches a fire's energy too, but it spends the work on something outside itself and cannot mend, grow, copy or fuel itself."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-05-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Ajji makes ORS at home: 6 teaspoons of sugar and half a teaspoon of salt in a litre of water. Kabir says \"double the sugar, it will work twice as well\". Why is the concentration fixed?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The body's gut can only move sugar and water across its wall at a certain concentration. Too strong and the solution pulls water the wrong way. The recipe is a concentration, not a dose."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because more sugar will not dissolve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A litre of water can hold far more than 12 spoons of sugar. Saturation is not the limit here."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because sugar is expensive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The recipe is set by what the gut wall can do with it, which is Book V.2's lesson, not by cost."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because the salt would not mix."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt and sugar dissolve independently. The problem with strong ORS is what it does in the gut."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A solution's effect often depends on its concentration, not the total amount. ORS is a recipe in moles per litre, and Book V tells you why."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

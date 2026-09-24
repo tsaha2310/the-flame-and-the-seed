@@ -1,0 +1,30 @@
+{
+  "id": "blk-l07-04-03-s05",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "Do trees share with each other through fungi, or is the fungus just running its own business through everyone's roots? Write your view first."
+  },
+  "viewpoints": [
+    {
+      "en": "Labelled carbon does turn up in neighbouring trees. Even a small flow to a shaded seedling could matter at the edge of survival, and forests are full of edges."
+    },
+    {
+      "en": "A fungus that takes sugar from many trees and moves it where its own threads are growing would produce the same labels without any tree \"sharing\". The simplest account is the fungus feeding itself."
+    },
+    {
+      "en": "The question may be badly posed. Trees and fungi have traded for four hundred million years, and what looks like sharing from the tree's side and self-interest from the fungus's side may be one arrangement seen from two ends."
+    },
+    {
+      "en": "The measurements are being redone with better controls right now. Hold the question open."
+    }
+  ],
+  "image": {
+    "src": "media/L07-04-03/blk-l07-04-03-s05.webp",
+    "alt": "Two trees connected underground by fine fungal threads, with sugar drifting between them, and a question mark hovering over whether it is sharing or self-interest."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

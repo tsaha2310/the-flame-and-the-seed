@@ -1,0 +1,32 @@
+{
+  "id": "blk-l01-02-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01-02-02/blk-l01-02-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Higher than 30 cm, because the heavy one is heavier.",
+      "feedback": "Kabir's card: \"Heavy beats light.\""
+    },
+    {
+      "id": "b",
+      "text": "Never higher than the heavy one fell, and less if anything rubs."
+    },
+    {
+      "id": "c",
+      "text": "Exactly 30 cm always.",
+      "feedback": "Kabir's card: \"What one loses the other gains.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L01-02-02/blk-l01-02-02-s02.webp",
+    "alt": "Side view of a two-hill track: a heavy marble held high on the left, a light marble at the bottom on the right, joined by a thread over a pulley, a small hump ahead of the light marble."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

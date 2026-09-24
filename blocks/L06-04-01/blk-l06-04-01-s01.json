@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-04-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-04-01/blk-l06-04-01-s01.md",
+  "image": {
+    "src": "media/L06-04-01/blk-l06-04-01-s01.webp",
+    "alt": "A small folded adaptor molecule holding a three-letter code on one end and a matching bead on the other, bridging the tape and the protein."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

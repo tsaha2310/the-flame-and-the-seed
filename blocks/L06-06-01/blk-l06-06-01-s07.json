@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-01/blk-l06-06-01-s07.md",
+  "image": {
+    "src": "media/L06-06-01/blk-l06-06-01-s07.webp",
+    "alt": "The same tape of DNA present in every cell type, but different pages glowing active in a root cell, a leaf cell and a muscle cell."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

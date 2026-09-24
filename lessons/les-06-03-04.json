@@ -1,0 +1,34 @@
+{
+  "id": "les-06-03-04",
+  "lessonId": "les-06-03-04",
+  "type": "lesson",
+  "title": {
+    "en": "A code with no spare words"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06-03-04/blk-l06-03-04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06-03-04/blk-l06-03-04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06-03-04/blk-l06-03-04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L06-03-04/blk-l06-03-04-s04.json"
+    },
+    {
+      "blockRef": "questions/L06-03-04/q-l06-03-04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L06-03-04/blk-l06-03-04-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

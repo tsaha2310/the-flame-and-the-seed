@@ -1,0 +1,48 @@
+{
+  "id": "mod-00-01",
+  "moduleId": "mod-00-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "P.1 Is the flame alive?"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "none",
+      "spontaneous-generation",
+      "hypothesis",
+      "microbes",
+      "vital-force",
+      "dormant",
+      "powers-of-ten",
+      "the-ledger"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-00-01-01.json",
+      "title": {
+        "en": "The diya and the question"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-00-01-02.json",
+      "title": {
+        "en": "Life from nowhere?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-00-01-03.json",
+      "title": {
+        "en": "The spark nobody can see"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-00-01-04.json",
+      "title": {
+        "en": "The ladder and the Ledger"
+      }
+    }
+  ]
+}

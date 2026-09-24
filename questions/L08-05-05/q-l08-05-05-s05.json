@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-05-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A news headline says \"Bacteria evolved resistance to survive the new drug\". Kabir asks what is wrong with the sentence. What is?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"To survive\" gives the bacteria a purpose. The resistant slip existed by chance before the drug; the drug removed the rest. The bacteria did not evolve resistance to survive; the survivors were the ones that happened to be resistant."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; that is how it happened."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The order of events is reversed by the wording. Random slip first, then a sieve. No aim."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Bacteria cannot evolve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They evolve faster than anything, from VIII.5 L03. The problem is the \"to\"."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The drug did the evolving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The drug removed. The slips were already there. Nothing was changed by the drug except who was left."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Read any sentence about evolution for a hidden \"in order to\". Replace it with \"those that happened to X survived\". If the sentence still makes sense, it was fine."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-05-03-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-05-03/blk-l06-05-03-s02.md",
+  "simulation": {
+    "src": "simulations/L06-05-03/SpliceEditorScene-alt.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

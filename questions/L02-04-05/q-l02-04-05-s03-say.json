@@ -1,0 +1,31 @@
+{
+  "id": "q-l02-04-05-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book II line. What holds the flame's fuel together, what holds the seed together, and is there a difference?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "The same bonding rules hold both together. Shared pairs inside molecules, and the pulls between molecules: dispersion in the oil, hydrogen bonds in the seed's water. The seed has more polar bonds and a few ions, but the boiled seed has exactly the same. There is no grip in the live seed that is missing from the boiled one."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

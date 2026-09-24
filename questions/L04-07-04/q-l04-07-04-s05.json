@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-07-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says a tape made of two kinds of letter \"is half as good as one with four\". For a twelve-letter tape, what is the real ratio of possible messages?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Four kinds gives about four thousand times more messages than two kinds: seventeen million against four thousand. Each extra choice per position multiplies, not adds."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Half as many."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "At every one of twelve positions, two choices against four. That is two to the twelfth against four to the twelfth, and the gap is four thousand times."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "True, but the tape must be twice as long. At the same length, two letters spell far fewer things."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Two kinds carry no information."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two is enough for difference. Computers run on two. Two kinds of letter is a real alphabet, only a smaller one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Possibilities multiply along the tape. Kinds of letter raised to the power of the length. Small changes in the base make huge changes in the total."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

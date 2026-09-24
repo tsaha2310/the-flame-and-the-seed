@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-06-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-06-02/blk-l04-06-02-s01.md",
+  "image": {
+    "src": "media/L04-06-02/blk-l04-06-02-s01.webp",
+    "alt": "A workbench screen with three bins: five-carbon sugar rings, phosphate groups, and five flat nitrogen rings in two sizes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

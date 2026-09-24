@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Calcium gives two electrons. Chloride takes one. In a lattice of calcium chloride, what is the ratio of calcium ions to chloride ions?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One calcium to two chlorides. Two chlorides carry two negative charges, matching one calcium's two positive charges."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "One to one."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt is one to one because sodium gives one and chloride takes one. Calcium gives two, so it takes two chlorides to balance it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Two calciums to one chloride."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two calciums would carry four positive charges against one negative. The lattice would fly apart. The count follows charge, not size."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It changes with how much water you use."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water is not in the lattice. The ratio is fixed by the charges that must cancel."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A lattice must have zero total charge. Add up the positives, add up the negatives, and choose the smallest counts that make them equal."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

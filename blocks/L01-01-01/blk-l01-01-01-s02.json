@@ -1,0 +1,32 @@
+{
+  "id": "blk-l01-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01-01-01/blk-l01-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Less than 5.0 g. Burning uses the wool up.",
+      "feedback": "Kabir's card: \"Fire eats things. Eaten things are gone.\""
+    },
+    {
+      "id": "b",
+      "text": "Exactly 5.0 g. Nothing was added, nothing was taken.",
+      "feedback": "Kabir's card: \"It only changed colour.\""
+    },
+    {
+      "id": "c",
+      "text": "More than 5.0 g."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L01-01-01/blk-l01-01-01-s02.webp",
+    "alt": "Close view of steel wool burning on a digital balance, sparks crawling through it, the display glowing."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

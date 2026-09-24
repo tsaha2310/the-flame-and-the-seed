@@ -1,0 +1,34 @@
+{
+  "id": "les-01-02-01",
+  "lessonId": "les-01-02-01",
+  "type": "lesson",
+  "title": {
+    "en": "The marble run on the stairs"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01-02-01/blk-l01-02-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01-02-01/blk-l01-02-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01-02-01/blk-l01-02-01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01-02-01/q-l01-02-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L01-02-01/blk-l01-02-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01-02-01/blk-l01-02-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

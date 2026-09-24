@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-04-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A pesticide company proposes a synthetic ant pheromone that lasts for months, \"so a single application controls ants all season\". Kabir thinks it is clever. What does the sim predict?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ants would follow it to wherever it was laid, for months, whatever was there. It could lure them into traps for a while, but it would also jam their own trails and, more likely, the colony would learn to ignore that molecule, since a constant smell carries no news."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would work perfectly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A permanent trail is noise. Real trails work because they change."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Ants would starve, so it is a good pesticide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Perhaps briefly. Colonies adapt to constant signals by ceasing to respond, from III.6's idea of equilibrium applied to behaviour."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It could not be made."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Long-lasting versions of pheromones are made routinely. The problem is what a permanent signal means, not whether it can exist."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A message's value is in its change. A signal that never changes is quickly treated as background."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

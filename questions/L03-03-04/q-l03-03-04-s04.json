@@ -1,0 +1,94 @@
+{
+  "id": "q-l03-03-04-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each substance by its usual role."
+  },
+  "categories": [
+    {
+      "id": "oxidant-takes-electrons",
+      "label": {
+        "en": "Oxidant (takes electrons)"
+      }
+    },
+    {
+      "id": "reductant-gives-electrons",
+      "label": {
+        "en": "Reductant (gives electrons)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "oxygen in the air"
+      },
+      "correctCategoryId": "oxidant-takes-electrons"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "sodium metal"
+      },
+      "correctCategoryId": "reductant-gives-electrons"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "chlorine gas"
+      },
+      "correctCategoryId": "oxidant-takes-electrons"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "the carbon in a fuel"
+      },
+      "correctCategoryId": "reductant-gives-electrons"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "copper ions in blue solution"
+      },
+      "correctCategoryId": "oxidant-takes-electrons"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "vitamin C in nimbu"
+      },
+      "correctCategoryId": "reductant-gives-electrons"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "hydrogen gas"
+      },
+      "correctCategoryId": "reductant-gives-electrons"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "the iron in a nail"
+      },
+      "correctCategoryId": "reductant-gives-electrons"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-03-03"
+  ],
+  "image": {
+    "src": "media/L03-03-04/q-l03-03-04-s04.webp",
+    "alt": "A scattered set of chemical actors waiting to be sorted by whether they take or give electrons: oxygen, sodium metal, chlorine gas, fuel carbon, copper ions, vitamin C, hydrogen gas, iron."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-02-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Iron rusts: 4 Fe + 3 O2 gives 2 Fe2O3. Kabir leaves a 56 g nail, one mole of iron, in a sealed jar with 16 g of oxygen, half a mole of O2. Which runs out first, and how much rust forms?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Oxygen runs out. Half a mole of O2 rusts two-thirds of a mole of iron and makes a third of a mole of rust. Some iron is left shiny."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Iron runs out."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One mole of iron needs three-quarters of a mole of O2. There is only half a mole. The oxygen limits."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both run out together."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The recipe is 4 iron to 3 oxygen, which is 1 to 0.75. Half is less than 0.75, so oxygen falls short."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing rusts because the jar is sealed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rust needs oxygen, and there is oxygen in the jar. It rusts until the oxygen is used, then stops."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Turn each stock into \"how many batches can this make\". The smallest number wins, and everything else is leftover."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

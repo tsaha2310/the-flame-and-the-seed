@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-10-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says a leaf \"should use a faster enzyme than RuBisCO, then it could grow much faster\". Why has no faster one turned up?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Attaching carbon dioxide to a sugar is a hard reaction to catalyse, and RuBisCO's pocket is a compromise between speed and telling carbon dioxide from the very similar oxygen. Plants compensate by making huge amounts of it. Whether a better one could exist is a research question."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because plants do not need to grow faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A faster-growing plant would out-compete its neighbours, which is Book VIII's whole argument. Slow is a cost, not a choice."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because RuBisCO is not really an enzyme."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is a catalyst, with a pocket and induced fit, like any enzyme. It is simply slow at a hard job."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because a faster enzyme would burn the leaf."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Calvin cycle runs uphill and takes in energy. Speeding it would not warm anything."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Speed is not the only trait an enzyme is judged on. RuBisCO must pick carbon dioxide out of air that is five hundred times richer in oxygen. That choosiness costs speed."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

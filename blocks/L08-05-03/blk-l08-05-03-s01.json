@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-03/blk-l08-05-03-s01.md",
+  "image": {
+    "src": "media/L08-05-03/blk-l08-05-03-s01.webp",
+    "alt": "A single wild mustard-like plant branching over generations of selection into six different vegetable shapes: cabbage, cauliflower, broccoli, kohlrabi."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

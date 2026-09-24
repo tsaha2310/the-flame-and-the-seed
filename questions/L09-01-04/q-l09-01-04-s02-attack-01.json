@@ -1,0 +1,52 @@
+{
+  "id": "q-l09-01-04-s02-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks, four times. Answer each.\n\nAttack one: \"Same atoms, same grips, same reaction. Books I to III found nothing. Your loop is made of the same stuff as the flame.\""
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"Yes. The difference was never in the stuff. It is in the arrangement: a wall, steps, a load, a tape. Book III's own short-circuit lesson found the first crack: a flame is a battery with a bare wire.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The seed has nitrogen and phosphorus, which the flame lacks.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The boiled seed has both and is dead. The Prologue's card rules that out."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The seed's reaction is different because it is slower.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same equation, same fall, from the peanut. The staircase is what makes it slow, and the staircase is the arrangement."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "image": {
+    "src": "media/L09-01-04/q-l09-01-04-s02-attack-01.webp",
+    "alt": "Kabir's first Epilogue attack, arguing the loop is made of the same stuff as the flame, gesturing at the completed nine-line ledger page."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

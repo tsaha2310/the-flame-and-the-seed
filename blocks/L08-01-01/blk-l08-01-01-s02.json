@@ -1,0 +1,32 @@
+{
+  "id": "blk-l08-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08-01-01/blk-l08-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "One heavy band and one light band. The old helix is kept whole and a new one is built beside it.",
+      "feedback": "Kabir's card: \"Keep the original, make a copy.\""
+    },
+    {
+      "id": "b",
+      "text": "One band, exactly halfway between heavy and light. Every helix is half old, half new."
+    },
+    {
+      "id": "c",
+      "text": "One band, halfway, but made of helices where old and new are mixed in patches along each strand.",
+      "feedback": "Kabir's card: \"Chopped and mixed.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L08-01-01/blk-l08-01-01-s02.webp",
+    "alt": "Bacteria grown on heavy nitrogen then shifted to light nitrogen for one division, DNA spun in a tube forming distinct density bands."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

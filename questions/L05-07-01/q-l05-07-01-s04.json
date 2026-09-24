@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-07-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the inner wall is folded \"to make the mitochondrion stronger, like corrugated iron\". What does the fold do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It multiplies the inner wall's area. The next lessons' machinery is built into the inner wall, so more wall means more machinery per mitochondrion. Muscle mitochondria have far more folds than skin ones."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It makes it stronger."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bilayer is not a sheet of iron. Folds do not stiffen it. They add surface, which is what a wall full of machinery needs."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It gives the matrix more room."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Folding the inner wall inward shrinks the matrix, if anything. The gain is surface, not volume."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It slows things down so the fire is slow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The slowness of the fire comes from steps, from V.6. Folds speed the plant up by giving it more wall."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Surface versus volume, from V.1. A wall that holds the machinery must be as large as possible. Folds are how a small bean holds a big wall."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-02-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-02-02/blk-l05-02-02-s01.md",
+  "image": {
+    "src": "media/L05-02-02/blk-l05-02-02-s01.webp",
+    "alt": "A wall with a plain hole letting everything through beside a wall with a shaped protein gate that only lets certain ions pass."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

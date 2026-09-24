@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-03-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the bacterium does not \"just swim out through the bubble\". What is the bubble made of?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The same bilayer as the cell's wall. It stops the bacterium as well as the outer wall did, from both sides. The bacterium is trapped in a room of wall."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A thin bag that leaks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bilayer bubble does not pop; it is the same wall, and its middle is oil, from V.1."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing; the bacterium is in the cell's inside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cut-away shows the bubble's wall between the bacterium and the cell's inside. Swallowed into a room, not into the soup."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Protein netting."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The proteins gripped it; the bilayer wrapped it. The wrapping is what holds."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the wall. The outer wall flows round the bacterium and closes. What surrounds the bacterium is that same wall, inside out."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

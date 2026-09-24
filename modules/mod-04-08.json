@@ -1,0 +1,60 @@
+{
+  "id": "mod-04-08",
+  "moduleId": "mod-04-08",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.8 DNA: the tape that lasts"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "dna",
+      "double-helix",
+      "deoxyribose",
+      "chargaff-s-rule",
+      "complementary",
+      "antiparallel",
+      "template",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-08-01.json",
+      "title": {
+        "en": "Photo 51"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-08-02.json",
+      "title": {
+        "en": "One oxygen fewer"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-08-03.json",
+      "title": {
+        "en": "Chargaff detective"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-08-04.json",
+      "title": {
+        "en": "Zipper"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-08-05.json",
+      "title": {
+        "en": "Big with big"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-08-06.json",
+      "title": {
+        "en": "Ledger duel IV"
+      }
+    }
+  ]
+}

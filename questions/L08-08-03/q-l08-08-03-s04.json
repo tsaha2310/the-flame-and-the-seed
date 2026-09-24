@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-08-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why a forest floor is \"not a mile deep in leaves after a million autumns\". What does the bottle say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Decomposers take each year's leaves apart within a few years, releasing their carbon as carbon dioxide and their nitrogen to the soil, which the trees take up again. The floor stays thin because the loop closes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Leaves blow away."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They blow into some other forest, which would then be a mile deep. Something takes them apart wherever they land."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Trees reabsorb their own leaves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Roots take up dissolved nutrients, which decomposers have released from the leaves. The roots do not eat leaves."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Leaves are mostly water and shrink to nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A dry leaf is still cellulose and protein. Something eats it, and that something is a fungus or a bacterium."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Any loop with an input needs an output. The decomposers are the output that turns yesterday's leaves into tomorrow's soil."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

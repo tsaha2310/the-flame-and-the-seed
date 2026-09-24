@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-04-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-04-03/blk-l06-04-03-s01.md",
+  "image": {
+    "src": "media/L06-04-03/blk-l06-04-03-s01.webp",
+    "alt": "A single letter change made on an RNA tape, traced through to a folded protein chain, results varying from unchanged to completely different."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

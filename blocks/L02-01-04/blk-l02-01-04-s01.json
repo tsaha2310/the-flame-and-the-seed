@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-01-04/blk-l02-01-04-s01.md",
+  "image": {
+    "src": "media/L02-01-04/blk-l02-01-04-s01.webp",
+    "alt": "A heavily dented copper square wired into a circuit, its LED glowing, a boy proudly holding the hammer."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

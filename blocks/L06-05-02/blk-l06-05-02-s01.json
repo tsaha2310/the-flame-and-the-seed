@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-05-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-05-02/blk-l06-05-02-s01.md",
+  "image": {
+    "src": "media/L06-05-02/blk-l06-05-02-s01.webp",
+    "alt": "A raw RNA copy full of long meaningless stretches between short useful segments, waiting to be edited before it makes sense."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

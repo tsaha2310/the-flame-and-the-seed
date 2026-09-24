@@ -1,0 +1,1 @@
+**Ledger line, written:** It is the loop. The tape builds the machines. The machines catch energy. The energy keeps the wall and copies the tape. Flame: no loop. Live seed: the loop, closed. Boiled seed: the loop, broken. Left open on purpose: the virus, the mule, the dormant seed, the machine.

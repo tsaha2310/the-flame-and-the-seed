@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-05-04/blk-l06-05-04-s01.md",
+  "image": {
+    "src": "media/L06-05-04/blk-l06-05-04-s01.webp",
+    "alt": "A splice point landing one letter off target, scrambling the resulting message, and a bacterium's ribosomes reading a tape still being copied."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

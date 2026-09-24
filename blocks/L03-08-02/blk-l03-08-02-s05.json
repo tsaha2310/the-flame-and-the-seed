@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-02-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-02/blk-l03-08-02-s05.md",
+  "simulation": {
+    "src": "simulations/shared/HillScene-heat-only.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

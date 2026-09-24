@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-01-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-01-01/blk-l04-01-01-s07.md",
+  "image": {
+    "src": "media/L04-01-01/blk-l04-01-01-s07.webp",
+    "alt": "The vital-force card pinned back on the wall with one corner folded down, and a black carbon sphere glowing beside it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

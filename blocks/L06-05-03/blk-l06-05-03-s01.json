@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-05-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-05-03/blk-l06-05-03-s01.md",
+  "image": {
+    "src": "media/L06-05-03/blk-l06-05-03-s01.webp",
+    "alt": "A single gene's raw copy spliced two different ways, producing two visibly different clean ribbons from the same starting material."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-01-02-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-01-02/blk-l02-01-02-s03.md",
+  "simulation": {
+    "src": "simulations/L02-01-02/LatticeGrowerScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

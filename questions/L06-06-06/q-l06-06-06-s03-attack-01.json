@@ -1,0 +1,52 @@
+{
+  "id": "q-l06-06-06-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"The seed's switches flip when a signal arrives. So does a thermostat on a geyser: it senses heat and responds. You have not told me how the seed's cells sense anything, or what a signal is. Until you do, 'responds' is a word, not a mechanism.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The boiled seed has the same tape, so the tape is not the difference.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "True, and already in the Ledger from Book IV. This Book's line is not \"has a tape\" but \"reads it with machines it built from it\". The boiled seed's readers are tangled."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"A book plus a cook is alive, then.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cook is a living thing. The seed is book and cook in one, and nothing outside it reads the tape."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "image": {
+    "src": "media/L06-06-06/q-l06-06-06-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed instructions ledger, an old cookbook open beside them."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-03-02/blk-l02-03-02-s01.md",
+  "image": {
+    "src": "media/L02-03-02/blk-l02-03-02-s01.webp",
+    "alt": "A puff of carbon dioxide gas from a fizzy drink beside a glass of water dissolving a sugar cube, two molecules floating above them."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

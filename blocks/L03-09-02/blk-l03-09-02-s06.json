@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-09-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-09-02/blk-l03-09-02-s06.md",
+  "image": {
+    "src": "media/L03-09-02/blk-l03-09-02-s06.webp",
+    "alt": "A ladder of metals against a steep slope, the steeper the drop between two rungs the brighter the glow, a wire running down it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

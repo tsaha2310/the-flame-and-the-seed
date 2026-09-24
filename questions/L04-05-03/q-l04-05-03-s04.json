@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-05-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir folds a chain with every oily bead buried and scores well. Then he swaps one buried oily bead for a plus bead and refolds. The score falls. What went wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A charged bead buried among oily beads is high on the Hill: it has no water and no opposite charge near it. The chain refolds to bring it to the surface, and the old fold is lost."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plus beads are heavier."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight is not in the game. Charge is. A charge wants water or an opposite charge, and the oily middle has neither."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "One bead cannot matter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One charge in the middle of the oily core is enough to force a different fold. That is the next-but-one lesson, and a real disease."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sim is random."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The scoring is the pulls. Same chain, same fold, same score, every time."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every bead has a place it sits lowest. Put a bead where it sits high and the whole chain pays for it. One swap can change the fold."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

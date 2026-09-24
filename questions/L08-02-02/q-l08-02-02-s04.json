@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-02-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A tall pea plant is crossed with a short one, and the children are half tall, half short. Kabir says \"that breaks three to one\". What were the parents?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The tall parent was a hybrid, Tt, not pure. Tt crossed with tt gives two boxes Tt, tall, and two boxes tt, short: one to one. The ratio tells you the hidden factor was there."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Mendel's rule is broken."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Half and half is exactly what the square predicts for Tt crossed with tt. The rule holds; the tall parent was not pure."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Short is dominant in this variety."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If short were dominant, a pure tall crossed with any short would give all short. Half and half means a hybrid parent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The children got factors from only one parent."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every child got one from each. The square with Tt and tt gives one to one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Work backward from the ratio. One to one means one parent was a hybrid, the other pure recessive. This is the test cross Mendel used to check a plant's hidden factors."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mod-07-02",
+  "moduleId": "mod-07-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VII.2 Neurons"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "neuron",
+      "resting-voltage",
+      "action-potential",
+      "voltage-gated-channel",
+      "refractory-period",
+      "myelin",
+      "synapse",
+      "neurotransmitter",
+      "reflex-arc",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-07-02-01.json",
+      "title": {
+        "en": "The hot diya"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-02-02.json",
+      "title": {
+        "en": "The wave"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-02-03.json",
+      "title": {
+        "en": "Reset, and the jumps"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-02-04.json",
+      "title": {
+        "en": "The gap"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-02-05.json",
+      "title": {
+        "en": "Pufferfish"
+      }
+    }
+  ]
+}

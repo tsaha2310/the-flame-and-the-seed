@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-02-04/blk-l04-02-04-s01.md",
+  "image": {
+    "src": "media/L04-02-04/blk-l04-02-04-s01.webp",
+    "alt": "A boy tipping an upturned glass of invisible gas over a candle, which goes out with a curl of smoke."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

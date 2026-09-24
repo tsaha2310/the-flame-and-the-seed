@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-01-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-01-03/blk-l07-01-03-s06.md",
+  "image": {
+    "src": "media/L07-01-03/blk-l07-01-03-s06.webp",
+    "alt": "Two opposite hormone icons, one raising and one lowering a sugar-level needle, keeping it inside a narrow band all day."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

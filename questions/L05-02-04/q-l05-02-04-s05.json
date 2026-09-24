@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-02-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Ajji salts sliced cucumber for raita and it goes limp and watery in ten minutes. Kabir says \"the salt dissolved the cucumber\". What happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The salt outside the cells pulled water out through their walls by osmosis. The cells lost turgor, so the slices went limp, and the water they lost is the puddle."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The salt dissolved the cucumber."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cucumber's cells are still there, just collapsed. Rinse and soak them and some firmness returns."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The salt melted the cucumber's fat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cucumber has almost no fat, and salt melts nothing. It moved water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cucumber was already watery."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are, and the water was inside cells, held by turgor. The salt let it out."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Find the salt gradient. Saltier outside means water leaves. Water leaving a plant cell means turgor lost and a limp leaf, or slice."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-01-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the alphonso mango \"has been the same tree for two hundred years, so its DNA has not changed at all\". What does the cutting sim say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every cutting adds a few slips, and two hundred years of cuttings have added many. The trees are near-identical, not identical, and the accumulated slips are why some orchards' alphonsos differ slightly from others'."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Exactly the same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One in a billion per letter, per division, over centuries of divisions, is thousands of letters by now."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Completely different, like any two trees."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Thousands of letters out of hundreds of millions is still near-identical. That is why it still tastes like alphonso."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The DNA is renewed each year with the leaves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "New leaves are made by mitosis from the same tape, slips and all."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Clones drift apart slowly, by the slips in every copy. Slowly is not never."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

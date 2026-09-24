@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-05-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-05/blk-l05-10-05-s06.md",
+  "image": {
+    "src": "media/L05-10-05/blk-l05-10-05-s06.webp",
+    "alt": "A snail and plant in a dark, motionless jar, its leaf structures dimmed and inactive, food supply visibly dwindling first."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

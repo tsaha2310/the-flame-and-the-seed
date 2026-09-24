@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-08-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Salt dissolving in water takes in a little heat; the glass gets slightly cooler. It happens by itself anyway. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The ions spreading through the water gain far more ways than the small heat cost takes away. Free energy falls."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because water pulls the ions off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pulls are why the heat cost is small, but pulls alone would not make an uphill-in-heat change run. The gain in ways does."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It does not really happen by itself; stirring makes it happen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Unstirred salt dissolves too, just slowly. Stirring changes how fast, not whether."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Salt dissolving gives out heat, not takes it in."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Measure it: the glass cools. This is one of the changes that runs on ways alone."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Look at both dials. Heat slightly against. Ways strongly for. Weighed at room temperature, ways win."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-02-01/blk-l08-02-01-s01.md",
+  "image": {
+    "src": "media/L08-02-01/blk-l08-02-01-s01.webp",
+    "alt": "A nineteenth-century monk in a monastery garden carefully cross-pollinating rows of pea plants and recording results in a notebook."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-02-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-02/blk-l07-02-02-s07.md",
+  "image": {
+    "src": "media/L07-02-02/blk-l07-02-02-s07.webp",
+    "alt": "A nerve fibre firing a full all-or-none wave once the threshold is crossed, sodium gates flipping open in a chain down its length."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

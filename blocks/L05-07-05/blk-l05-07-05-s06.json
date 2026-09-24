@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-05-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-05/blk-l05-07-05-s06.md",
+  "image": {
+    "src": "media/L05-07-05/blk-l05-07-05-s06.webp",
+    "alt": "A cracked membrane letting hydrogen ions leak straight back through without turning the turbine, energy escaping only as heat."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

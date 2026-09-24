@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-02-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks how the brain \"knows how hot the diya was, if every nerve wave is the same size\". What carries the strength of a stimulus?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "How many waves per second, and how many nerves fire. A hotter diya makes the fingertip's nerves fire far more often, and recruits more of them. Loudness is in the rate, not the size."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The size of the wave."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every spike is the same height. The sim showed it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The speed of the wave."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Speed is set by the cable, from tomorrow, not the stimulus."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The brain guesses."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The brain reads rates and which nerves are firing. That is enough to tell warm from scalding."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "All-or-none spikes carry nothing in their size. They carry it in their timing and their number."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

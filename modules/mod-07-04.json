@@ -1,0 +1,44 @@
+{
+  "id": "mod-07-04",
+  "moduleId": "mod-07-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VII.4 Smells, alarms and the forest underground"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "pheromone",
+      "airborne-signal",
+      "mycorrhiza",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-07-04-01.json",
+      "title": {
+        "en": "Ant trail"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-04-02.json",
+      "title": {
+        "en": "The wounded leaf"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-04-03.json",
+      "title": {
+        "en": "The trade underground"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-04-04.json",
+      "title": {
+        "en": "A trail that never fades"
+      }
+    }
+  ]
+}

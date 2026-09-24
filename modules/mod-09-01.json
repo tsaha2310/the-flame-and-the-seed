@@ -1,0 +1,41 @@
+{
+  "id": "mod-09-01",
+  "moduleId": "mod-09-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "E.1 The loop"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-09-01-01.json",
+      "title": {
+        "en": "The rains end"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09-01-02.json",
+      "title": {
+        "en": "The loop"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09-01-03.json",
+      "title": {
+        "en": "The torn page"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09-01-04.json",
+      "title": {
+        "en": "The final duel"
+      }
+    }
+  ]
+}

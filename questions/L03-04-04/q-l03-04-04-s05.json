@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-04-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An ice pack from the chemist goes cold when you squeeze it, with no fridge. Inside, a salt dissolves in water. Kabir says \"the salt must be very cold\". What is happening?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The salt dissolving is endothermic. Breaking the salt lattice costs more than the water's pulls on the ions pay back, and the difference is taken from the water's jiggle. The pack cools."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The salt was stored cold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pack sits on a warm shelf at room temperature and still goes cold when squeezed. The cold is made, not stored."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The water evaporates inside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pack is sealed. Nothing leaves. The cooling comes from a reaction that takes in heat."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Dissolving always cools."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some dissolvings warm the water and some cool it, depending on the ledger. This salt is chosen because its ledger comes out endothermic."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Run the ledger. Pay to break the lattice. Earn from water gripping the ions. If the pay is bigger, the difference comes out of the jiggle and the thing gets cold."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

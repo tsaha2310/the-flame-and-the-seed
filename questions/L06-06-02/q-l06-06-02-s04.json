@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-06-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the bacterium \"does not just always make a little cutter, to be safe\". What does the sim's coin counter say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Making an unneeded enzyme costs coins and beads every hour, and a bacterium that saves them divides faster than one that does not. A cell that spends on nothing loses the race to one that spends on what is there."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would be safer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ready costs. In a bath with no lactose, the always-on cell spends coins on nothing and grows slower."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It cannot make a little; it is on or off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The repressor lets go in proportion to lactose, so the gene runs at a level between off and full. The point is that zero lactose gives nearly zero."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Milk sugar would poison it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cutter without its substrate does nothing. The cost is the waste, not poison."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every protein costs coins to make. A switch that makes it only when it can earn its keep is a cheaper cell, and cheaper cells win."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "You double the salt in the water. The LED gets brighter. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "More salt means more ions in the water, so more charge is available to move for the same push."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Salt makes the battery stronger."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The battery's push did not change; you did not touch that dial. What changed is how many carriers were available in the water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Salt makes the water thinner."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt water is slightly thicker than pure water, not thinner. The brightness comes from carriers, not from flow."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The wire gets more electrons."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The number of electrons in the copper is fixed. Ions in the water complete the circuit; they do not top up the wire."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Current is charge moving. The battery sets the push. The number of things that can carry charge sets how much moves for that push. Salt adds carriers."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

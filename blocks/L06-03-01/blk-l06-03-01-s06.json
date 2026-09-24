@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-03-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-03-01/blk-l06-03-01-s06.md",
+  "image": {
+    "src": "media/L06-03-01/blk-l06-03-01-s06.webp",
+    "alt": "A grid of sixty-four three-letter code groups mapped toward twenty bead types, with several extra groups pointing at the same beads."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

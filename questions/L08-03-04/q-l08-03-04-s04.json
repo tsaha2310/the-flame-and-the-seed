@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-03-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"A family with four daughters is more likely to have a son next, to even it out.\" What does the square say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each fertilisation is a fresh toss. The father's sperm carries X or Y half the time regardless of past children. The fifth child is a boy with the same one-in-two chance as the first."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, a son is due."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chromosomes have no memory of earlier children. The square is the same every time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, daughters run in families."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Four daughters in a row happens one family in sixteen by chance alone, no tendency needed."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The mother decides after four."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The mother gives X every time. Only the sperm varies."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Independent tosses. Past outcomes do not change the next square. A run of one sex is ordinary chance."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

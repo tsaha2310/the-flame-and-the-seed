@@ -1,0 +1,34 @@
+{
+  "id": "les-04-05-02",
+  "lessonId": "les-04-05-02",
+  "type": "lesson",
+  "title": {
+    "en": "The chain"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04-05-02/blk-l04-05-02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04-05-02/blk-l04-05-02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04-05-02/blk-l04-05-02-s03.json"
+    },
+    {
+      "blockRef": "questions/L04-05-02/q-l04-05-02-s04.json"
+    },
+    {
+      "blockRef": "blocks/L04-05-02/blk-l04-05-02-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04-05-02/blk-l04-05-02-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

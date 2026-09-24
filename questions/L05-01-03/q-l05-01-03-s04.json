@@ -1,0 +1,105 @@
+{
+  "id": "q-l05-01-03-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Match each room to its chemistry."
+  },
+  "categories": [
+    {
+      "id": "acid-bag",
+      "label": {
+        "en": "Acid bag"
+      }
+    },
+    {
+      "id": "workshop-floor",
+      "label": {
+        "en": "Workshop floor"
+      }
+    },
+    {
+      "id": "power-plant",
+      "label": {
+        "en": "Power plant"
+      }
+    },
+    {
+      "id": "green-panel",
+      "label": {
+        "en": "Green panel"
+      }
+    },
+    {
+      "id": "kernel",
+      "label": {
+        "en": "Kernel"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "pH 5, full of cutters"
+      },
+      "correctCategoryId": "acid-bag"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "a folded membrane studded with tiny grains"
+      },
+      "correctCategoryId": "workshop-floor"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "two membranes, inner one deeply folded, slightly warm"
+      },
+      "correctCategoryId": "power-plant"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "stacked green discs that absorb red and blue light"
+      },
+      "correctCategoryId": "green-panel"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "holds the DNA, wrapped in its own double membrane"
+      },
+      "correctCategoryId": "kernel"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "where worn-out molecules are taken apart"
+      },
+      "correctCategoryId": "acid-bag"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "where ATP is recharged"
+      },
+      "correctCategoryId": "power-plant"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-05-01"
+  ],
+  "image": {
+    "src": "media/L05-01-03/q-l05-01-03-s04.webp",
+    "alt": "A cell's rooms waiting to be matched to their chemistry: an acidic sac, a folded grain-studded membrane, a two-membraned warm structure, a stacked green disc, a DNA-holding kernel."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

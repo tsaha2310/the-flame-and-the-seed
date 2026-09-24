@@ -1,0 +1,32 @@
+{
+  "id": "blk-l02-04-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02-04-03/blk-l02-04-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The clay is cold.",
+      "feedback": "Kabir's card: \"Clay is a cold material, like a stone floor.\""
+    },
+    {
+      "id": "b",
+      "text": "When the fastest water molecules escape from the wet surface, the ones left behind are slower on average, so the water is cooler."
+    },
+    {
+      "id": "c",
+      "text": "The water inside gets thicker as it seeps, and thick water is cold.",
+      "feedback": "Kabir's card: \"Less water, more cold.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L02-04-03/blk-l02-04-03-s02.webp",
+    "alt": "Cross-section of a clay pot with water seeping through its wall and rising off the outside, beside a plastic bucket with a sealed wall."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

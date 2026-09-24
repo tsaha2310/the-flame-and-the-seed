@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-04/blk-l08-08-04-s01.md",
+  "image": {
+    "src": "media/L08-08-04/blk-l08-08-04-s01.webp",
+    "alt": "Four unlabeled Indian regional climate charts, rainfall by month and temperature by month, to be matched against their ecosystems."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

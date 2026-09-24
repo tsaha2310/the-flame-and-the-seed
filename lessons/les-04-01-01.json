@@ -1,0 +1,37 @@
+{
+  "id": "les-04-01-01",
+  "lessonId": "les-04-01-01",
+  "type": "lesson",
+  "title": {
+    "en": "Wohler's flask"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04-01-01/blk-l04-01-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04-01-01/blk-l04-01-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04-01-01/blk-l04-01-01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04-01-01/blk-l04-01-01-s04.json"
+    },
+    {
+      "blockRef": "questions/L04-01-01/q-l04-01-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04-01-01/blk-l04-01-01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L04-01-01/blk-l04-01-01-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

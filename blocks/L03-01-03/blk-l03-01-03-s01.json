@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-01-03/blk-l03-01-03-s01.md",
+  "image": {
+    "src": "media/L03-01-03/blk-l03-01-03-s01.webp",
+    "alt": "A boy with chalk sorting six sphere equations on a blackboard into groups, some joining small to big, some splitting big to small, one swapping partners."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

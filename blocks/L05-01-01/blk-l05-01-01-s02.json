@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-01-01/blk-l05-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Micelles, like soap. Two tails is just a fatter soap.",
+      "feedback": "Kabir's card: \"Same shape, same ball.\""
+    },
+    {
+      "id": "b",
+      "text": "Two-layer sheets, tails together in the middle and heads out on both faces, that close into hollow bubbles."
+    },
+    {
+      "id": "c",
+      "text": "They sink to the bottom as a lump of fat.",
+      "feedback": "Kabir's card: \"Fat sinks in water.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-01-01/blk-l05-01-01-s02.webp",
+    "alt": "Soap forming a small ball with tails tucked inside in water, beside a phospholipid with two tails forming a different kind of ball."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

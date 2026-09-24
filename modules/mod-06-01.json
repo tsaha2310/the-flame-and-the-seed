@@ -1,0 +1,46 @@
+{
+  "id": "mod-06-01",
+  "moduleId": "mod-06-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VI.1 Which molecule holds the instructions?"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "transformation",
+      "bacteriophage",
+      "gene",
+      "chromosome",
+      "genome",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-06-01-01.json",
+      "title": {
+        "en": "Griffith's mice"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-01-02.json",
+      "title": {
+        "en": "Two labels"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-01-03.json",
+      "title": {
+        "en": "Spools"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-01-04.json",
+      "title": {
+        "en": "Suppose protein were the tape"
+      }
+    }
+  ]
+}

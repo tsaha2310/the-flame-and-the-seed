@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-06/blk-l08-08-06-s01.md",
+  "image": {
+    "src": "media/L08-08-06/blk-l08-08-06-s01.webp",
+    "alt": "A grandmother opening a worn notebook flat on the table, revealing eight complete Ledger lines under a finally dry, rain-free verandah sky."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

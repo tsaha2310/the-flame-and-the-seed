@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-05-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-05/blk-l01-05-05-s05.md",
+  "image": {
+    "src": "media/L01-05-05/blk-l01-05-05-s05.webp",
+    "alt": "A boy biting into a mango while a grandmother holds up a brick from a pile beside a small model house, a hammer waiting on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

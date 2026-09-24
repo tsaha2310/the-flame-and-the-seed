@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-04-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-04-01/blk-l03-04-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Water is a worse conductor, so the heat stayed at the bottom.",
+      "feedback": "Kabir's card: \"Water is a bad conductor, everyone knows.\""
+    },
+    {
+      "id": "b",
+      "text": "Water needs more energy than oil to raise its temperature by one degree. It soaks up energy without warming as much."
+    },
+    {
+      "id": "c",
+      "text": "The flame under the water was smaller.",
+      "feedback": "Kabir's card: \"Ajji's burners are not equal.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-04-01/blk-l03-04-01-s02.webp",
+    "alt": "Two cups receiving identical streams of heat from below, the oil cup's thermometer rising twice as far as the water cup's."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

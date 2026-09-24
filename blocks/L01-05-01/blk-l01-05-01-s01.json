@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-01/blk-l01-05-01-s01.md",
+  "image": {
+    "src": "media/L01-05-01/blk-l01-05-01-s01.webp",
+    "alt": "A nineteenth-century bearded chemist laying out cards in rows on a train-carriage table, the landscape rushing past the window."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q-l05-10-06-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"You have described what the seed spends the coins on, but you have not said how it knows what to build. An engine cannot build an engine. Neither can a pile of enzymes, unless something tells them the order of the beads. Where is that?\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The engine catches energy and has a load, so by Book III it is alive.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Book III said a living thing must have a load. It did not say a load is enough. The engine has one and spends it outside itself."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The seed only catches a third. The engine is just a worse seed.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The engine catches a tenth. And efficiency was never the line; what the caught energy is spent on is."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "image": {
+    "src": "media/L05-10-06/q-l05-10-06-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed energy ledger, a toy steam engine and a peanut on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mod-03-06",
+  "moduleId": "mod-03-06",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.6 How fast, how far"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "rate-of-reaction",
+      "collision",
+      "activation-energy",
+      "catalyst",
+      "reversible",
+      "dynamic-equilibrium",
+      "le-chatelier-s-principle"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-06-01.json",
+      "title": {
+        "en": "Milk on the shelf"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-06-02.json",
+      "title": {
+        "en": "The hump"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-06-03.json",
+      "title": {
+        "en": "Catalysts"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-06-04.json",
+      "title": {
+        "en": "Two rooms"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-06-05.json",
+      "title": {
+        "en": "Push it"
+      }
+    }
+  ]
+}

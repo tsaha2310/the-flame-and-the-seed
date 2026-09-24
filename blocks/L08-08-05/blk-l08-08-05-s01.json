@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-05/blk-l08-08-05-s01.md",
+  "image": {
+    "src": "media/L08-08-05/blk-l08-08-05-s01.webp",
+    "alt": "A sealed bottle ecosystem being sabotaged three ways: decomposers removed, top predator removed, and carbon dioxide doubled inside."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

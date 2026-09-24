@@ -1,0 +1,34 @@
+{
+  "id": "les-05-10-03",
+  "lessonId": "les-05-10-03",
+  "type": "lesson",
+  "title": {
+    "en": "Calvin's labelled carbon"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05-10-03/blk-l05-10-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05-10-03/blk-l05-10-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05-10-03/blk-l05-10-03-s03.json"
+    },
+    {
+      "blockRef": "questions/L05-10-03/q-l05-10-03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05-10-03/blk-l05-10-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05-10-03/blk-l05-10-03-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

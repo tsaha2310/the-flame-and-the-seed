@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-01-02/blk-l01-01-02-s01.md",
+  "image": {
+    "src": "media/L01-01-02/blk-l01-01-02-s01.webp",
+    "alt": "An eighteenth-century chemist in a powdered wig at a bench, imagining fire-stuff streaming out of burning wood into the air."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

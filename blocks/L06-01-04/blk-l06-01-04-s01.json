@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-01-04/blk-l06-01-04-s01.md",
+  "image": {
+    "src": "media/L06-01-04/blk-l06-01-04-s01.webp",
+    "alt": "A 1940s laboratory populated by scientists confidently building a world where a twenty-bead protein chain, not DNA, carries the instructions."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

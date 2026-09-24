@@ -1,0 +1,98 @@
+{
+  "id": "q-l07-05-02-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Match each cell type to its tissue and job."
+  },
+  "categories": [
+    {
+      "id": "skin",
+      "label": {
+        "en": "Skin"
+      }
+    },
+    {
+      "id": "green-tissue",
+      "label": {
+        "en": "Green tissue"
+      }
+    },
+    {
+      "id": "water-pipe",
+      "label": {
+        "en": "Water pipe"
+      }
+    },
+    {
+      "id": "sugar-pipe",
+      "label": {
+        "en": "Sugar pipe"
+      }
+    },
+    {
+      "id": "meristem",
+      "label": {
+        "en": "Meristem"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "a flat cell with a wax coat, outermost layer"
+      },
+      "correctCategoryId": "skin"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "a tall cell packed with chloroplasts"
+      },
+      "correctCategoryId": "green-tissue"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "a dead tube cell with only walls left, carrying water up"
+      },
+      "correctCategoryId": "water-pipe"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "a living cell loaded with sugar heading for the root"
+      },
+      "correctCategoryId": "sugar-pipe"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "a small cell at the root tip that keeps dividing"
+      },
+      "correctCategoryId": "meristem"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "a pair of cells that open a pore by swelling"
+      },
+      "correctCategoryId": "skin"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "image": {
+    "src": "media/L07-05-02/q-l07-05-02-s04.webp",
+    "alt": "A leaf's cell types waiting to be matched to their tissue and job: a waxy flat cell, a chloroplast-packed tall cell, a dead water-tube cell, a sugar-carrying cell, a small dividing tip cell, a paired pore-opening cell."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

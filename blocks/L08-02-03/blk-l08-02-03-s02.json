@@ -1,0 +1,32 @@
+{
+  "id": "blk-l08-02-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08-02-03/blk-l08-02-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Three to one to one to three. Tall goes with round, because the tall-round parent gave them together.",
+      "feedback": "Kabir's card: \"Traits stick together.\""
+    },
+    {
+      "id": "b",
+      "text": "Nine to three to three to one. Each trait sorts three to one on its own, and the two sort independently."
+    },
+    {
+      "id": "c",
+      "text": "One to one to one to one. Four kinds, equally likely.",
+      "feedback": "Kabir's card: \"Four boxes, four kinds.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L08-02-03/blk-l08-02-03-s02.webp",
+    "alt": "A large sixteen-cell grid being prepared to predict grandchildren pea plant combinations of height and pod shape together."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-01-01-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-01-01/blk-l04-01-01-s04.md",
+  "simulation": {
+    "src": "simulations/L04-01-01/WohlerFlaskScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

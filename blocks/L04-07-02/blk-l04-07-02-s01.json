@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-07-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-07-02/blk-l04-07-02-s01.md",
+  "image": {
+    "src": "media/L04-07-02/blk-l04-07-02-s01.webp",
+    "alt": "Four cards on a table each showing the edge of a flat base with little giving and taking knobs, waiting to be paired."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

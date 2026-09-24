@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-02-03/blk-l03-02-03-s01.md",
+  "image": {
+    "src": "media/L03-02-03/blk-l03-02-03-s01.webp",
+    "alt": "The first pale flower open on a moong seedling, and a glass of water on a balance beside it holding about a mouthful."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

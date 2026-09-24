@@ -1,0 +1,52 @@
+{
+  "id": "q-l00-01-04-s05-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Which card does he play?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The flame, which passes every line. Then the mule, which fails one. Then the dry seed, which fails all of them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The cloud, because clouds grow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cloud fails \"eat\", \"reproduce\" and \"respond\", so the list correctly throws it out. Kabir's real weapons are the cards the list gets wrong, and the cloud is not one."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The robot vacuum, because it moves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It fails \"grow\", \"eat\" and \"reproduce\". The list handles it. Kabir needs the three cards that break the list, not the ones it survives."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-00-01"
+  ],
+  "image": {
+    "src": "media/L00-01-04/q-l00-01-04-s05-attack-01.webp",
+    "alt": "An eight-year-old boy leaning across a verandah table holding up a playing card triumphantly, a notebook and a lit diya between him and the narrator."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

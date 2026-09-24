@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-09-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-09-05/blk-l05-09-05-s01.md",
+  "image": {
+    "src": "media/L05-09-05/blk-l05-09-05-s01.webp",
+    "alt": "Three seedlings under coloured Diwali cellophane, one green, one red, one blue, over the course of a week."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "les-05-07-05",
+  "lessonId": "les-05-07-05",
+  "type": "lesson",
+  "title": {
+    "en": "Sabotage round"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L05-07-05/blk-l05-07-05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-05/blk-l05-07-05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-05/blk-l05-07-05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-05/blk-l05-07-05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05-07-05/q-l05-07-05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05-07-05/blk-l05-07-05-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

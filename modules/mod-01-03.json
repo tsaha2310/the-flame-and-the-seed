@@ -1,0 +1,49 @@
+{
+  "id": "mod-01-03",
+  "moduleId": "mod-01-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "I.3 Inside the atom"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "none",
+      "nucleus",
+      "electron",
+      "proton",
+      "neutron",
+      "atomic-number",
+      "isotope",
+      "shell-energy-level",
+      "photon"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01-03-01.json",
+      "title": {
+        "en": "Salt in the flame"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-03-02.json",
+      "title": {
+        "en": "Rutherford's black box"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-03-03.json",
+      "title": {
+        "en": "Counting the pieces"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-03-04.json",
+      "title": {
+        "en": "Shells and the colour of light"
+      }
+    }
+  ]
+}

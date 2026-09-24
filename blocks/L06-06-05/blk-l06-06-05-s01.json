@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-05/blk-l06-06-05-s01.md",
+  "image": {
+    "src": "media/L06-06-05/blk-l06-06-05-s01.webp",
+    "alt": "A cell with every gene switched on at once glowing chaotically all over, beside a repressor protein whose second pocket cannot feel lactose at all."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "q-l04-05-01-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each side chain by its personality."
+  },
+  "categories": [
+    {
+      "id": "oily",
+      "label": {
+        "en": "Oily"
+      }
+    },
+    {
+      "id": "polar",
+      "label": {
+        "en": "Polar"
+      }
+    },
+    {
+      "id": "plus",
+      "label": {
+        "en": "Plus"
+      }
+    },
+    {
+      "id": "minus",
+      "label": {
+        "en": "Minus"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "a chain of three carbons and hydrogens, nothing else"
+      },
+      "correctCategoryId": "oily"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "a short chain ending in a hydroxyl"
+      },
+      "correctCategoryId": "polar"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "a chain ending in an amine group"
+      },
+      "correctCategoryId": "plus"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "a chain ending in a carboxyl group"
+      },
+      "correctCategoryId": "minus"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "a flat ring of six carbons"
+      },
+      "correctCategoryId": "oily"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "a single hydrogen"
+      },
+      "correctCategoryId": "polar"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "a chain ending in a sulphur-hydrogen"
+      },
+      "correctCategoryId": "polar"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "a long chain ending in a second amine"
+      },
+      "correctCategoryId": "plus"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-04-05"
+  ],
+  "image": {
+    "src": "media/L04-05-01/q-l04-05-01-s04.webp",
+    "alt": "A scattered set of amino-acid side chains waiting to be sorted by personality: an oily stub, a hydroxyl-ended chain, an amine-ended chain, a carboxyl-ended chain, a ring, a lone hydrogen, a sulphur-ended chain, a longer amine chain."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

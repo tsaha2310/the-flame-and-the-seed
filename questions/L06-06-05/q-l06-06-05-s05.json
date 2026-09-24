@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-06-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mutation removes the DNA site the lac repressor grips, but leaves the repressor itself intact. Kabir says \"same as the stuck repressor: the gene is off\". What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The opposite. With no site to grip, the repressor can never block the copyist, and the gene is on all the time, lactose or not. The cell wastes coins in every bath without lactose."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The gene is off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A repressor with nowhere to sit represses nothing. Off needs the grip."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The gene works normally."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The site is where the switch happens. Remove it and the switch is gone: stuck on."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The bacterium cannot make the repressor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The repressor's own gene is elsewhere and unchanged. It is made, and it floats uselessly."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two parts to a switch: the protein and the DNA it grips. Break the protein's signal pocket: stuck off. Break the DNA site: stuck on. Both are mutations, with opposite effects."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

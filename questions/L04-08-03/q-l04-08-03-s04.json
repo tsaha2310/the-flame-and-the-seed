@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-08-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A virus's DNA has A at 24 percent, T at 31, G at 22, C at 23. Kabir says the balance must be broken. What is the better conclusion?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "This virus's DNA is a single strand, not a double helix. With no partner strand, nothing forces A to equal T, and Chargaff's rule need not hold."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The balance is broken."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A equals T only when every A has a T across from it. Some viruses carry just one strand, and Chargaff himself found exceptions like this."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The virus is not alive, so it has no rule."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Whether a virus is alive is an open question from the Prologue. The rule is about strands, not life."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The percentages are rounded wrongly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seven percent is far outside rounding. The mismatch is real, and it tells you something about the molecule's shape."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The rule is a consequence of pairing. Where it fails, look for a molecule with no partner strand."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

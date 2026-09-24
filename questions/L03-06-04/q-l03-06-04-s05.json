@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-06-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Saturated sugar solution sits with a pile of undissolved sugar at the bottom. Kabir says \"the sugar at the bottom is not dissolving, it has given up\". What is happening?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sugar is dissolving off the pile and sugar is crystallising back onto it at equal rates. The pile stays the same size while its molecules are constantly swapped."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Drop a single red-dyed sugar crystal onto the pile and, over hours, the red spreads through the whole pile and into the solution. Molecules are swapping constantly."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The pile is slowly dissolving and the solution is getting stronger."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A saturated solution left for a year is the same strength. The two rates are equal, not merely close."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The pile is growing, because sugar is settling out."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "At equilibrium, growing and shrinking balance. The pile grows only if you cool the solution, which changes the balance."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "\"Nothing changing\" and \"nothing happening\" are different. At equilibrium the first is true and the second is false."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

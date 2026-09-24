@@ -1,0 +1,32 @@
+{
+  "id": "blk-l00-01-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L00-01-02/blk-l00-01-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "In both jars. Meat makes maggots.",
+      "feedback": "Kabir's card: \"The maggots come from inside the meat, so cloth cannot stop them.\""
+    },
+    {
+      "id": "b",
+      "text": "Only in the open jar."
+    },
+    {
+      "id": "c",
+      "text": "Only in the covered jar, because it is warmer under the cloth.",
+      "feedback": "Kabir's card: \"Covered things go bad faster.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L00-01-02/blk-l00-01-02-s02.webp",
+    "alt": "Two glass jars of meat on a windowsill, one open with flies hovering, the other covered with a fine cloth."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

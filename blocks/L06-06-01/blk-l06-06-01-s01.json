@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-01/blk-l06-06-01-s01.md",
+  "image": {
+    "src": "media/L06-06-01/blk-l06-06-01-s01.webp",
+    "alt": "A grandmother and boy discussing whether root cells threw away genes they do not need, with a 1960s scientist and a frog in the background."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "q-l08-08-06-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the long game in order, from a copying slip to a changed world."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "DNA polymerase copies the tape by pairing and proofreads, leaving about one slip per billion letters."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Meiosis halves the chromosomes and shuffles them, and fertilisation joins two halves, so every seed is a new combination of spellings."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Alleles are spellings; some hide as recessives; their frequencies move with what they do in the world."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "More are born than survive, the variation is inherited, and what survives becomes commoner: natural selection, with no chooser."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "Separation and time pile up differences until populations cannot interbreed, and every species traces to one root."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "Species live with partners, in webs where energy thins and atoms cycle, in biomes set by climate, on a planet whose air they have changed."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

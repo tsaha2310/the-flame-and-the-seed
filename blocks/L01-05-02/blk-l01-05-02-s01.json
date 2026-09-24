@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-02/blk-l01-05-02-s01.md",
+  "image": {
+    "src": "media/L01-05-02/blk-l01-05-02-s01.webp",
+    "alt": "A redrawn wall chart of coloured element tiles where two tiles have swapped back into matching columns, a boy pointing at three fizzy-family tiles."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

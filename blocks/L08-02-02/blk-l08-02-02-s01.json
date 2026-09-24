@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-02-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-02-02/blk-l08-02-02-s01.md",
+  "image": {
+    "src": "media/L08-02-02/blk-l08-02-02-s01.webp",
+    "alt": "A square grid being drawn to predict pea plant height outcomes from two parents each carrying two height factors."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

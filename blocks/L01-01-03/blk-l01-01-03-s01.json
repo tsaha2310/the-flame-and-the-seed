@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-01-03/blk-l01-01-03-s01.md",
+  "image": {
+    "src": "media/L01-01-03/blk-l01-01-03-s01.webp",
+    "alt": "A row of kitchen items on a table: salt, sugar, an iron nail, a glass of water, a jar of mixed dal and rice, a balloon, and burned steel wool."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

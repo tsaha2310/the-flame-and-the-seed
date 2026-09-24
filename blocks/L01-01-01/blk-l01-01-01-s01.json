@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-01-01/blk-l01-01-01-s01.md",
+  "image": {
+    "src": "media/L01-01-01/blk-l01-01-01-s01.webp",
+    "alt": "A ball of steel wool glowing orange on a kitchen balance as a grandmother touches a match to it, a boy watching open-mouthed."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-04-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-04-05/blk-l05-04-05-s01.md",
+  "image": {
+    "src": "media/L05-04-05/blk-l05-04-05-s01.webp",
+    "alt": "Five enzymes in a row passing a product hand to hand, the final product looping back to gently slow the first enzyme."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

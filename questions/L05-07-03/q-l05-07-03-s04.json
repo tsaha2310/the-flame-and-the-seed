@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-07-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the chain \"bothers with four pullers instead of one strong one\". What would one puller do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Take the electrons from NADH straight down to oxygen's level in one fall: a volt at once. That fall could move at most one small load, and the rest would be heat. Four pullers turn one fall into several, each coupled to its own ion push."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing different; electrons end up at oxygen either way."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same start, same end, different number of wheels. Steps are the whole point, from V.6 L01."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "One puller would be faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Faster is not the aim. Caught is."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "One puller would not work because oxygen is too strong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The jump is fine physically; the flame makes it constantly. The cell avoids it because a big jump is a drop, not a staircase."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every hop is a small fall coupled to a small lift. More hops, more lifts. The staircase from V.6 L01 is made of these pullers."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-06-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-06-03/blk-l08-06-03-s06.md",
+  "image": {
+    "src": "media/L08-06-03/blk-l08-06-03-s06.webp",
+    "alt": "A whale icon moving from the fish branch of a looks-based tree to the hippo branch of a DNA-based tree, illustrating the disagreement."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

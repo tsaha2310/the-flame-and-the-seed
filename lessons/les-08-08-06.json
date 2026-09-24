@@ -1,0 +1,37 @@
+{
+  "id": "les-08-08-06",
+  "lessonId": "les-08-08-06",
+  "type": "lesson",
+  "title": {
+    "en": "Ledger duel VIII"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08-08-06/blk-l08-08-06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-06/blk-l08-08-06-s02.json"
+    },
+    {
+      "blockRef": "questions/L08-08-06/q-l08-08-06-s03-say.json"
+    },
+    {
+      "blockRef": "questions/L08-08-06/q-l08-08-06-s03-attack-01.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-06/blk-l08-08-06-s03-line.json"
+    },
+    {
+      "blockRef": "questions/L08-08-06/q-l08-08-06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-06/blk-l08-08-06-s05.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

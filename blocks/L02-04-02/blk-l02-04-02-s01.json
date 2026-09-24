@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-02/blk-l02-04-02-s01.md",
+  "image": {
+    "src": "media/L02-04-02/blk-l02-04-02-s01.webp",
+    "alt": "Five cards on a table showing methane, water, salt, iron and diamond as molecule pictures with no numbers, waiting to be ranked."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

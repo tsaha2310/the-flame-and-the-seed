@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-03/blk-l08-08-03-s01.md",
+  "image": {
+    "src": "media/L08-08-03/blk-l08-08-03-s01.webp",
+    "alt": "A large sealed glass jar containing soil, seedlings, grass, snails, a beetle and a spoon of compost, closed off from everything but light."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

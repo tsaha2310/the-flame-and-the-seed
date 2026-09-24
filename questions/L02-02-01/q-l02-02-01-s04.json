@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "An atom has four pairs of electrons around it, all shared. Kabir says the four bonds \"lie flat in a cross, ninety degrees each\". Why is that wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A flat cross keeps the pairs closer together than a pyramid does. Four pairs pushing apart end up at the corners of a triangular pyramid, about 109 degrees apart, because that is the furthest four things can get from each other around a point."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because atoms are round, so bonds must curve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bonds are straight lines from the centre. The question is which directions, and repulsion answers it: the pyramid, not the cross."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because a flat cross would need five pairs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The centre is the nucleus, not a pair. Four pairs make four arms. The issue is that four flat arms are not as far apart as four pyramid arms."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because ninety degrees is unlucky."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ninety degrees is a real angle between some bonds in some solids. It is wrong here because the four balloons can get further apart than that."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "On a flat cross, each balloon has two neighbours at 90 degrees. Tilt them into a pyramid, and each has three neighbours at 109 degrees. More space for everyone. Repulsion picks the pyramid."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

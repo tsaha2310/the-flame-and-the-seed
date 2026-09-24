@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-07-04-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-07-04/blk-l03-07-04-s03.md",
+  "simulation": {
+    "src": "simulations/L03-07-04/OxideSorterScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-03-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Fish that live in cold seas have fats that stay liquid at near-freezing. Kabir says \"cold fish must have lots of straight tails, to keep warm\". What does the packer say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cold-water fish fats are highly unsaturated, with many kinks. Straight tails would set solid at sea temperature, and a fish with solid fat could not move."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Straight tails, as Kabir says."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Solid fat inside a fish's body would stop its insides working. Cold-water fats are the liquid kind, which is why fish oil pours from the fridge."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fish have no fat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fish are full of fat. The question is what kind, and the answer is kinked."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The kinks are for taste."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fishy taste comes from the kinked fats reacting with air, which is true but not why they are there."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Match the fat to the temperature. Cold surroundings need fats that stay liquid, which means kinks."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

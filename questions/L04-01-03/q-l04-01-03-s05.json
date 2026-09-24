@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-01-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Maybe silicon life could live somewhere with no oxygen, so the chains would not break.\" What is the remaining problem?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Silicon chains are weak even in a vacuum: half the strength of carbon's. And without oxygen there is no burning at all, so the creature has no fall to catch. Fewer problems, not none."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No problem; it would work."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The weak silicon-silicon bond breaks from ordinary jiggling above a few atoms long, oxygen or not."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Silicon needs oxygen to exist."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Silicon is an element. It can exist alone. Its problem is what it does when it meets oxygen, and how weakly it holds itself."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing can live without oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Book V has living things that get by without air. The point here is silicon's own chains, not the air."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate the two failures. The weak chain is silicon's own. The rock oxide is what happens in air. Removing air fixes one and leaves the other."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

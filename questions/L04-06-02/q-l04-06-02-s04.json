@@ -1,0 +1,100 @@
+{
+  "id": "q-l04-06-02-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each piece of a nucleotide by which bin it came from."
+  },
+  "categories": [
+    {
+      "id": "base",
+      "label": {
+        "en": "Base"
+      }
+    },
+    {
+      "id": "sugar",
+      "label": {
+        "en": "Sugar"
+      }
+    },
+    {
+      "id": "phosphate",
+      "label": {
+        "en": "Phosphate"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "adenine, two fused rings with nitrogens"
+      },
+      "correctCategoryId": "base"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "a five-carbon ring with hydroxyls"
+      },
+      "correctCategoryId": "sugar"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "a phosphorus with four oxygens and a negative charge"
+      },
+      "correctCategoryId": "phosphate"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "uracil, one ring with two nitrogens"
+      },
+      "correctCategoryId": "base"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "the part that carries the crowded tail"
+      },
+      "correctCategoryId": "phosphate"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "the part that sits between the other two"
+      },
+      "correctCategoryId": "sugar"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "cytosine"
+      },
+      "correctCategoryId": "base"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "guanine"
+      },
+      "correctCategoryId": "base"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-04-06"
+  ],
+  "image": {
+    "src": "media/L04-06-02/q-l04-06-02-s04.webp",
+    "alt": "A scattered set of nucleotide pieces waiting to be sorted by which bin they belong to: adenine, a sugar ring, a phosphate group, uracil, a crowded tail piece, a central piece, cytosine, guanine."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

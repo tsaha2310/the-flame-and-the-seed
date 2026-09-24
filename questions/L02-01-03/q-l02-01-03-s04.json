@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-01-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Chlorine steals an electron from sodium but shares one with another chlorine. Kabir says chlorine \"changes its mind\". What actually decides?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The difference in pull. Chlorine pulls far harder than sodium, so it takes. Two chlorines pull equally, so neither can take, and they share."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "How many electrons chlorine has that day."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorine always has seven outer electrons. What changes is the other atom."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Whether it is a solid or a gas."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorine gas shares with itself. Chlorine in salt steals. The state is a result, not a cause."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Chlorine prefers sharing and only steals when forced."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Atoms have no preferences. The knot ends up wherever the two pulls put it, and that is the whole rule."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "One atom, two partners, two different grips. The atom did not change. The difference in pull between it and its partner did."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

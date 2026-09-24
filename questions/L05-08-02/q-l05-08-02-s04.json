@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-08-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the burning feeling in his calves after a sprint \"is the lactic acid dissolving the muscle\". What is closer to the truth?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The muscle switched to fermentation because the staircase could not empty buckets fast enough. The lactate and the acid it brings build up for a few minutes, the burn is the acid, and it clears as blood carries the lactate to the liver. Nothing dissolves."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The acid dissolves the muscle."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lactic acid is weak, from III.7, and the blood's buffer handles it within minutes. The burn is a signal, not damage."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The muscle ran out of oxygen and died a little."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Muscle does not die from a sprint. It ferments for a while, and switches back when breathing catches up."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The burn is the coins running out."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A muscle out of ATP locks, from V.5's rigor. It does not burn. The burn is the acid."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Match the symptom to the pathway. Sprint means fermentation means lactate means acid means burn. The liver's oxygen fixes it."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

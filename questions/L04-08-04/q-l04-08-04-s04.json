@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-08-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir is given the strand GATTACA and writes its partner as CTAATGT. The sim marks it wrong. What did he forget?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Direction. He paired every letter correctly, but the partner runs the other way, so written five-prime to three-prime it is TGTAATC."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "He paired wrongly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pairs are right. The order is written in the wrong direction, because the partner is antiparallel."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sim is wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "CTAATGT lists the partners in the top strand's direction. The partner strand's own direction is reversed, and that is the convention every scientist uses."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing; both are fine."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A strand read backwards is a different strand, from IV.7. Direction is part of the answer."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two steps. Swap each letter for its pair. Then reverse the whole thing, because the partner runs the opposite way."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

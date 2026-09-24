@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-01-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A patient has high blood sugar and very high blood insulin. Kabir says \"give more insulin\". What does the reading suggest?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The receivers are deaf. More insulin is more shouting. The treatment is to help cells hear again: exercise, diet, medicines that improve the relay, and insulin only as a last resort in large doses."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Give more insulin."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Insulin is already high and not working. The problem is downstream of the hormone."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Remove the pancreas."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pancreas is doing its job and being ignored. Removing it makes the first kind of diabetes on top of the second."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The patient has no receptors at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rare. Usually the receptors are present and the relay weak. Partial deafness, which can be improved."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Read both numbers. High sugar with low insulin: the gland. High sugar with high insulin: the listener."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

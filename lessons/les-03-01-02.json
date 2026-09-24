@@ -1,0 +1,34 @@
+{
+  "id": "les-03-01-02",
+  "lessonId": "les-03-01-02",
+  "type": "lesson",
+  "title": {
+    "en": "The atom accountant"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-01-02/blk-l03-01-02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-01-02/blk-l03-01-02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-01-02/blk-l03-01-02-s03.json"
+    },
+    {
+      "blockRef": "questions/L03-01-02/q-l03-01-02-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03-01-02/blk-l03-01-02-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-01-02/blk-l03-01-02-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

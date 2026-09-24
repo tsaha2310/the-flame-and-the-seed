@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-08-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-08-03/blk-l05-08-03-s01.md",
+  "image": {
+    "src": "media/L05-08-03/blk-l05-08-03-s01.webp",
+    "alt": "A stopwatch beside two paths, one giving two coins almost instantly and one giving thirty coins after a longer wait."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

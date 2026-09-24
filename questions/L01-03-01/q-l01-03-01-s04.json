@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-03-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir sprinkles an unknown powder and sees bright yellow. He says, \"It is kitchen salt.\" What can you actually conclude?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The powder contains sodium. Kitchen salt is one possibility; washing soda or baking soda would give the same yellow."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is definitely kitchen salt."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Yellow means sodium. Several kitchen powders contain sodium, and every one of them gives the same yellow."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The powder is burning."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The powder is not burning; sprinkle it into a flame and the same powder is still there in the ash afterwards. It only colours the flame."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The powder is hot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A hotter flame does not change sodium's yellow to any other colour. The colour belongs to the element, not to the temperature."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A flame colour identifies an element, not a compound. To tell kitchen salt from baking soda you need a different test."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l08-07-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08-07-04/blk-l08-07-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The mitochondrion grew it.",
+      "feedback": "Kabir's card: \"Extra protection.\""
+    },
+    {
+      "id": "b",
+      "text": "It is the host cell's own wall, wrapped round a swallowed bacterium, from V.3, that was never digested."
+    },
+    {
+      "id": "c",
+      "text": "It is left over from the nucleus.",
+      "feedback": "Kabir's card: \"Nuclear leftovers.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L08-07-04/blk-l08-07-04-s02.webp",
+    "alt": "A power-plant organelle's outer membrane origin traced back to an ancient engulfing event, the inner membrane matching a free bacterium's own wall."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-01-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"a gene for brown eyes is a picture of a brown eye, written in DNA\". What does a gene actually contain?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The order of amino acids for one protein, or one RNA tool. Brown eyes come from several proteins that make and place a pigment, each from its own gene. No gene draws an eye. A recipe, not a drawing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A picture of the trait."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "DNA has four letters and no drawings. The tape spells bead orders. The eye is what thousands of proteins do together."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The trait itself, stored."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There is no colour in a gene. There is a recipe for a protein that, in a cell, helps make a pigment."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A list of every cell in the eye."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No gene knows about cells. Genes spell proteins. Cells are what proteins, and Book VII, build."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A gene spells one chain. The route from chain to trait runs through folding, enzymes, cells and signals, all of Books IV to VII. Most traits use many genes."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

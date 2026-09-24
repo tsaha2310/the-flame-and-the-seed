@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-09-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-09-01/blk-l05-09-01-s01.md",
+  "image": {
+    "src": "media/L05-09-01/blk-l05-09-01-s01.webp",
+    "alt": "A tall leafy plant weighing far more than its original single seed, with a grandmother pointing questioningly at the soil beneath it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

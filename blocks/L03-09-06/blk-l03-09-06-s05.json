@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-09-06-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-09-06/blk-l03-09-06-s05.md",
+  "image": {
+    "src": "media/L03-09-06/blk-l03-09-06-s05.webp",
+    "alt": "A new wall chart drawn as a ladder whose rungs carry the six element colours, a boy with three mangoes, and a faint kidney in the corner."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

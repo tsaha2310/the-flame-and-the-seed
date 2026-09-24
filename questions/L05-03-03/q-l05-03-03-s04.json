@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-03-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the lysosome's cutters do not \"escape and eat the cell\". What keeps them safe?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Two things. They are in their own bubble of wall, so they cannot reach the rest of the cell. And they only work in acid; the cell outside the bag is pH 7.2, where they would barely cut even if they leaked."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They are tied down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They float freely inside the bag. The bag's wall and its pH are the safety."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They only eat bacteria."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They cut proteins, fats and sugars of any origin. Spill them at the right pH and they would cut the cell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cell is made of stuff they cannot cut."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cell is proteins, fats and sugars, exactly what they cut. The bag and its acid are what stand between."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two safeties, both from earlier Books. A room of wall, from V.1, and a pH the cutters need, from III.7. A cell that dies often kills itself by spilling these bags."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

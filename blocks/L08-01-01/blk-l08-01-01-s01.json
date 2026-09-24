@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-01/blk-l08-01-01-s01.md",
+  "image": {
+    "src": "media/L08-01-01/blk-l08-01-01-s01.webp",
+    "alt": "A double helix unzipping with each strand building a new matching partner, becoming two identical helices."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

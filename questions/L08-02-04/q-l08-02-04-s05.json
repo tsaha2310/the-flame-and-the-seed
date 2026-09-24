@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-02-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"But children do look like a blend of their parents. Skin colour, height. So blending must be partly true.\" How do particles give a blend-looking result?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Many genes each add a little, and a child gets a random half of each parent's set, so the average looks like a blend. But each factor passes whole, and two medium parents can have a child at either extreme, which paint could never do."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Blending is true for some traits and particles for others."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One rule. Traits shaped by many genes look blended on average while every gene passes whole. Mendel chose traits shaped by one gene each so that the whole factors were visible."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Skin colour is not inherited."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sun changes it a little. The range is inherited, through many genes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Children only look like their parents by chance."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Punnett square is not coincidence. It is counting."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Blend-like traits are many particles added up. The particles still pass whole, which is why extremes reappear in later generations."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

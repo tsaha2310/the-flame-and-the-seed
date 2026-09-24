@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-04-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-04-03/blk-l05-04-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Fastest at 70, because hotter is always faster for a catalyst.",
+      "feedback": "Kabir's card: \"Book III said so.\""
+    },
+    {
+      "id": "b",
+      "text": "Fastest near 37. At 70 it unfolds, the pocket is gone, and it stops for good."
+    },
+    {
+      "id": "c",
+      "text": "The same at every temperature, because enzymes are shaped, not heated.",
+      "feedback": "Kabir's card: \"Shape does not care about heat.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-04-03/blk-l05-04-03-s02.webp",
+    "alt": "A folded enzyme protein shown at five temperatures, cool and slow, warm and fast, then hot and unravelling."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

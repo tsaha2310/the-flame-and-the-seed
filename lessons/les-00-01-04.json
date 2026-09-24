@@ -1,0 +1,43 @@
+{
+  "id": "les-00-01-04",
+  "lessonId": "les-00-01-04",
+  "type": "lesson",
+  "title": {
+    "en": "The ladder and the Ledger"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L00-01-04/blk-l00-01-04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-04/blk-l00-01-04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-04/blk-l00-01-04-s03.json"
+    },
+    {
+      "blockRef": "questions/L00-01-04/q-l00-01-04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-04/blk-l00-01-04-s05.json"
+    },
+    {
+      "blockRef": "questions/L00-01-04/q-l00-01-04-s05-say.json"
+    },
+    {
+      "blockRef": "questions/L00-01-04/q-l00-01-04-s05-attack-01.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-04/blk-l00-01-04-s05-line.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-04/blk-l00-01-04-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

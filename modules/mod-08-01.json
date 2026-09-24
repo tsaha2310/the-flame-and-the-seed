@@ -1,0 +1,54 @@
+{
+  "id": "mod-08-01",
+  "moduleId": "mod-08-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VIII.1 Copy the whole tape"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "replication",
+      "semi-conservative",
+      "dna-polymerase",
+      "proofreading",
+      "cell-cycle",
+      "mitosis",
+      "clone",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-08-01-01.json",
+      "title": {
+        "en": "Band predictor"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-01-02.json",
+      "title": {
+        "en": "Proofreader"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-01-03.json",
+      "title": {
+        "en": "The choreography"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-01-04.json",
+      "title": {
+        "en": "Cuttings"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-01-05.json",
+      "title": {
+        "en": "Goldilocks"
+      }
+    }
+  ]
+}

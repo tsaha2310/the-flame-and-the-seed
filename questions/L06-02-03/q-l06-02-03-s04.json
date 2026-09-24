@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-02-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A cell needs a burst of one protein for a few minutes, then none. Kabir says \"make the copies extra tough, so they do not need replacing\". What would tough copies do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Keep the protein being made long after the burst was needed. The job here is a short burst, and short-lived copies give exactly that. Tough copies would give a long, wasteful tail."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Save energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They would save copying and waste protein, which costs far more. And the burst would not end."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Work fine, because the workshop can ignore them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The workshop reads whatever copies are present. It has no way to ignore a copy except for the copy to be gone."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Make the protein better."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The copy's lifetime has nothing to do with the protein's fold. It sets only how long the protein keeps being made."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Match the copy's life to how long the protein is wanted. For most things, an hour is about right. For a burst, shorter is better."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-03-02/blk-l08-03-02-s01.md",
+  "image": {
+    "src": "media/L08-03-02/blk-l08-03-02-s01.webp",
+    "alt": "Three chromosome pairs shown being independently assorted into gametes, a boy counting out eight possible combinations on his fingers."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

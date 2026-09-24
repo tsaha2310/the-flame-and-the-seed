@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-04-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-04-02/blk-l01-04-02-s01.md",
+  "image": {
+    "src": "media/L01-04-02/blk-l01-04-02-s01.webp",
+    "alt": "A boy imagining electricity as blue liquid flowing through a wire like water through a pipe, with a brass lens ready to look inside."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

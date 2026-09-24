@@ -1,0 +1,59 @@
+{
+  "id": "mod-05-07",
+  "moduleId": "mod-05-07",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.7 Respiration II: the powerhouse"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "matrix",
+      "acetyl-coa",
+      "krebs-cycle",
+      "electron-transport-chain",
+      "proton-gradient",
+      "atp-synthase",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-07-01.json",
+      "title": {
+        "en": "Two membranes"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-07-02.json",
+      "title": {
+        "en": "The carbon tracker"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-07-03.json",
+      "title": {
+        "en": "The staircase of pullers"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-07-04.json",
+      "title": {
+        "en": "Dam and turbine"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-07-05.json",
+      "title": {
+        "en": "Sabotage round"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-07-06.json",
+      "title": {
+        "en": "Where does lost fat go?"
+      }
+    }
+  ]
+}

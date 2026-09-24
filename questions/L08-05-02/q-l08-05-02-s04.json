@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-05-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"DNA similarity between humans and chimps could just mean they were built to the same plan, like two models of car.\" What does the pattern of similarity add?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cars from one designer share the useful parts and differ freely elsewhere. Species share the useless parts too: the same broken genes, the same silent letters, the same errors, in proportion to their distance. A designer copies what works; only descent copies mistakes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; similarity is similarity."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The plan explanation cannot say why broken, unused stretches of DNA match too. Inherited copying errors can."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "DNA similarity is a coincidence."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ninety-nine letters in a hundred, over billions of letters, is not chance."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "All living things have nearly the same DNA anyway."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A human and a bacterium share far less than a human and a chimp. The similarity grades with distance, which is the point."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Shared mistakes are the signature of copying. A design would not carry them."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

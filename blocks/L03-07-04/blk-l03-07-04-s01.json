@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-07-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-07-04/blk-l03-07-04-s01.md",
+  "image": {
+    "src": "media/L03-07-04/blk-l03-07-04-s01.webp",
+    "alt": "A lump of lime and a puff of breath, both oxides, one making water slippery and the other sour, beside the element chart's staircase."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

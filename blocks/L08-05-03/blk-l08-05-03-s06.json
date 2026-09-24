@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-03/blk-l08-05-03-s06.md",
+  "image": {
+    "src": "media/L08-05-03/blk-l08-05-03-s06.webp",
+    "alt": "A week-long bacterial culture developing resistance to an antibiotic, most cells dying while a few resistant survivors multiply rapidly."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

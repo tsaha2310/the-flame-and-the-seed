@@ -1,0 +1,61 @@
+{
+  "id": "q-l00-01-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Pasteur's sealed flask stayed clear. His open flask went cloudy. Kabir says this proves nothing, because the sealed flask had no air, and \"everything needs air to live.\" What was the swan neck for?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To let air in but keep dust out, so the \"no air\" excuse would not work."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To keep air out completely."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air moves freely along a bent tube. Only heavy dust settles in the bend. That is the whole trick."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To make the broth boil faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The neck was bent after boiling. It had nothing to do with heating."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To look like a swan, so people would remember it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The shape had one job, catching dust while letting air through, which is why it answered the \"no air\" objection."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A good experiment removes the excuse before it is made. The sealed flask left an excuse, \"no air\". The swan neck let air in and still stayed clear, so air was not what spoiled broth. Dust was."
+  },
+  "hints": [],
+  "tags": [
+    "mod-00-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

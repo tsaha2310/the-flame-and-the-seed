@@ -1,0 +1,89 @@
+{
+  "id": "q-l09-01-04-s03",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the Ledger's lines in the order they were written, and read them as one sentence."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Flame and seed are made of the same few atoms."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The same bonding rules hold both together."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both run the same reaction, downhill: fuel and oxygen, same equation, same energy."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The seed is built of carbon molecules with exact shapes, and no vital force is needed to make them."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "The seed has a wall, and burns in tiny steps behind it, catching energy as coins."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "The seed carries a tape and reads it with a machine made of tape."
+      }
+    },
+    {
+      "id": "g",
+      "text": {
+        "en": "The seed's cells sense and signal, with receptors they built from the tape."
+      }
+    },
+    {
+      "id": "h",
+      "text": {
+        "en": "The seed copies its tape with small errors, so its kind changes."
+      }
+    },
+    {
+      "id": "i",
+      "text": {
+        "en": "It is the loop: the tape builds the machines, the machines catch energy, the energy keeps the wall and copies the tape."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "image": {
+    "src": "media/L09-01-04/q-l09-01-04-s03.webp",
+    "alt": "Nine ledger-line fragments scattered on a table waiting to be arranged in order into one complete sentence, each a small notebook clipping."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

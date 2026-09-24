@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-06-05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Ammonia is made from nitrogen and hydrogen in a reaction that gives out heat and turns four gas molecules into two. Kabir says \"heat it hard and squeeze it hard for the most ammonia\". What does Le Chatelier say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Squeeze hard, yes: fewer gas molecules on the product side. But heating pushes it back toward nitrogen and hydrogen, because the forward reaction gives out heat. Factories run it warm enough to be fast but not hot, and use a catalyst for the speed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both, as Kabir says."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heat speeds both directions, and shifts the balance toward whichever direction absorbs heat. Here that is backwards."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Neither; leave it alone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Left alone, the mix settles at a poor yield. Squeezing genuinely moves it toward ammonia."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cool and release the pressure."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cooling helps the balance but makes the rate hopeless, and releasing pressure pushes the wrong way."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Take each push separately. Fewer molecules on the right favours squeezing. Heat given out on the right means cooling favours the right. Then remember rate: too cold and it takes years. That tension is why the catalyst matters."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

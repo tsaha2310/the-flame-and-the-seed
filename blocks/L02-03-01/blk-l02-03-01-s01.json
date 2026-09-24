@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-03-01/blk-l02-03-01-s01.md",
+  "image": {
+    "src": "media/L02-03-01/blk-l02-03-01-s01.webp",
+    "alt": "A boy stirring ghee that refuses to blend into dal, beside a wall drawing of a tug-of-war where the knot sits slightly off-centre."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

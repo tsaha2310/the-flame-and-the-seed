@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-03-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-03-04/blk-l06-03-04-s01.md",
+  "image": {
+    "src": "media/L06-03-04/blk-l06-03-04-s01.webp",
+    "alt": "Two code charts side by side, one with sixty-four codons and twenty beads with spares, one with sixty-one codons each naming a different bead with none spare."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

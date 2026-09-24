@@ -1,0 +1,32 @@
+{
+  "id": "blk-l02-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02-01-01/blk-l02-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "In both, the rows slide and the thing bends.",
+      "feedback": "Kabir's card: \"Atoms are atoms. They should slide the same.\""
+    },
+    {
+      "id": "b",
+      "text": "In copper the rows slide and it dents. In salt, sliding brings like charges face to face, and the crystal splits along that line."
+    },
+    {
+      "id": "c",
+      "text": "In both, the rows lock, and the thing that breaks is the one with the weaker atoms.",
+      "feedback": "Kabir's card: \"Salt atoms are weaker than copper atoms.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L02-01-01/blk-l02-01-01-s02.webp",
+    "alt": "Two neat lattices of atoms side by side, one of alternating red and blue spheres and one of identical orange spheres, each with a row being pushed sideways by a hammer."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

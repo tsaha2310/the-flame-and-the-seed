@@ -1,0 +1,37 @@
+{
+  "id": "les-03-04-01",
+  "lessonId": "les-03-04-01",
+  "type": "lesson",
+  "title": {
+    "en": "Same flame, water and oil"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-04-01/blk-l03-04-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-01/blk-l03-04-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-01/blk-l03-04-01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-01/blk-l03-04-01-s04.json"
+    },
+    {
+      "blockRef": "questions/L03-04-01/q-l03-04-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-01/blk-l03-04-01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-01/blk-l03-04-01-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

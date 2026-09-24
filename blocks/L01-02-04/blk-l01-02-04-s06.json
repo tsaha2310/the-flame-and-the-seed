@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-04/blk-l01-02-04-s06.md",
+  "image": {
+    "src": "media/L01-02-04/blk-l01-02-04-s06.webp",
+    "alt": "A pinch of salt sprinkled into a diya flame, which flares a vivid yellow, a boy jumping back."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

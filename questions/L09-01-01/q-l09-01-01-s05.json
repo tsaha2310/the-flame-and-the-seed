@@ -1,0 +1,61 @@
+{
+  "id": "q-l09-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a bubble with a tape, a ribosome, a turbine and pumps, and it runs for a hundred hours and then stops without copying. Which part is missing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The copyist, DNA polymerase. Without it the tape is read but never duplicated, so there is no second bubble. The loop ran once and did not close on itself."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The wall; it must have leaked."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The inside stayed different for a hundred hours. The wall held. What never happened was the copy."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "More coins."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The turbine kept the till full to the end. The coins were spent on everything except copying, because nothing was there to copy."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing; a hundred hours alive is alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "By the bench's test, and by the course's argument, a thing that cannot make another of itself is a machine that will stop. The mule, from the Prologue, is the honest exception, and it is tomorrow's argument."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Find the arrow that is missing. Tape to machines, machines to energy, energy to wall, and energy to tape copy. The last arrow was not there."
+  },
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-03/blk-l07-02-03-s01.md",
+  "image": {
+    "src": "media/L07-02-03/blk-l07-02-03-s01.webp",
+    "alt": "A wave travelling one way along a nerve fibre despite setting off both neighbours, and two fibres racing, one bare and one wrapped in insulation."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

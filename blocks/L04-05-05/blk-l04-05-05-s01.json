@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-05-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-05-05/blk-l04-05-05-s01.md",
+  "image": {
+    "src": "media/L04-05-05/blk-l04-05-05-s01.webp",
+    "alt": "A long folded bead chain of three hundred beads with one blue bead on the outside highlighted, a hand about to swap it for a grey one."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

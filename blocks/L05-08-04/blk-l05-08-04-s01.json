@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-08-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-08-04/blk-l05-08-04-s01.md",
+  "image": {
+    "src": "media/L05-08-04/blk-l05-08-04-s01.webp",
+    "alt": "A nineteenth-century scientist with a brass microscope examining yeast, weighing sugar with and without air present."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

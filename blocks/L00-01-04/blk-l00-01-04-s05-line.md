@@ -1,0 +1,1 @@
+**Ledger line, written:** Flame - eats, breathes, grows, moves, reproduces. Live seed - all of these, eventually. Boiled seed - none of these. Verdict from Kabir: "Then the flame is alive and the dry seed is dead. You lose."

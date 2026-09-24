@@ -1,0 +1,14 @@
+{
+  "id": "blk-l00-01-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L00-01-01/blk-l00-01-01-s06.md",
+  "image": {
+    "src": "media/L00-01-01/blk-l00-01-01-s06.webp",
+    "alt": "A grandmother's open notebook ruled into three columns, a brass lens on a chain and a single green moong seed on an outstretched palm, by lamplight."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

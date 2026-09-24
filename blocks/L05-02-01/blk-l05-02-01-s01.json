@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-02-01/blk-l05-02-01-s01.md",
+  "image": {
+    "src": "media/L05-02-01/blk-l05-02-01-s01.webp",
+    "alt": "A 1970s refugee camp scene reduced to its essential idea: a simple glass of salt-sugar-water solution held up as medicine, saving more than a hospital drip."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

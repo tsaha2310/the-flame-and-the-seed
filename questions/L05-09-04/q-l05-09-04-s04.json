@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-09-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the chloroplast's turbine \"must be different from the mitochondrion's, because one uses light and one uses food\". What did the panel show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The same protein, spun the same way by ions flowing down a gradient. What differs is what filled the dam: falling electrons from food in one case, and electrons lifted by light and then falling in the other. The turbine does not care."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Different, as Kabir says."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The turbine only sees ions and a wall. Where the ions came from is not its business."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The chloroplast has no turbine; light makes ATP directly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Light lifts electrons. Electrons falling pump ions. Ions turn a turbine. Three steps, the same as V.7 with a different first one."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The chloroplast's turbine runs backwards."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It runs the same way: ions down, ADP to ATP. The chloroplast's ions flow out of the disc, the mitochondrion's into the matrix, but the machine is the same."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ajji's pond from V.7. Any stream can fill the pond. Sunlight is a stream."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

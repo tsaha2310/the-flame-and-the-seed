@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-09-06-s03-line",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-09-06/blk-l03-09-06-s03-line.md",
+  "image": {
+    "src": "media/L03-09-06/blk-l03-09-06-s03-line.webp",
+    "alt": "A notebook page with three columns: a flame beside a bare wire short circuit, a live seed beside a hidden load, a boiled seed beside nothing."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-07-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "It took 25 ml of a base to neutralise 20 ml of an acid. Kabir says \"so the acid is weaker than the base, because it needed more base\". What does the reading say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The acid is a little more concentrated than the base. More base was needed to match it, and the recipe is one to one."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The acid is weaker."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More base means more hydrogen ions to cancel. That is more acid, not less."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They are equal, because they cancelled."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The amounts of hydrogen and hydroxide were equal at the end point. The volumes were not, so the concentrations were not."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It cannot be said without knowing the acid's name."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "For a one-to-one recipe, the volumes tell you the ratio of concentrations straight away. The name only matters for the recipe."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Moles of hydroxide added equals moles of hydrogen ions present. More volume of base at the same concentration means more moles, so the smaller volume of acid held the same moles at a higher concentration."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

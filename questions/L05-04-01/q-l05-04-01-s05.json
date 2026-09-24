@@ -1,0 +1,80 @@
+{
+  "id": "q-l05-04-01-s05",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each reaction by which way it runs on its own."
+  },
+  "categories": [
+    {
+      "id": "catabolic-downhill",
+      "label": {
+        "en": "Catabolic (downhill)"
+      }
+    },
+    {
+      "id": "anabolic-uphill",
+      "label": {
+        "en": "Anabolic (uphill)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "glucose burned to carbon dioxide and water"
+      },
+      "correctCategoryId": "catabolic-downhill"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "amino acids joined into a protein"
+      },
+      "correctCategoryId": "anabolic-uphill"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "starch split into glucose"
+      },
+      "correctCategoryId": "catabolic-downhill"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "carbon dioxide and water made into sugar in a leaf"
+      },
+      "correctCategoryId": "anabolic-uphill"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "a fat split into glycerol and fatty acids"
+      },
+      "correctCategoryId": "catabolic-downhill"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "glucose beads joined into starch for storage"
+      },
+      "correctCategoryId": "anabolic-uphill"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-05-04"
+  ],
+  "image": {
+    "src": "media/L05-04-01/q-l05-04-01-s05.webp",
+    "alt": "A scattered set of cell reactions waiting to be sorted by which way they run on their own: burning glucose, joining amino acids, splitting starch, making sugar from air, splitting a fat, joining glucose beads into starch."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

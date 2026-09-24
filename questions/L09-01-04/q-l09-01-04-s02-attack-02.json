@@ -1,0 +1,52 @@
+{
+  "id": "q-l09-01-04-s02-attack-02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Attack two: \"The boiled seed has the loop's every part. Same molecules, same tape. You cannot point to a missing piece.\""
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"Not a missing piece: a broken arrow. Its machines are unfolded, so nothing catches energy, so nothing is kept, so nothing is built or copied. A loop with one arrow cut is not a loop. The Levelling has already arrived, and no part of it can climb back.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The boiled seed lost its vital force in the boiling.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Book IV's Wohler and Book V's dial lab explained the boiled seed without any force: folds lost to heat, at the valley floor. The card came down."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The boiled seed is alive, just resting.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The dry seed is resting: paused and restartable. The boiled seed has been soaked for a year in the sim and does nothing. Paused and broken are different."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "image": {
+    "src": "media/L09-01-04/q-l09-01-04-s02-attack-02.webp",
+    "alt": "Kabir's second Epilogue attack, holding up the boiled seed sample and arguing it has every part of the loop yet is still dead."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

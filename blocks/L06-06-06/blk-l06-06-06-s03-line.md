@@ -1,0 +1,1 @@
+**Ledger line, written:** Flame - no tape. Live seed - a tape, copied as messages, read by a machine made of tape, building the machines and the readers; switches choose the pages. Boiled seed - the same tape, unread; readers tangled. Verdict: the book breaks "carries instructions". Kabir's question stands: how does a cell sense and respond?

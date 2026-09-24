@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds UAUAUAUAU and the tube makes a chain alternating tyrosine and isoleucine. He says \"so UAU is tyrosine\". Is he entitled to that?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Not yet. The pair contains UAU and AUA, and one is tyrosine, the other isoleucine. He needs one more experiment, such as a triplet-repeat that contains UAU but not AUA, to say which."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The chain's first bead depends on where the reading started, which the tube does not tell you. Either codon could be first."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, because UAU is not a real codon."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every three-letter word is a codon. The question is only which bead it names."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Yes, because tyrosine came out."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Isoleucine came out too. One experiment, two candidates, one more experiment needed."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A repeating pair gives two codons and two beads, unpaired. Pairing them needs a second pattern that contains only one of the two codons."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-04-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-04-01/blk-l08-04-01-s01.md",
+  "image": {
+    "src": "media/L08-04-01/blk-l08-04-01-s01.webp",
+    "alt": "Mendel's round and wrinkled pea square flipped over to reveal the actual gene and protein difference underneath the surface letters."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

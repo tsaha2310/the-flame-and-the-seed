@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-01/blk-l02-02-01-s01.md",
+  "image": {
+    "src": "media/L02-02-01/blk-l02-02-01-s01.webp",
+    "alt": "A boy holding four long balloons tied at one knot that refuse to lie flat and splay toward the corners of a pyramid."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

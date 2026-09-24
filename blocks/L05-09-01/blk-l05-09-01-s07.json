@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-09-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-09-01/blk-l05-09-01-s07.md",
+  "image": {
+    "src": "media/L05-09-01/blk-l05-09-01-s07.webp",
+    "alt": "A large tree drawing something invisible from the air itself rather than the soil, sunlight streaming into its leaves."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

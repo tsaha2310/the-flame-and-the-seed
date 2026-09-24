@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-08-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If the helix must be the same width, why not use only A-T pairs? Simpler.\" What does one kind of pair cost?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Information. A helix of only A-T pairs is a tape of two letters, which spells far less per position than four. And the extra strength of G-C is lost everywhere."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it would be simpler."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fewer kinds of letter means fewer possible messages, from IV.7's counting. Four kinds is not decoration."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The helix would fall apart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An all-A-T helix holds together, just less firmly. The real cost is what it can say."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It would be too wide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A-T is one big and one small, the right width. Width is not the problem; alphabet size is."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The width rule allows exactly two pairs. Using both gives four letters and two strengths. Using one gives a thinner alphabet for no gain."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "les-03-08-01",
+  "lessonId": "les-03-08-01",
+  "type": "lesson",
+  "title": {
+    "en": "Ink never gathers back"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-08-01/blk-l03-08-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-08-01/blk-l03-08-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-08-01/blk-l03-08-01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03-08-01/blk-l03-08-01-s04.json"
+    },
+    {
+      "blockRef": "questions/L03-08-01/q-l03-08-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-08-01/blk-l03-08-01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03-08-01/blk-l03-08-01-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-06/blk-l05-10-06-s01.md",
+  "image": {
+    "src": "media/L05-10-06/blk-l05-10-06-s01.webp",
+    "alt": "A small toy steam engine with a spirit burner and a spinning flywheel on the table, beside the three-column notebook page."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

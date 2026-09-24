@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-08-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the Western Ghats' soil \"must be the richest in India, because the forest is so lush\". What did the reveal show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The soil is thin and poor. The forest's nutrients are held in its living things and cycled fast by decomposers, from leaf to soil to root in weeks. Clear the trees and the nutrients leave with them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Richest soil in India."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lush means fast cycling. The bank is the trees, not the ground."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The soil is rich because it never dries."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heavy rain washes nutrients out of soil. What keeps them is the forest's speed at reclaiming them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The forest makes its own soil."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Decomposers make a little soil from leaves, and rain removes it nearly as fast. The forest lives on its own loop."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask where the nutrients sit. In a warm wet biome, in the living things. In a cold one, in the peat. In a desert, in whatever has not blown away."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

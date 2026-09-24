@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-06-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If more steps catch more energy, why does the cell only catch a third? Why not a hundred steps and catch it all?\""
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Because every coupling wastes some of the fall, from III.8, and a step smaller than one coin cannot recharge a coin at all. About thirty steps, catching about a third, is close to the best a staircase can do. The rest is heat, and it is what keeps you warm."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because the cell is lazy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cells do not try. The limit is in coupling: no wheel catches everything, and tiny steps catch nothing."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because there is not enough room for more enzymes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Room is not the limit. A step smaller than a coin's worth is useless however many enzymes you have."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because the rest is stored as fat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The uncaught two-thirds leaves as heat within seconds. Fat is made from caught energy, not from the waste."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two limits. Each wheel wastes some. Each step must be at least a coin. Together they cap a staircase near thirty steps and a third caught, which is what a real cell gets."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

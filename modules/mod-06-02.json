@@ -1,0 +1,46 @@
+{
+  "id": "mod-06-02",
+  "moduleId": "mod-06-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VI.2 Copy the working page: transcription"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "mrna",
+      "transcription",
+      "rna-polymerase",
+      "promoter",
+      "template-strand",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-06-02-01.json",
+      "title": {
+        "en": "The master book"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-02-02.json",
+      "title": {
+        "en": "Start here"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-02-03.json",
+      "title": {
+        "en": "Why a copy?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-02-04.json",
+      "title": {
+        "en": "A tap that cannot shut"
+      }
+    }
+  ]
+}

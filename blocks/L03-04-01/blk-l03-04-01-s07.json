@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-04-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-04-01/blk-l03-04-01-s07.md",
+  "image": {
+    "src": "media/L03-04-01/blk-l03-04-01-s07.webp",
+    "alt": "Heat drawn as orange arrows flowing into a cup and splitting into two bins, one of jiggling molecules and one of stretched grips."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

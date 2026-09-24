@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-03-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Carbon-12 has 6 protons and 6 neutrons. Carbon-14 is a rarer, heavier form found in small amounts in everything living. Which is true of carbon-14?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It has 6 protons and 8 neutrons. It is still carbon, and it does the same chemistry."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It has 8 protons and 6 neutrons."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Eight protons is oxygen, not carbon. Only neutrons can be added without changing the element."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It has 7 protons and 7 neutrons."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Seven protons is nitrogen. Carbon must keep its six protons whatever else changes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is not really carbon."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name follows the protons. Six protons is carbon, at any weight."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Mass number 14 minus atomic number 6 leaves 8 neutrons. The extra two neutrons change the mass and nothing about the chemistry."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-04-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-04-01/blk-l04-04-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Warm water and stirring do what chewing does.",
+      "feedback": "Kabir's card: \"Chewing is just mixing.\""
+    },
+    {
+      "id": "b",
+      "text": "No. Chewing mixes in saliva, and something in saliva does the cutting. Water alone cannot."
+    },
+    {
+      "id": "c",
+      "text": "Yes, but only if the water is hot enough to cook it.",
+      "feedback": "Kabir's card: \"Cooking makes it sweet.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-04-01/blk-l04-04-01-s02.webp",
+    "alt": "A piece of roti being stirred in a glass of warm water for two minutes, the water still clear."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

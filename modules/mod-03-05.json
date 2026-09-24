@@ -1,0 +1,50 @@
+{
+  "id": "mod-03-05",
+  "moduleId": "mod-03-05",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.5 Disappearing acts"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "solute",
+      "solvent",
+      "solution",
+      "saturated",
+      "concentration",
+      "molarity",
+      "diffusion",
+      "random-walk",
+      "osmosis",
+      "semi-permeable"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-05-01.json",
+      "title": {
+        "en": "Where did the sugar go?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-05-02.json",
+      "title": {
+        "en": "Full up"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-05-03.json",
+      "title": {
+        "en": "The random walk"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-05-04.json",
+      "title": {
+        "en": "Pickle master"
+      }
+    }
+  ]
+}

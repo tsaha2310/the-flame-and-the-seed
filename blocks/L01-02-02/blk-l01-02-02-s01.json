@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-02/blk-l01-02-02-s01.md",
+  "image": {
+    "src": "media/L01-02-02/blk-l01-02-02-s01.webp",
+    "alt": "Two marbles tied by a thread over a curtain rail, the heavy one dropping and the light one rising."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mod-05-06",
+  "moduleId": "mod-05-06",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.6 Respiration I: splitting sugar"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "cellular-respiration",
+      "nad",
+      "nadh",
+      "electron-carrier",
+      "glycolysis",
+      "pyruvate",
+      "cytosol",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-06-01.json",
+      "title": {
+        "en": "One drop or a staircase"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-06-02.json",
+      "title": {
+        "en": "The electron carrier"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-06-03.json",
+      "title": {
+        "en": "The pipeline"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-06-04.json",
+      "title": {
+        "en": "Let NAD+ run out"
+      }
+    }
+  ]
+}

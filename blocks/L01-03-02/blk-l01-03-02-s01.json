@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-02/blk-l01-03-02-s01.md",
+  "image": {
+    "src": "media/L01-03-02/blk-l01-03-02-s01.webp",
+    "alt": "A haystack with stones being thrown into it, beside a sheet of gold foil so thin that light shines through it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

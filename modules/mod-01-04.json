@@ -1,0 +1,48 @@
+{
+  "id": "mod-01-04",
+  "moduleId": "mod-01-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "I.4 Ions and electricity"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "electrolyte",
+      "current",
+      "ion",
+      "voltage-push",
+      "first-pass",
+      "molecule",
+      "electrolysis",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01-04-01.json",
+      "title": {
+        "en": "Will salt water carry current?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-04-02.json",
+      "title": {
+        "en": "What moves in the wire"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-04-03.json",
+      "title": {
+        "en": "Splitting water"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-04-04.json",
+      "title": {
+        "en": "The sugar puzzle"
+      }
+    }
+  ]
+}

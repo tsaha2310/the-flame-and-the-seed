@@ -1,0 +1,37 @@
+{
+  "id": "les-02-04-03",
+  "lessonId": "les-02-04-03",
+  "type": "lesson",
+  "title": {
+    "en": "Pressure and the cooling matka"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02-04-03/blk-l02-04-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-03/blk-l02-04-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-03/blk-l02-04-03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-03/blk-l02-04-03-s04.json"
+    },
+    {
+      "blockRef": "questions/L02-04-03/q-l02-04-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-03/blk-l02-04-03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L02-04-03/blk-l02-04-03-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

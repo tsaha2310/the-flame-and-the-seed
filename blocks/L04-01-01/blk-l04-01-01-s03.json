@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-01-01-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-01-01/blk-l04-01-01-s03.md",
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L04-01-01/WohlerFlaskScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-04-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-04-01/blk-l04-04-01-s07.md",
+  "image": {
+    "src": "media/L04-04-01/blk-l04-04-01-s07.webp",
+    "alt": "A glucose ring of six black spheres with five hydroxyl groups, opening and closing like a bracelet clasp, with a water molecule beside it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

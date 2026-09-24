@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-03-01/blk-l06-03-01-s01.md",
+  "image": {
+    "src": "media/L06-03-01/blk-l06-03-01-s01.webp",
+    "alt": "A boy writing out pairs and triples of four letters on paper, trying to reach twenty distinct combinations."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

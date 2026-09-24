@@ -1,0 +1,52 @@
+{
+  "id": "q-l09-01-04-s02-attack-03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Attack three: \"A thermostat senses, a book carries instructions, a steam engine catches a fire's energy, a crystal copies a pattern. Every arrow of your loop is on some card. The loop is just a longer list.\""
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"Every arrow is on some card, and no card has them joined. A list says what a thing does; the loop says what each part does for the others. The tape builds the thing that reads the tape. Nothing on the table does that but the seed, and the four edge cards, which the loop marks as open instead of pretending to settle.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The seed's arrows are better than the cards'.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A thermostat holds a line better than a pancreas. Better is not the claim. Joined is."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The cards are not real living things, so they do not count.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Prologue put them on the table exactly so that they would count. The answer has to survive them, and it does, by being a loop and not a list."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "image": {
+    "src": "media/L09-01-04/q-l09-01-04-s02-attack-03.webp",
+    "alt": "Kabir's third Epilogue attack, gesturing at a thermostat, a book, a toy steam engine and a virus card laid out together, calling the loop just a longer list."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

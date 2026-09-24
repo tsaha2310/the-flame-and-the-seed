@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-04-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says a termite \"must have a stronger stomach than me, because it eats wood\". What is the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The termite keeps microbes in its gut whose cutters fit the beta link. Kabir's cutters fit only alpha. Strength has nothing to do with it; fit does."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A stronger stomach."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wood in the strongest stomach acid is still wood. The link needs a cutter shaped for it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Termites eat a different kind of wood."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Soft or hard, it is cellulose. The link is the same."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Termites do not really digest it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It passes through Kabir. A termite gets most of its food from it, through its microbes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Cellulose is glucose, and glucose is food, if you have the cutter. Cutters are shaped, and shapes are Book IV's next rung."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

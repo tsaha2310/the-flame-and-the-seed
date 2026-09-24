@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-01-03/blk-l07-01-03-s01.md",
+  "image": {
+    "src": "media/L07-01-03/blk-l07-01-03-s01.webp",
+    "alt": "A narrow safe band drawn as a dial with a paratha, a fasting clock and a cricket bat pushing the needle in different directions."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

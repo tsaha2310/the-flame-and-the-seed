@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-04-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-04/blk-l06-06-04-s03.md",
+  "simulation": {
+    "src": "simulations/L06-06-04/PickTheSwitchesScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-07-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the cell \"does not just have the chain press coins directly, and skip the dam\". What does the dam buy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Any source of ions counts. Several chains from different carriers all fill one dam, and one kind of turbine drains it. The dam also stores: a few seconds of coins in reserve, and a voltage the cell uses for other things, like pulling pyruvate in."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it is a historical accident."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is old, but it is not pointless. A dam pools many small falls and lets one turbine use all of them."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The dam makes more energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing adds energy. The dam pools and stores it. The total is set by the electrons' fall."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The chain cannot touch ADP."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A chain could in principle be built to press coins. The dam design won because pooling beats point-to-point."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ajji's pond. Many streams, one wheel. A gradient is a common currency any fall can pay into and any turbine can spend."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

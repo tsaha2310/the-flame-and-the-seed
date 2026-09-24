@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-03-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A message reads AUG AAA GGC UAA. Kabir writes the chain as methionine, lysine, glycine, and then a fourth bead for UAA. What is the chain?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Methionine, lysine, glycine, and then it stops. UAA names no bead. Three beads."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Four beads."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Three codons name beads; the fourth is a stop. The chain is three long."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Two beads, because AUG is only a signal."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "AUG is both the start and methionine. The first bead of nearly every fresh chain is methionine, though it is often trimmed off later."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Three beads, but starting from AAA."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The start codon names a bead. Methionine, lysine, glycine."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "AUG starts and counts. Stop codons end and do not count. Everything between is a bead."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

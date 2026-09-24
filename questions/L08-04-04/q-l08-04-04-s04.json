@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-04-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Malaria is eliminated from a region. Kabir says \"so the sickle allele will disappear in a generation or two\". What does the sim show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It falls, slowly. Carriers are no longer protected, and two-copy children still die, but the allele is hidden in carriers and only exposed one child in four when two carriers meet. Over many generations it dwindles; it does not vanish quickly."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It disappears in a generation or two."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Selection removes it only through two-copy children, who are a small fraction. Hidden alleles fade slowly."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It stays exactly where it is."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Without the carrier advantage, the two-copy deaths tip the balance downward, and the frequency falls."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It rises, because carriers are now healthy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Carriers were always healthy. What they lose is an advantage over non-carriers, and without it the allele has only its cost."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A recessive allele hides in carriers, so selection against it is weak when it is rare. Removing the benefit starts a slow decline, not a collapse."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

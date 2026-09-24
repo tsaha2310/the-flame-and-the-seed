@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-03-01/blk-l08-03-01-s01.md",
+  "image": {
+    "src": "media/L08-03-01/blk-l08-03-01-s01.webp",
+    "alt": "A moong seed formed by a pollen cell joining an egg cell, each contributing half of the full chromosome count."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

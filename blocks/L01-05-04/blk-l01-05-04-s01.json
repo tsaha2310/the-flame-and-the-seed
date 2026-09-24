@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-04/blk-l01-05-04-s01.md",
+  "image": {
+    "src": "media/L01-05-04/blk-l01-05-04-s01.webp",
+    "alt": "A dented copper pot on the floor, a crumbled lump of yellow sulphur, and a phone with its silicon chip peeking out."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

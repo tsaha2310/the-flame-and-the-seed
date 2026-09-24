@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-04-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Ice is cold and steam is hot, so cold things are solid and hot things are gas.\" What does the Crowd show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Solid or gas depends on jiggle compared to stickiness. Iron is a solid at 1000 degrees because its stickiness is huge. Oxygen is a gas at minus 150 because its stickiness is tiny."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kabir is right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Set stickiness high and the box stays solid at tawa temperature. Set it low and the box is a gas in the fridge."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It depends on how big the box is."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Squashing does matter a little for gases, but the sim's box is fixed and the state still changes with the two dials."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Solids are made of different atoms from gases."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ice, water and steam are the same molecule. Only the jiggle changes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "\"Hot\" and \"cold\" only mean something compared with the stickiness. Every substance has its own melting and boiling points, set by its own pulls."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

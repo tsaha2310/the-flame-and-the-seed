@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-05-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir deposits the whole lunch as one long chain, ignoring the brancher, and saves the coins branching would have cost. What has he lost?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ends. A single chain has one end to add to and one to withdraw from. Tomorrow, when he needs sugar fast, the bank can only pay out one bead at a time from one place."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; the sugar is stored."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stored, yes. Usable quickly, no. The shape of the store sets the speed of withdrawal."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The chain will fall apart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A long alpha chain is starch, and it is perfectly stable. Plants store it that way. It is just slow to open."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "He has saved coins and lost nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He has saved a few coins now and will pay in speed later, in a sprint, which is tomorrow's game."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every branch is an extra door. Deposit and withdrawal both go through doors. A tree with a hundred doors moves sugar a hundred times faster than a chain with one."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

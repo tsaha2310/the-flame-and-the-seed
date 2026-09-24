@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-06-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A new animal is found in a cave: eyeless, pale, and it swims. Kabir files it with the fish and predicts gills. What should he check first?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its inherited features: whether it has a backbone, what its skeleton is made of, whether it feeds its young milk, what its DNA says. Pale and eyeless is what any cave animal becomes, and swimming is what water animals do. Neither says what it is."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it swims, so gills."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Whales, otters, penguins and sea snakes swim with lungs. Swimming predicts nothing about breathing."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Whether other cave animals have gills."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Caves hold blind fish, blind salamanders, blind insects and blind shrimps. The cave shaped their eyes and colour, not their ancestry."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its size."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size sorts nothing on the tree. A blue whale and a mouse share a drawer."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Strip away the features the habitat would give any animal. What is left is inheritance, and that is what a drawer should be based on."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

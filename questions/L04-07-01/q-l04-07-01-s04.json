@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-07-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds AGCU and then builds UCGA. He says \"same four letters, same molecule\". What does the bench say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Different molecules. A chain has a direction, and AGCU read from the five-prime end is not the same as UCGA read from the five-prime end. The bases sit in a different order along the backbone."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same beads, different order. The protein lesson said the same: order is the information."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Same, because you can read it backwards."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Flipping puts the five-prime end where the three-prime end was. The backbone's chemistry does not allow that; every chain has one front."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The bench cannot tell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bench reads the real chain's real direction. The two chains differ at the first position."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Direction plus order. Two chains are the same molecule only if the same base is at every position counted from the five-prime end."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

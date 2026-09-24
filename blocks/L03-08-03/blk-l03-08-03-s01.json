@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-03/blk-l03-08-03-s01.md",
+  "image": {
+    "src": "media/L03-08-03/blk-l03-08-03-s01.webp",
+    "alt": "A valley curve with a marble settled at the floor between two rooms of figures, and a second valley so far to one side that its far wall is out of frame."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

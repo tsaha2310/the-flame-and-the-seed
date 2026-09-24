@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-02-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A disease strips the myelin from some nerves. Kabir says \"so those nerves stop working\". What happens to the signal?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It slows badly, and over stripped stretches it may fade before reaching the next gates and fail. Muscles get late, weak or missing messages. The nerve is intact; its speed is gone."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stops entirely."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bare nerve still conducts, slowly. Many nerves in the body have no myelin at all and work fine, at their pace."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It goes faster, because the wrapping is gone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The wrapping is what made it fast. Bare cable is the slow case."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It goes backwards."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Direction comes from the refractory period, which myelin does not touch."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Myelin buys speed by letting the wave skip. Remove it and the wave crawls, and where the bare cable is thin it may not make it to the next gap at all."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

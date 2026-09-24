@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-02-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-02-03/blk-l04-02-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Charcoal, because it is pure carbon and carbon is what burns.",
+      "feedback": "Kabir's card: \"Pure fuel.\""
+    },
+    {
+      "id": "b",
+      "text": "Wax, because its carbons carry the most hydrogen and sit lowest on the scoreboard, with the furthest to fall."
+    },
+    {
+      "id": "c",
+      "text": "Sugar, because sugar is energy.",
+      "feedback": "Kabir's card: \"Sugar gives you energy.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-02-03/blk-l04-02-03-s02.webp",
+    "alt": "Three molecules side by side: a long carbon chain thick with hydrogens, a sugar ring studded with oxygens, and a bare lattice of carbon, each above a small flame."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

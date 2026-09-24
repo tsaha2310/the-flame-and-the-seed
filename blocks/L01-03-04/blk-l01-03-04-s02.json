@@ -1,0 +1,32 @@
+{
+  "id": "blk-l01-03-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01-03-04/blk-l01-03-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Any colour, depending on how hard it was knocked.",
+      "feedback": "Kabir's card: \"Harder knock, bigger fall, any colour.\""
+    },
+    {
+      "id": "b",
+      "text": "Only a few fixed colours, the same for every sodium atom."
+    },
+    {
+      "id": "c",
+      "text": "White, like any hot thing.",
+      "feedback": "Kabir's card: \"Hot things glow white.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L01-03-04/blk-l01-03-04-s02.webp",
+    "alt": "A sodium atom in a flame with its outer electron lifted up a set of fixed rungs and poised to fall back."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

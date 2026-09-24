@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-06-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-06-04/blk-l05-06-04-s01.md",
+  "image": {
+    "src": "media/L05-06-04/blk-l05-06-04-s01.webp",
+    "alt": "A cell's limited supply of empty bucket-shapes all now full, with nothing in the open room able to take electrons back out of them."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

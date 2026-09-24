@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-03-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir suggests the blocked cell \"could just stop swallowing, then it would not shrink\". What would that save, and what would it not?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It would save the wall. It would not save the products stuck inside, or the silence: nothing made for outside can leave, and a nerve still cannot signal."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It would fix everything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Balance of wall, yes. The exit is still blocked, so nothing the cell makes can get out."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It would make things worse, because the cell would starve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Most cells get sugar through carriers, not by swallowing. Stopping swallowing is survivable. Stopping spitting is not."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The cell cannot choose to stop swallowing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cells do regulate it. The point is that regulating the in-leg cannot fix a blocked out-leg."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two failures had one cause: the blocked exit. Fixing the wall budget fixes one symptom and leaves the disease."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

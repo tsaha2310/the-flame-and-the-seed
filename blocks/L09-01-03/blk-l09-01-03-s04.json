@@ -1,0 +1,30 @@
+{
+  "id": "blk-l09-01-03-s04",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "Choose one of the four open cards. Is it alive? Write your view, then read three."
+  },
+  "viewpoints": [
+    {
+      "en": "The virus is alive, because it evolves, and evolving is the deepest thing the loop does. That it borrows machines is no stranger than a mistletoe borrowing a tree's water. Parasites are alive."
+    },
+    {
+      "en": "The virus is not alive, because outside a cell it does nothing, and a thing that does nothing until something else acts on it is a chemical, however clever. The loop must be its own."
+    },
+    {
+      "en": "\"Alive\" is a word for a cluster of properties that usually go together, and the four cards are where the cluster comes apart. The honest answer is to say which arrows each card has and stop asking for a yes or no that the world does not contain."
+    },
+    {
+      "en": "The scientists who study viruses do not agree. The people who study the origin of life, from VIII.5 L06, do not agree. That is not a failure of the course. It is where the edge is."
+    }
+  ],
+  "image": {
+    "src": "media/L09-01-03/blk-l09-01-03-s04.webp",
+    "alt": "Four face-up cards on the table, a crystal virus, a mule, a dry seed and a machine, a boy choosing one to write his own view about before reading further."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-06/blk-l04-08-06-s01.md",
+  "image": {
+    "src": "media/L04-08-06/blk-l04-08-06-s01.webp",
+    "alt": "Three samples under a brass lens for the fourth time, revealing fats, sugar chains, folded proteins and helices in the seeds, and only fat chains in the oil."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

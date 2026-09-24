@@ -1,0 +1,106 @@
+{
+  "id": "q-l07-05-03-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each structure by its tissue type."
+  },
+  "categories": [
+    {
+      "id": "epithelial",
+      "label": {
+        "en": "Epithelial"
+      }
+    },
+    {
+      "id": "connective",
+      "label": {
+        "en": "Connective"
+      }
+    },
+    {
+      "id": "muscle",
+      "label": {
+        "en": "Muscle"
+      }
+    },
+    {
+      "id": "nervous",
+      "label": {
+        "en": "Nervous"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "the lining of the small gut with its carriers"
+      },
+      "correctCategoryId": "epithelial"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "blood"
+      },
+      "correctCategoryId": "connective"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "the wall of the heart"
+      },
+      "correctCategoryId": "muscle"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "the net of cells timing the gut's squeezes"
+      },
+      "correctCategoryId": "nervous"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "the outer layer of skin"
+      },
+      "correctCategoryId": "epithelial"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "bone"
+      },
+      "correctCategoryId": "connective"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "the layer that shortens to move a limb"
+      },
+      "correctCategoryId": "muscle"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "the lining of a lung"
+      },
+      "correctCategoryId": "epithelial"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "image": {
+    "src": "media/L07-05-03/q-l07-05-03-s04.webp",
+    "alt": "Animal structures waiting to be sorted by tissue type: a gut lining, blood, a heart wall, a timing nerve net, skin's outer layer, bone, a limb muscle, a lung lining."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

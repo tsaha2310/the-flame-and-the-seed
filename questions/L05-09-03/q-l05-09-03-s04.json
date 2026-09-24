@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-09-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the oxygen a plant gives off \"comes from the carbon dioxide it breathes in, because that is where the oxygen atoms are\". Where does the sim show it coming from?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "From water. The hole in the first tower pulls electrons from water, and the oxygen atoms left over pair up and leave. Carbon dioxide's oxygens end up in the sugar and in water made later."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From carbon dioxide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Watch the bubbles. They rise from the water-splitting side, not from anywhere carbon dioxide touches. Tomorrow's labelled atoms settle it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "From the chlorophyll."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chlorophyll is not used up. It lifts electrons and gets them back from water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "From the air the leaf already contains."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sealed leaf in the light keeps making oxygen after its air is gone. It is making it, from water."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the electrons. The hole pulls them from water. Water minus electrons and hydrogen ions is oxygen gas."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If ions cannot cross the wall, the cholera patients could not have lost salt through their gut.\" What is the gap?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The gut lining is not a bare bilayer. Its cells' walls have proteins built into them that move ions through, and cholera's toxin jams those proteins open. Tomorrow's lesson."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Ions can cross a bilayer easily."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sim's sodium never crossed in an hour. Ions are stopped by the oily middle, however small."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Cholera patients lose water, not salt."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They lose both, in roughly the proportion of blood. That is why plain water does not save them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The gut has no wall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The gut is lined with cells, each walled. Everything that gets in or out crosses those walls, through proteins."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A bare bilayer is the rule. Real cell walls are bilayers with proteins in them, and the proteins make exceptions. Cholera attacks the exceptions."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "les-03-09-03",
+  "lessonId": "les-03-09-03",
+  "type": "lesson",
+  "title": {
+    "en": "Volts times charge"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-09-03/blk-l03-09-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-03/blk-l03-09-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-03/blk-l03-09-03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-03/blk-l03-09-03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03-09-03/q-l03-09-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-03/blk-l03-09-03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03-09-03/blk-l03-09-03-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

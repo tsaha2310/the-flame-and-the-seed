@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-07-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-07-01/blk-l08-07-01-s01.md",
+  "image": {
+    "src": "media/L08-07-01/blk-l08-07-01-s01.webp",
+    "alt": "Pink lumps on a plant's roots, cut open to reveal bacteria protected from oxygen by a blood-like protein while they fix nitrogen from air."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

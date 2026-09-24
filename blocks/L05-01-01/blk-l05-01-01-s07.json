@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-01/blk-l05-01-01-s07.md",
+  "image": {
+    "src": "media/L05-01-01/blk-l05-01-01-s07.webp",
+    "alt": "A hollow membrane bubble the size of a full stop, with a two-hundred-year-old lens beside it too weak to have ever seen it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

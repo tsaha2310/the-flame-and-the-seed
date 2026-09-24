@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-02/blk-l05-10-02-s01.md",
+  "image": {
+    "src": "media/L05-10-02/blk-l05-10-02-s01.webp",
+    "alt": "A circular wheel diagram with three carbon dioxide molecules entering over three turns, producing six three-carbon pieces, most cycling back to rebuild the acceptor."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

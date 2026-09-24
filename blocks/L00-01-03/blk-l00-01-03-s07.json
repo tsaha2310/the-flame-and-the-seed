@@ -1,0 +1,14 @@
+{
+  "id": "blk-l00-01-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L00-01-03/blk-l00-01-03-s07.md",
+  "image": {
+    "src": "media/L00-01-03/blk-l00-01-03-s07.webp",
+    "alt": "Three playing cards on a table showing a mule, a dormant seed and a candle flame, beside a brass lens held up like a key."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

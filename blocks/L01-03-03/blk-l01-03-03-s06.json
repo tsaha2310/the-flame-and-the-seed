@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-03/blk-l01-03-03-s06.md",
+  "image": {
+    "src": "media/L01-03-03/blk-l01-03-03-s06.webp",
+    "alt": "Six nuclei drawn as clusters of red and grey balls in a row of increasing size, beside a burning seed and a diya."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-04-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A steel spoon left in hot dal is too hot to touch in seconds. The dal itself is barely warmer than it was. Kabir says \"the spoon got more heat\". What actually happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The spoon got a little heat and warmed a lot, because steel's heat capacity is low. The dal has a high heat capacity, mostly water, so the same heat changes its temperature very little."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The spoon got more heat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hotter means more temperature, not more heat. The spoon jiggles hard on a small energy because steel jiggles easily."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The spoon conducts."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Conducting is why the heat reached the handle quickly. It does not explain why so little heat made so much temperature."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The dal is not really hot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The dal is at the same temperature as the spoon after a while. It got there by taking in far more heat than the spoon did."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Temperature change equals heat in, divided by heat capacity. A low heat capacity turns a little heat into a big temperature change."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

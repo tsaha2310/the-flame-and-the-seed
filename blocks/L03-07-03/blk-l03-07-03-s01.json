@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-07-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-07-03/blk-l03-07-03-s01.md",
+  "image": {
+    "src": "media/L03-07-03/blk-l03-07-03-s01.webp",
+    "alt": "A boy with heartburn drinking a glass of baking soda water and making a face, with hydrogen ions and hydroxide ions meeting to make water in a thought bubble."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

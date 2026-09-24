@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-05-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a chain of five beads and the bench prints its sequence. He turns the chain round and asks why the bench does not print it backwards. Why is the sequence read from one end?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The chain has a direction: a free amine at one end and a free carboxyl at the other. Reading from the amine end is a convention, and a real chain built backwards would be a different molecule."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bench is lazy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bench reads the chain's real direction. Both ends are chemically different, so there is only one \"front\"."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It does not matter which end."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A chain of A then B has A's carboxyl joined to B's amine. B then A is a different join. They are different molecules."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because the first bead is the biggest."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size is not the rule. The free amine is."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Peptide bonds join carboxyl to amine, so every chain has an amine end and a carboxyl end. Sequence is read amine to carboxyl."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

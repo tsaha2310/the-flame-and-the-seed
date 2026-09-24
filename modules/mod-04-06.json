@@ -1,0 +1,46 @@
+{
+  "id": "mod-04-06",
+  "moduleId": "mod-04-06",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.6 Add phosphorus: the energy coin"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "phosphate",
+      "base-ring",
+      "nucleotide",
+      "atp",
+      "adp",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-06-01.json",
+      "title": {
+        "en": "The crowded tail"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-06-02.json",
+      "title": {
+        "en": "Bases and the nucleotide"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-06-03.json",
+      "title": {
+        "en": "Spend and recharge"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-06-04.json",
+      "title": {
+        "en": "Pay for everything in glucose"
+      }
+    }
+  ]
+}

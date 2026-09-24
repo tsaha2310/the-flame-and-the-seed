@@ -1,0 +1,31 @@
+{
+  "id": "q-l06-06-06-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book VI line. What does the seed do with its tape, and is Kabir's book alive?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "The seed carries a tape, DNA, that spells the order of beads in every protein. It copies pages of the tape as short-lived RNA messages, reads them with a machine made of RNA, and builds every machine it has from what it reads, including the readers and copyists themselves. Switches choose which pages are open, so the same tape makes different cells. A cookbook carries instructions too, but nothing in it reads them, builds from them, copies them or flips a switch. The book waits for a cook. The seed is its own cook."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

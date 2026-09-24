@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-04/blk-l04-08-04-s01.md",
+  "image": {
+    "src": "media/L04-08-04/blk-l04-08-04-s01.webp",
+    "alt": "A grandmother running the zip of her cardigan up and down, the teeth drawn as two matched strands, one strand's direction in question."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

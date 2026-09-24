@@ -1,0 +1,34 @@
+{
+  "id": "les-03-03-03",
+  "lessonId": "les-03-03-03",
+  "type": "lesson",
+  "title": {
+    "en": "The Tug-of-War scoreboard"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-03-03/blk-l03-03-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-03-03/blk-l03-03-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-03-03/blk-l03-03-03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03-03-03/q-l03-03-03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03-03-03/blk-l03-03-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-03-03/blk-l03-03-03-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

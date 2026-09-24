@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-05-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-05-02/blk-l03-05-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The warm one."
+    },
+    {
+      "id": "b",
+      "text": "The cold one, because cold things are fuller.",
+      "feedback": "Kabir's card: \"Cold water holds more sugar, so cold holds more gas.\""
+    },
+    {
+      "id": "c",
+      "text": "The same, because they have the same gas in them.",
+      "feedback": "Kabir's card: \"Same bottle, same gas.\""
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-05-02/blk-l03-05-02-s02.webp",
+    "alt": "Two fizzy drink bottles, one warm on the counter and one frosty from the fridge, both about to be opened."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

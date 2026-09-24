@@ -1,0 +1,32 @@
+{
+  "id": "blk-l00-01-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L00-01-03/blk-l00-01-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both sprout. Ten seconds is nothing.",
+      "feedback": "Kabir's card: \"You cannot kill something in ten seconds.\""
+    },
+    {
+      "id": "b",
+      "text": "The boiled one sprouts late and small.",
+      "feedback": "Kabir's card: \"Heat slows things down, it does not stop them.\""
+    },
+    {
+      "id": "c",
+      "text": "The ten-second seed never sprouts."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L00-01-03/blk-l00-01-03-s02.webp",
+    "alt": "Two moong seeds side by side in shallow water, one plump and sprouting a root, the other swollen but inert."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

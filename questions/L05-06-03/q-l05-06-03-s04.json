@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-06-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "With the till empty, the pipeline stalls at step one. Kabir says \"so a starving cell can never restart glycolysis, because it needs coins to make coins\". How do cells avoid this trap?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A cell never lets the till reach zero. It keeps a few coins in reserve and, in a pinch, uses a different molecule as a stand-in coin for the first step. The investment is small and repaid quickly. A cell that truly hit zero would be in trouble, and that is what dying is."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They do not; a starving cell dies."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cell at zero ATP is dead, but a living cell is never at zero. The pipeline's first step is small enough to prime from reserves."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The first step does not really need a coin."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It needs one. The sim stalls without it, and so does a real cell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Oxygen restarts it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Glycolysis uses no oxygen. Oxygen enters the story two modules from now."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Investment pipelines need a float. The cell keeps one. The danger is real, and it is why a cell out of coins is a cell out of time."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

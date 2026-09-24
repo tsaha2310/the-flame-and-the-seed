@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-05-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Turmeric's yellow molecule dissolves well in oil and poorly in water. Ajji fries turmeric in ghee before adding it to dal. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The yellow molecule is mostly uncharged, so it dissolves in ghee, which spreads it through the dal. In water it would stay as specks."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Frying makes it hotter, and hot things dissolve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heat helps a little, but turmeric in hot water still stays as yellow grit. The ghee is doing the dissolving."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Ghee is sticky and traps it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The molecules do not stick to the ghee. They dissolve in it, spreading evenly, because both are uncharged."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Turmeric only dissolves in fat because it is a spice."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt is a spice by the cook's reckoning and dissolves in water. What matters is the molecule's charges, not its use."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask whether the solute has charged corners or hydrogen-bonding spots. Turmeric's yellow molecule has few, so it goes with the oil."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

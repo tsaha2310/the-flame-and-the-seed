@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-04-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir wraps the matka in a plastic bag \"to stop the leak\". What happens to the temperature of the water by morning?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays about the same as the air. Nothing can evaporate from the clay through the plastic, so the fastest molecules cannot leave."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It gets even cooler."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cold was made by evaporation. Stop evaporation and nothing makes cold any more. The bag is a matka with no sweat, which is a bucket."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It gets warmer than the air."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bag does not add energy. It only stops the escape. The water settles at the air's temperature and no lower."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The water evaporates inside the bag instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A little does, but the bag fills with vapour and the escapes and returns balance. No net loss of fast molecules, no cooling."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Cooling by evaporation needs escape. Block the escape and the matka is just a pot."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

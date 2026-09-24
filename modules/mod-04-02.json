@@ -1,0 +1,47 @@
+{
+  "id": "mod-04-02",
+  "moduleId": "mod-04-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.2 Hydrocarbons"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "alkane",
+      "hydrocarbon",
+      "alkene",
+      "alkyne",
+      "isomer",
+      "fuel",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-02-01.json",
+      "title": {
+        "en": "The gas cylinder"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-02-02.json",
+      "title": {
+        "en": "Double, triple, and the isomer hunt"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-02-03.json",
+      "title": {
+        "en": "Oily and full of fall"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-02-04.json",
+      "title": {
+        "en": "Try burning CO2"
+      }
+    }
+  ]
+}

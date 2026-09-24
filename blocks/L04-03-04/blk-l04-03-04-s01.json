@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-03-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-03-04/blk-l04-03-04-s01.md",
+  "image": {
+    "src": "media/L04-03-04/blk-l04-03-04-s01.webp",
+    "alt": "A greasy plate where water runs off untouched, then a drop of soap solution lifting the grease into swirls."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

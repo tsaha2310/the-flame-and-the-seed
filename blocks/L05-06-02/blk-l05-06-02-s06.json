@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-06-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-06-02/blk-l05-06-02-s06.md",
+  "image": {
+    "src": "media/L05-06-02/blk-l05-06-02-s06.webp",
+    "alt": "A bucket-shaped molecule shown empty and then full of two glowing electrons, only releasing them for the right price."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

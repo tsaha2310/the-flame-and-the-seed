@@ -1,0 +1,64 @@
+{
+  "id": "q-l06-06-06-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the tape's story in order, from gene to protein."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "RNA polymerase grips a promoter and copies one strand of a gene into an mRNA."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "In the nucleus, the copy is spliced, introns out and exons joined exactly, capped and tailed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The message is escorted out through a nuclear pore to the workshop floor."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Charging enzymes attach each amino acid to the tRNA whose anticodon matches its codon."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "A ribosome checks each tRNA's anticodon against the codon, joins the beads by RNA, and shifts, from AUG to a stop."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "The finished chain folds by its sequence, and transcription factors and chromatin set how often the whole thing runs."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

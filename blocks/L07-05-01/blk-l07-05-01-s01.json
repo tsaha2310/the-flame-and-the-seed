@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-05-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-05-01/blk-l07-05-01-s01.md",
+  "image": {
+    "src": "media/L07-05-01/blk-l07-05-01-s01.webp",
+    "alt": "A single-celled organism dividing, its two daughter cells staying stuck together instead of drifting apart, the first step toward a body."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

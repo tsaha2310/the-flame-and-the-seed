@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-01-01/blk-l03-01-01-s01.md",
+  "image": {
+    "src": "media/L03-01-01/blk-l03-01-01-s01.webp",
+    "alt": "A glass of lemon juice and baking soda fizzing over the rim onto the table, a boy and grandmother looking at the white powder and the foam."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

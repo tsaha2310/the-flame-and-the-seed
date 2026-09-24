@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-05-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-05-04/blk-l04-05-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Cooling puts the fold back, like ice re-freezing.",
+      "feedback": "Kabir's card: \"Cool it and it goes back.\""
+    },
+    {
+      "id": "b",
+      "text": "No. The chain unfolded when hot and then tangled with itself and its neighbours. It does not find its old fold again."
+    },
+    {
+      "id": "c",
+      "text": "Yes, but only if you heat it again to \"unlock\" it.",
+      "feedback": "Kabir's card: \"Heat locks, heat unlocks.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-05-04/blk-l04-05-04-s02.webp",
+    "alt": "A folded protein with a pocket that fits one small molecule, beside a thermometer rising and then falling back."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

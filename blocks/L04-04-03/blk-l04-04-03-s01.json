@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-04-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-04-03/blk-l04-04-03-s01.md",
+  "image": {
+    "src": "media/L04-04-03/blk-l04-04-03-s01.webp",
+    "alt": "A roti, a potato, a cotton shirt, a wooden table and a chicken liver, each shown to be made of the same glucose bead in a different link."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

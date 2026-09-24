@@ -1,0 +1,61 @@
+{
+  "id": "q-l00-01-01-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir's first rule is \"Alive things grow.\" The Lens tests it. Which card breaks Kabir's rule first?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The salt crystal. It grows in the saucer all night, and nobody thinks salt is alive."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The mule. Mules do not grow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A mule grows from a foal to an adult like any horse. What a mule cannot do is have babies, which breaks a different rule, not this one."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cloud. Clouds do not grow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A monsoon cloud grows for hours before it rains. Growing is exactly what clouds do, which is why \"grows\" is a bad test."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing breaks it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The salt crystal is on the right and it grows. One card is enough to break a rule."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A rule is broken by a single card that does the thing and is not alive, or is alive and does not do the thing. The salt crystal grows, gets heavier, and even makes new little crystals next to it. Nobody calls it alive."
+  },
+  "hints": [],
+  "tags": [
+    "mod-00-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

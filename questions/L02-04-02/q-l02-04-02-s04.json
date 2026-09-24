@@ -1,0 +1,57 @@
+{
+  "id": "q-l02-04-02-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Rank these from lowest boiling point to highest, using only their structures."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "oxygen gas, two atoms sharing a double bond, no polarity"
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "alcohol, a small molecule with one O-H group"
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "water, a small molecule with two O-H groups and two lone pairs"
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "magnesium oxide, a lattice of doubly charged ions"
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "silicon dioxide, quartz, a giant web of shared pairs like diamond"
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

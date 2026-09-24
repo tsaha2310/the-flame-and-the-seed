@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-01/blk-l03-08-01-s07.md",
+  "image": {
+    "src": "media/L03-08-01/blk-l03-08-01-s07.webp",
+    "alt": "An ink drop spreading through a grid of tiny walkers with far more arrangements when spread than when gathered, and an ice cube melting."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

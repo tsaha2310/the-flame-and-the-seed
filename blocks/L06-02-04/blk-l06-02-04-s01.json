@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-02-04/blk-l06-02-04-s01.md",
+  "image": {
+    "src": "media/L06-02-04/blk-l06-02-04-s01.webp",
+    "alt": "A single gene's RNA copy given a reinforced backbone so it never degrades, building far more protein than normal after a meal."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-02-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a wide channel with no lining and says \"now everything can get in, problem solved\". What does the cell say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A wide, unlined channel is a leak. Ions of every kind flow through until inside equals outside, and the cell is levelled, from yesterday's what-if. Choosiness is the point."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Problem solved."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Open is what the leaky wall was. A cell needs to let in some things and keep out others."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The channel will not stay in the wall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It stays if its belt is oily. It just does the wrong job."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only water gets through a wide channel."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ions are smaller than glucose. A wide channel passes all of them."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The wall's job is difference. A channel earns its place by choosing. A hole that chooses nothing undoes the wall."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

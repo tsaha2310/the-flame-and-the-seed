@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-06-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-06-04/blk-l04-06-04-s01.md",
+  "image": {
+    "src": "media/L04-06-04/blk-l04-06-04-s01.webp",
+    "alt": "A boy at a corner shop offering a large banknote for a single toffee, the shopkeeper spreading empty hands."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

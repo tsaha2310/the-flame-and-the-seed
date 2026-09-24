@@ -1,0 +1,61 @@
+{
+  "id": "mod-07-05",
+  "moduleId": "mod-07-05",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VII.5 Many cells, one body"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "multicellular",
+      "tissue",
+      "meristem",
+      "xylem-and-phloem",
+      "epithelial",
+      "connective",
+      "organ",
+      "stem-cell",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-07-05-01.json",
+      "title": {
+        "en": "Why go big?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-05-02.json",
+      "title": {
+        "en": "Staff a leaf"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-05-03.json",
+      "title": {
+        "en": "Staff a gut"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-05-04.json",
+      "title": {
+        "en": "Prune the tip"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-05-05.json",
+      "title": {
+        "en": "A cell that ignores stop"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-05-06.json",
+      "title": {
+        "en": "Ledger duel VII"
+      }
+    }
+  ]
+}

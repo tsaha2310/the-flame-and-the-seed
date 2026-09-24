@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-01-03/blk-l06-01-03-s01.md",
+  "image": {
+    "src": "media/L06-01-03/blk-l06-01-03-s01.webp",
+    "alt": "A reel of sewing thread two metres unwound beside a matchbox, a boy trying to wind the thread onto his finger to fit inside."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

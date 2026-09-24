@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-01/blk-l05-10-01-s01.md",
+  "image": {
+    "src": "media/L05-10-01/blk-l05-10-01-s01.webp",
+    "alt": "A protein pocket grabbing a single carbon dioxide molecule from the air and sticking it onto a five-carbon sugar acceptor."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

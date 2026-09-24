@@ -1,0 +1,46 @@
+{
+  "id": "mod-06-03",
+  "moduleId": "mod-06-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VI.3 Cracking the code"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "codon",
+      "genetic-code",
+      "redundancy",
+      "start-codon",
+      "stop-codon",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-06-03-01.json",
+      "title": {
+        "en": "How many words?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-03-02.json",
+      "title": {
+        "en": "Codebreaker"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-03-03.json",
+      "title": {
+        "en": "Spare words"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-03-04.json",
+      "title": {
+        "en": "A code with no spare words"
+      }
+    }
+  ]
+}

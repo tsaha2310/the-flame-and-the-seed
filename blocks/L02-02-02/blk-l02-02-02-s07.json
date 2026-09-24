@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-02-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-02/blk-l02-02-02-s07.md",
+  "image": {
+    "src": "media/L02-02-02/blk-l02-02-02-s07.webp",
+    "alt": "Three molecule shapes, a straight line, a flat triangle and a pyramid, and a fourth ammonia molecule that will not lie flat."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

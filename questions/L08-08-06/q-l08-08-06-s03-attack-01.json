@@ -1,0 +1,52 @@
+{
+  "id": "q-l08-08-06-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"I laid every card against every line. The flame fails five lines. The boiled seed fails seven and passes one, the tape. The mule fails only the copying line and is alive. The virus passes the tape line and the copying line and fails the wall and the slow fire, and you have not said what it is. No single line separates the live seed from every other card. Your Ledger is a list, and a list is what the Prologue said would not work.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The flame makes baby flames, so it copies itself.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A flame lights a second flame the way a match does: it hands on heat, not a tape. There is nothing in the second flame that was in the first except the reaction. That card was played on the first night."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The salt crystal grows and makes more crystals of exactly the same pattern. That is copying with a template.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A crystal's pattern is one arrangement repeated; it carries no information, from IV.7 L04: one kind of letter. It cannot vary, so it cannot be selected, so it has no kind that changes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "image": {
+    "src": "media/L08-08-06/q-l08-08-06-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed copying ledger, under a finally dry and clear evening sky."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

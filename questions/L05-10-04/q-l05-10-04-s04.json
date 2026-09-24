@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-10-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"A plant breathes in carbon dioxide and breathes out oxygen. An animal is the reverse.\" What is the fuller statement?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every living cell, plant or animal, takes in oxygen and gives out carbon dioxide, all the time. Green plant cells, in the light, also do the reverse, and do more of it, so over a day a plant is a net oxygen source. The one-line version hides the plant's own breathing."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kabir is right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A plant in the dark uses oxygen, and the jar showed it. Plants breathe the same way you do, plus something extra by day."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Plants do not breathe; they only photosynthesise."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every leaf cell has mitochondria and burns sugar for its coins. Light does not fill the ATP a root needs at midnight."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Animals photosynthesise a little too."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No animal cell has chloroplasts. The loop runs between kinds of cell, not inside each one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two processes, not two kinds of breathing. Respiration is universal. Photosynthesis is added on, in green cells, in the light."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

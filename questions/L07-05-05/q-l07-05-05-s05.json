@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-05-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why cancer \"is mostly a disease of older people, if it starts from one cell\". What piles up with time?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Mutations, from VI.4, in dividing cells. Each division risks a slip, and it takes several separate faults in one cell line, in stop receptors, in checks, in sticking, before a rogue can grow and spread. The chance that one cell has collected them all rises with the years."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Old cells are weaker."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weak cells divide less, not more. It is the accumulation of faults, not weakness."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Older bodies have fewer stop signals."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The signals are there. The rogue cannot hear them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cancer is caught from others."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A few cancers follow a virus, but most begin with a body's own cell going deaf."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Several faults must land in one cell line. Divisions accumulate them. Time accumulates divisions."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

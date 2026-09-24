@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-01-01/blk-l07-01-01-s01.md",
+  "image": {
+    "src": "media/L07-01-01/blk-l07-01-01-s01.webp",
+    "alt": "A boy's hand jerking back from a lamp flame before pain registers, two message paths drawn racing from hand to spine and to a gland."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

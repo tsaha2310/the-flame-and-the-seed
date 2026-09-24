@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-10-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the Calvin cycle \"is the dark reaction, so it runs at night\". What did the lights-off run show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stops within a minute in the dark, because it spends ATP and NADPH that only the light reactions fill. It does not need photons itself, which is what \"dark\" meant, but it needs their products, so it runs in daylight."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It runs at night."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The old name misleads. The wheel stalls in the dark as soon as the coins are gone."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It runs faster in the dark, because the light reactions are out of the way."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The light reactions are its supplier, not its competitor. No light, no supply."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It runs in the dark on stored starch."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Starch pays the mitochondria at night, for respiration. The Calvin cycle needs NADPH, which only light makes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate needing photons from needing what photons made. The Calvin cycle is the second kind. It is a daytime wheel."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"crossing over is a mistake, like a mutation; the chromosome ends up mixed up\". What is the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A mutation changes a letter. Crossing over swaps matching stretches between two chromosomes that carry the same genes in the same order, so no letter is changed and no gene is lost; the spellings are recombined. It is a regular step of the dance, done on purpose by enzymes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No difference; both scramble the tape."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Crossing over keeps every gene in place with a different partner spelling beside it. The tape reads perfectly. Only the combination is new."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Crossing over is a mutation that happens to help."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is not a mistake. Enzymes cut and rejoin the pair at matching points, every meiosis, in every sexual organism."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Crossing over only happens in peas."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It happens in you, the moong and yeast. Mendel never knew of it."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Mutation makes new spellings. Crossing over and random line-up make new combinations of existing spellings. Both make variation; only one is an error."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-02-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-02/blk-l01-03-02-s07.md",
+  "image": {
+    "src": "media/L01-03-02/blk-l01-03-02-s07.webp",
+    "alt": "A single tiny dense nucleus at the centre of a vast empty atom, with a matchbox for scale hinting at how much of matter is empty space."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

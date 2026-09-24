@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-08-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-08-03/blk-l05-08-03-s06.md",
+  "image": {
+    "src": "media/L05-08-03/blk-l05-08-03-s06.webp",
+    "alt": "A runner choosing the fast two-coin path for a sprint and the slow thirty-coin path for endurance, both drawn as parallel tracks."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

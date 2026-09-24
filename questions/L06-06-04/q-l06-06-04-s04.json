@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-06-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A muscle cell and a nerve cell in the same body have the same DNA. Kabir says \"so they must have the same transcription factors, and the difference is elsewhere\". Where is the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "In which transcription factors each cell makes, and which chromatin regions it keeps loose. Factors are proteins, from genes, and the genes for muscle factors are themselves switched on in muscle and off in nerve. Switches that set switches."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nowhere; they are the same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same tape, different pages open. The proteins present differ enormously."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "In the DNA after all; Gurdon was wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mammals have been cloned from adult cells since 1996. The tape is the same."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "In the ribosomes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ribosomes are the same everywhere. They read whatever messages arrive, and the messages differ because the switches do."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Cell type is a self-maintaining set of switch settings. The factors that keep muscle genes on are made because muscle genes are on. That loop is what makes identity stick."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

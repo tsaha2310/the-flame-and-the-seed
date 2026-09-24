@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-02-04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-02-04/blk-l02-02-04-s06.md",
+  "image": {
+    "src": "media/L02-02-04/blk-l02-02-04-s06.webp",
+    "alt": "A spoon of ghee dropped into hot dal beading into golden drops that refuse to mix."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

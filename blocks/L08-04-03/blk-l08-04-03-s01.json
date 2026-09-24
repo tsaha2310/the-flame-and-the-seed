@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-04-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-04-03/blk-l08-04-03-s01.md",
+  "image": {
+    "src": "media/L08-04-03/blk-l08-04-03-s01.webp",
+    "alt": "A red snapdragon and a white snapdragon prepared for crossing, alongside a blood-type icon with three alleles and a height chart with many genes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

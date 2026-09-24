@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-01-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-01-03/blk-l04-01-03-s01.md",
+  "image": {
+    "src": "media/L04-01-03/blk-l04-01-03-s01.webp",
+    "alt": "A boy reading a comic with silicon aliens eating rocks, and a bench with a new bin of grey silicon spheres."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

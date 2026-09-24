@@ -1,0 +1,57 @@
+{
+  "id": "mod-05-01",
+  "moduleId": "mod-05-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.1 The wall that builds itself"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "phospholipid",
+      "bilayer",
+      "cell",
+      "cell-theory",
+      "prokaryote-and-eukaryote",
+      "organelle",
+      "mitochondrion",
+      "chloroplast",
+      "surface-area",
+      "volume",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-01-01.json",
+      "title": {
+        "en": "Lipid drop"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-01-02.json",
+      "title": {
+        "en": "The first lenses"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-01-03.json",
+      "title": {
+        "en": "Rooms that are chemistry"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-01-04.json",
+      "title": {
+        "en": "Why cells are small"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-01-05.json",
+      "title": {
+        "en": "A cell the size of a mango"
+      }
+    }
+  ]
+}

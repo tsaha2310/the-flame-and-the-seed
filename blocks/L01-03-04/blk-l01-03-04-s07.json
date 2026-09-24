@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-04-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-04/blk-l01-03-04-s07.md",
+  "image": {
+    "src": "media/L01-03-04/blk-l01-03-04-s07.webp",
+    "alt": "A complete picture of an atom, dense nucleus and electrons on fixed rungs, glowing yellow, beside a boy holding a battery and two wires."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

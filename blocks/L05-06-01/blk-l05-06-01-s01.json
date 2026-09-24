@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-06-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-06-01/blk-l05-06-01-s01.md",
+  "image": {
+    "src": "media/L05-06-01/blk-l05-06-01-s01.webp",
+    "alt": "The same peanut burning under a cup giving off pure heat, and a boy running on the peanut's energy, a cell using a wheel instead of a single drop."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

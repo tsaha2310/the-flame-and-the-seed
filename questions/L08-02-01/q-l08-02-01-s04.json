@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir crosses ten hybrid pea plants and gets eight tall, two short. He says \"so it is four to one, not three to one, Mendel was wrong\". What does the thousand-plant run show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ten plants cannot tell three-to-one from four-to-one; the scatter is too large. A thousand plants give about 750 to 250, close to three to one every time. Small numbers hide rules; large numbers reveal them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Mendel was wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Run it again with ten and you might get six to four. Ratios need numbers, and Mendel counted thousands for exactly this reason."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Kabir's plants are a different variety."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same peas, small sample. The sim shows the same plants giving three to one at scale."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The ratio is different for height."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Height gave Mendel 787 tall to 277 short: three to one, as for all seven traits."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every cross is a coin toss with a hidden coin. Ten tosses tell you little; a thousand tell you the coin's bias."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

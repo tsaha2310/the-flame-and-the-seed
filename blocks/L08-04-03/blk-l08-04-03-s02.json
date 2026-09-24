@@ -1,0 +1,32 @@
+{
+  "id": "blk-l08-04-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08-04-03/blk-l08-04-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "All red, and then three red to one white.",
+      "feedback": "Kabir's card: \"Round peas: working copy wins.\""
+    },
+    {
+      "id": "b",
+      "text": "All pink, and then one red to two pink to one white."
+    },
+    {
+      "id": "c",
+      "text": "All white, because white is the absence and absences spread.",
+      "feedback": "Kabir's card: \"Nothing beats something.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L08-04-03/blk-l08-04-03-s02.webp",
+    "alt": "A red snapdragon's pigment-making enzyme and a white snapdragon's non-functional version, hybrid offspring pigment amount left open."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

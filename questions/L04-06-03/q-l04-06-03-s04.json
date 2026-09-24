@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-06-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the seed does not just keep a big store of ATP, \"like a bank\". What does the till show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "ATP is a coin for spending, not a store. A store is starch or fat, which hold far more energy per gram. The seed keeps only a few seconds' worth of ATP and recharges it constantly from its store."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It does keep a big store."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A seed holds a tiny amount of ATP and a great deal of starch and fat. ATP is the change in the till, not the vault."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "ATP goes off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "ATP is stable enough in water for hours. It is not stored because it is the wrong tool for storing; it is the tool for paying."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Phosphorus is too scarce."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Phosphorus is limited in soils, but that is not why. A million coins would be a poor store even with unlimited phosphorus, because each holds so little."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate the store from the coin. Starch and fat are the store. ATP is the coin that the store's fall recharges."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

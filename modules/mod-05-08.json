@@ -1,0 +1,46 @@
+{
+  "id": "mod-05-08",
+  "moduleId": "mod-05-08",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.8 Life without air"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "fermentation",
+      "lactate",
+      "ethanol",
+      "aerobic",
+      "anaerobic",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-08-01.json",
+      "title": {
+        "en": "Idli batter"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-08-02.json",
+      "title": {
+        "en": "Two ways out"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-08-03.json",
+      "title": {
+        "en": "Sprint or marathon"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-08-04.json",
+      "title": {
+        "en": "Pasteur's yeast"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-02-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Spirit alcohol, the alcohol in spirit lamps, has a carbon score of minus 2 on average, and it burns with 30 kilojoules per gram, less than octane's 47. Kabir says \"so the scoreboard is wrong, both are minus 2\". What did he miss?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Spirit alcohol carries an oxygen atom that adds mass to the gram without adding fall. Per carbon, both fall similarly; per gram, spirit alcohol has fewer carbons to fall."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The scoreboard is wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The score predicts fall per carbon. Heat per gram also depends on how many carbons are in the gram."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Spirit alcohol has weaker bonds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Its bonds are ordinary carbon-hydrogen and carbon-oxygen bonds. The oxygen it carries is the difference."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Octane is a better molecule."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Octane is simply all hydrocarbon. There is nothing in the gram that is not fuel."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two things set heat per gram: how far each carbon falls, and how many carbons the gram holds. Oxygen already on the molecule reduces the second."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

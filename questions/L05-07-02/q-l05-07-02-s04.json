@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-07-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"the wheel makes lots of ATP, it is the powerhouse\". Per glucose, how many coins has the wheel made directly?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Two, one per acetyl. The wheel's real product is full carriers: ten NADH and two others per glucose. The coins come later, from emptying them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Thirty."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The powerhouse has three parts. The wheel is the middle one, and it mostly fills buckets."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "None; the wheel only makes gas."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It makes one coin per turn, and it breathes out two carbons per turn, and it fills four carriers per turn. All three."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ten."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An NADH is not a coin. It is a full bucket, worth about two and a half coins once emptied on the staircase."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Keep coins and buckets separate. The wheel fills buckets. The next lesson empties them, and that is where the count goes from four to thirty."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

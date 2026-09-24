@@ -1,0 +1,14 @@
+{
+  "id": "blk-l00-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L00-01-02/blk-l00-01-02-s01.md",
+  "image": {
+    "src": "media/L00-01-02/blk-l00-01-02-s01.webp",
+    "alt": "Morning kitchen: two clay bowls of swollen moong seeds side by side, and a grandmother sniffing a jug of milk that has gone off."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

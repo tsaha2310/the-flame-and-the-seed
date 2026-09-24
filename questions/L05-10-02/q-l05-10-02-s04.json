@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-10-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir counts one turn and says \"two three-carbon pieces came out, so the leaf gained six carbons from one carbon dioxide\". What did he miss?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The five carbons of the acceptor were already there. One turn adds one carbon. The two pieces hold six, five of which must go back to rebuild the acceptor over three turns. The gain is one carbon per turn."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; six carbons per carbon dioxide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Atoms are not multiplied. Book I. One in, one gained."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The leaf gained three carbons."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One piece is profit every three turns, not every turn. Per turn, one carbon."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The leaf gained nothing, because the acceptor is used up."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The acceptor is rebuilt from the pieces. The wheel keeps turning, and one carbon per turn is banked."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count in and out over a whole number of turns. Three turns: three in, three out. The pieces on the wheel are working capital, not profit."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

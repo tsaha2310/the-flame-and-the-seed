@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-04-04/blk-l01-04-04-s01.md",
+  "image": {
+    "src": "media/L01-04-04/blk-l01-04-04-s01.webp",
+    "alt": "A boy at dawn surrounded by failed attempts to make sugar water conduct: a sludge of undissolved sugar, a warm pan, a stirring spoon, and a dark LED."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

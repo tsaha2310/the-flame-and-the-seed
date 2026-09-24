@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-02-01/blk-l04-02-01-s01.md",
+  "image": {
+    "src": "media/L04-02-01/blk-l04-02-01-s01.webp",
+    "alt": "A red gas cylinder under the counter with a cutaway showing short carbon chains squeezed into liquid, and a candle with long chains beside it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

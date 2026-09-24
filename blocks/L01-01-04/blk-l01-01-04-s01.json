@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-01-04/blk-l01-01-04-s01.md",
+  "image": {
+    "src": "media/L01-01-04/blk-l01-01-04-s01.webp",
+    "alt": "Two cups of rice and one cup of urad dal being measured into a steel bowl for idli batter, with an extra cup of rice set aside."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-02-03/blk-l05-02-03-s01.md",
+  "image": {
+    "src": "media/L05-02-03/blk-l05-02-03-s01.webp",
+    "alt": "Sodium ions leaking in and potassium leaking out through lazy channels, both drifting toward levelling, a wall of the body's food supply nearby."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

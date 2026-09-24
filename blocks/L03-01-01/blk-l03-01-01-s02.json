@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-01-01/blk-l03-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It goes down, because the gas is escaping.",
+      "feedback": "Kabir's card: \"Gas is escaping, you can see it.\""
+    },
+    {
+      "id": "b",
+      "text": "It stays the same."
+    },
+    {
+      "id": "c",
+      "text": "It goes up, because gas weighs something and there is more of it now.",
+      "feedback": "Kabir's card: \"You made gas, so you made weight.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-01-01/blk-l03-01-01-s02.webp",
+    "alt": "A sealed plastic bottle of lemon juice and baking soda fizzing inside, standing on a kitchen balance with a blank display."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

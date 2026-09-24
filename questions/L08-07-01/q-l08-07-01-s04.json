@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-07-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says the moong \"could just fix its own nitrogen and not pay the bacteria\". What would that cost?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The fixing enzyme is huge, is poisoned by oxygen, and spends about sixteen ATP per nitrogen molecule. A plant that ran it in its own cells would have to wall off oxygen-free rooms and spend a large share of its sugar. Paying a specialist that already does it is cheaper."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it should."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No plant does, in four hundred million years. The enzyme's demands are why."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The plant does not have nitrogen in it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every protein and every nucleotide in the plant has nitrogen. It needs a lot, and it cannot take it from the air."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The bacteria would attack the plant."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are held inside cells the plant controls. The deal is stable because each side's cheating is caught, which is the arms-race lesson."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Weigh the costs. A hard reaction, an oxygen-hating enzyme, and a coin bill of sixteen per molecule. Outsourcing to a partner that lives on it is the cheaper route, and the legumes took it."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

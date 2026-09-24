@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-09-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-09-03/blk-l03-09-03-s01.md",
+  "image": {
+    "src": "media/L03-09-03/blk-l03-09-03-s01.webp",
+    "alt": "A drawing of the 1836 Daniell cell: two beakers, zinc in one and copper in the other, a wire between the metals and a salt-soaked paper strip joining the liquids."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

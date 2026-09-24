@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-05/blk-l08-05-05-s01.md",
+  "image": {
+    "src": "media/L08-05-05/blk-l08-05-05-s01.webp",
+    "alt": "A giraffe stretching to reach high leaves, its neck slightly lengthening in its lifetime, an idea about to be tested with mice and scissors."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-02-01/blk-l06-02-01-s01.md",
+  "image": {
+    "src": "media/L06-02-01/blk-l06-02-01-s01.webp",
+    "alt": "A single library page being hand-copied from a chained book that cannot leave the room, the copy carried out through the door."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

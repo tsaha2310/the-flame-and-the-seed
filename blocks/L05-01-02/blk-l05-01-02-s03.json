@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-02-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-02/blk-l05-01-02-s03.md",
+  "simulation": {
+    "src": "simulations/L05-01-02/HookeLeeuwenhoekScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

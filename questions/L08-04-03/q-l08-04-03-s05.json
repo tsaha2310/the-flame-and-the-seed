@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-04-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two group-A parents have a group-O child. Kabir says \"impossible, both parents are A\". What are the parents' genotypes?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both are AO. Each gives O half the time, and an OO child, group O, is one in four. Group A hides an O allele the way round hides wrinkled."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Impossible; the child is not theirs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A is a phenotype. AO is a genotype that shows A and carries O. Two AO parents give O children a quarter of the time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "One parent must secretly be group O."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A group-O parent has no A allele and would test as O. These parents test as A and carry O as well."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The child's group will change to A as it grows."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Blood group is set by the alleles and does not change."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Work back from the recessive child. OO needs an O from each parent. Each group-A parent must be AO."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

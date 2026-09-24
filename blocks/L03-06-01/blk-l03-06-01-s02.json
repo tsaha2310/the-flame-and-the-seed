@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-06-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-06-01/blk-l03-06-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The cube, because it is one solid piece and sinks straight down.",
+      "feedback": "Kabir's card: \"Solid things dissolve better.\""
+    },
+    {
+      "id": "b",
+      "text": "The powder, because it has far more surface touching the tea."
+    },
+    {
+      "id": "c",
+      "text": "The same, because it is the same amount of sugar.",
+      "feedback": "Kabir's card: \"Same sugar, same time.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-06-01/blk-l03-06-01-s02.webp",
+    "alt": "A sugar cube and an equal heap of powdered sugar each dropped into a cup of tea, left unstirred."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

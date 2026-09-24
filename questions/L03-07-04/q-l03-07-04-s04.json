@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-07-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Power stations that burn coal release sulphur dioxide, and the rain downwind turns acid enough to kill fish. Kabir says \"so they should burn something with no oxygen in it\". What would help?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Trap the sulphur dioxide with a basic oxide, such as chuna, before it leaves the chimney. Acid oxide meets basic oxide and they neutralise to a salt."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Burn without oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Burning is joining with oxygen. Without it nothing burns and the station makes no power."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Add water to the coal."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sulphur dioxide plus water is the acid. More water makes more of it, sooner."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Build the chimney taller."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Taller chimneys send the acid further, to someone else's lake. The gas is unchanged."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "An acidic oxide is cancelled by a basic one, the same way nimbu is cancelled by soda. Real chimneys spray chuna slurry for exactly this reason."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

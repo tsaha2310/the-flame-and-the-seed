@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-07-06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-07-06/blk-l05-07-06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "As heat and energy. It was turned into energy.",
+      "feedback": "Kabir's card: \"Fat is energy. It became energy.\""
+    },
+    {
+      "id": "b",
+      "text": "Breathed out as carbon dioxide, mostly, with the rest leaving as water."
+    },
+    {
+      "id": "c",
+      "text": "In sweat and urine, as fat.",
+      "feedback": "Kabir's card: \"It comes out the way it went in.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-07-06/blk-l05-07-06-s02.webp",
+    "alt": "Fat molecules being broken down over a month, their carbon atoms tracked toward an unclear destination, lungs and breath waiting nearby."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

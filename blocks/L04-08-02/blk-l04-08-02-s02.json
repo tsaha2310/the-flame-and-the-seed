@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-08-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-08-02/blk-l04-08-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "RNA. More oxygen means more hydrogen bonds to water, so it is happier in water.",
+      "feedback": "Kabir's card: \"Oxygen loves water.\""
+    },
+    {
+      "id": "b",
+      "text": "DNA. The missing hydroxyl was a weak spot: it could attack the backbone link next to it and cut the chain. Without it, the chain is far harder to break."
+    },
+    {
+      "id": "c",
+      "text": "The same. One atom in a thousand cannot matter.",
+      "feedback": "Kabir's card: \"One oxygen in a huge molecule.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-08-02/blk-l04-08-02-s02.webp",
+    "alt": "Two sugar rings in a strand backbone, one with a hydroxyl knob next to the link and one with a plain hydrogen there, both in warm water."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

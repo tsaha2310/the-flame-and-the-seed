@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-03-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In carbon monoxide, CO, carbon shares two pairs with one oxygen. What is carbon's oxidation number?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Plus 2. Both pairs go to oxygen, so carbon loses two in the ledger."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plus 4."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is carbon dioxide, where two oxygens each take two pairs. One oxygen takes two pairs total, which is plus 2."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Minus 2."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size is not the score. Oxygen pulls harder than carbon, so oxygen takes the pairs, and carbon's score goes up, not down."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Zero."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sharing fairly gives zero. Oxygen pulls harder than carbon, so the share is not fair, and the scoreboard gives oxygen both pairs."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count pairs and who wins them. Two pairs, both won by oxygen, means carbon is down two: plus 2."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mod-04-01",
+  "moduleId": "mod-04-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.1 Why carbon?"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "organic-compound",
+      "carbon-skeleton",
+      "chain",
+      "ring",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-01-01.json",
+      "title": {
+        "en": "Wohler's flask"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-01-02.json",
+      "title": {
+        "en": "Four directions, strong bonds"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-01-03.json",
+      "title": {
+        "en": "Silicon life"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-01-04.json",
+      "title": {
+        "en": "Spot the skeleton"
+      }
+    }
+  ]
+}

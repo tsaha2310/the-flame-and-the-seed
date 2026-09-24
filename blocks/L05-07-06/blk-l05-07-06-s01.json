@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-06/blk-l05-07-06-s01.md",
+  "image": {
+    "src": "media/L05-07-06/blk-l05-07-06-s01.webp",
+    "alt": "A man who has lost visible weight standing on a scale, with a thought bubble questioning where ten kilograms of atoms actually went."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-05-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-05-03/blk-l04-05-03-s01.md",
+  "image": {
+    "src": "media/L04-05-03/blk-l04-05-03-s01.webp",
+    "alt": "A piece of string curling up in a glass of water, and beside it a bead chain folding into one exact compact shape."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

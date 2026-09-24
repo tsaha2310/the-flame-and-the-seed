@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Fine, urea can be made in a flask. But it is not alive, so vital force is still true for living things.\" What did Wohler's flask actually test?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The claim that life's molecules can only be made by life. That claim is dead. The claim that life itself needs something extra was not tested by this experiment, and stays on the board until something else tests it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Everything about vital force."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One experiment kills the claim it tests. Wohler tested where molecules come from, not what makes a seed sprout."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing, because urea is not really alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That was the point. Everyone said only life could make this chemical. A flask made it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Whether kidneys are needed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Kidneys still make urea. Wohler showed they are not the only thing that can."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A hypothesis makes several claims. An experiment kills the claim it tests, and no more. Be exact about which one fell."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

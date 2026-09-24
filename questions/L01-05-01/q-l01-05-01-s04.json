@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-05-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Mendeleev left a gap under silicon and predicted \"eka-silicon\": mass about 72, a grey solid, its oxide a white powder. Kabir says leaving gaps is cheating. What made the gaps science rather than guessing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each gap came with predictions that could be checked and could have been wrong. When germanium was found in 1886, mass 72.6, grey, white oxide, the predictions were right."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The gaps made the table look neat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Neatness is not evidence. What made the gaps science was the checkable numbers attached to them."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Mendeleev knew the elements were there."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nobody had. That is the point. He predicted them from the pattern alone."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "He got lucky."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each prediction had several parts: mass, heaviness for its size, melting behaviour, the oxide. Getting all of them right three times over is not what luck looks like."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A pattern earns trust when it predicts something not yet seen and the prediction turns out right. Mendeleev's gaps did that three times in twenty years."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

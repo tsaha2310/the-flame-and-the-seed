@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir raises the binding strength as far as it goes and the colony glows at ten cells. He says \"that is better, it glows sooner\". What has he built?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A colony that glows when it is useless. Ten cells cannot light a squid. The threshold is not \"as low as possible\"; it is set where the group is big enough for the job to pay."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A better colony."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sooner is more coins spent on an invisible light. Tomorrow's cheater lesson is about who wins that game."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A colony that cannot stop glowing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It can stop, if the cells are washed out. It just starts too early."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing different; the squid glows anyway."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The squid's light comes from a million cells. Ten glowing cells make no light anyone can see."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A threshold tuned by evolution is set where the group action first pays. Move it and the colony spends at the wrong time."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

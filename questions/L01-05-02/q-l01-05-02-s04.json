@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-05-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Magnesium has 12 electrons. Calcium has 20. Both sit in the second column. What do they have in common?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both have two valence electrons. Magnesium's shells are 2, 8, 2 and calcium's are 2, 8, 8, 2."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both have 12 electrons in their outer shell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No shell in these atoms holds twelve. Magnesium's twelve electrons are spread over three shells, with just two on the outside."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both have the same number of shells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Magnesium has three shells, calcium has four. Same column means same outer count, not same size. Going down a column, atoms get bigger."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both are heavy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Magnesium is one of the lightest metals there is. The column has nothing to do with weight."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Subtract the full inner shells. Magnesium: 12 minus 2 minus 8 leaves 2. Calcium: 20 minus 2 minus 8 minus 8 leaves 2."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

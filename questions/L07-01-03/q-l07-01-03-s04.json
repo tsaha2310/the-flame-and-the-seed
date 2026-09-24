@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-01-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir runs the day with only hormone B and the line crashes during cricket. He says \"so hormone B is the dangerous one\". What is the real lesson?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A single hormone can only push one way. Holding a line needs a push each way, proportional to the error. Insulin alone can lower and never raise; the sprint needed glucagon and adrenaline, which he did not have."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Insulin is dangerous."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Too much of any one-way push is dangerous. Insulin at the right dose after a meal is exactly right."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Cricket should be avoided."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Exercise is fine with both hormones working. The problem was one dial missing."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Hormone A should be on all day."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All-day glucagon empties the bank and sends the line high. Each hormone answers a specific error."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two-sided control needs two pushes. Remove one side and the line can only drift the other way."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

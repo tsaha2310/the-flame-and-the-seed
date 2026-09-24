@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-02-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a five-carbon chain, then rotates it and submits it again as a second isomer. The bench refuses. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Rotating a molecule does not change which atom is bonded to which. It is the same molecule seen from another side. An isomer needs a different set of connections."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bench is broken."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Looking different on screen is not being different. Spin any object and it looks different; it is still one object."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Five carbons only have one isomer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There are three. Two of them have branches. Rotating the chain finds none of them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "You can only submit each shape once."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The rule is nature's. Two drawings are the same molecule if every atom has the same neighbours in both."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask, for every atom, who its neighbours are. If the answer matches, it is the same molecule, whatever angle you drew it from."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

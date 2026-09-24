@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-06-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"a cell could just make more NAD+ when it runs out\". Why does that not solve it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "More buckets only delays the jam. Every bucket fills and stays full unless something takes the electrons off. The problem is emptying, not the number."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It does solve it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A thousand buckets jam after five hundred glucoses instead of five. Nothing has changed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "NAD+ cannot be made."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cells make it from a vitamin, slowly. Making more would still not empty any."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The buckets are too heavy to make more."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size is not the issue. Full buckets are."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A carrier problem is a flow problem. Count what fills and what empties. If nothing empties, the size of the fleet does not matter."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

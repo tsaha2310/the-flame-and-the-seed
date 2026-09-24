@@ -1,0 +1,40 @@
+{
+  "id": "les-06-06-06",
+  "lessonId": "les-06-06-06",
+  "type": "lesson",
+  "title": {
+    "en": "Ledger duel VI"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06-06-06/blk-l06-06-06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06-06-06/blk-l06-06-06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06-06-06/blk-l06-06-06-s03.json"
+    },
+    {
+      "blockRef": "questions/L06-06-06/q-l06-06-06-s03-say.json"
+    },
+    {
+      "blockRef": "questions/L06-06-06/q-l06-06-06-s03-attack-01.json"
+    },
+    {
+      "blockRef": "blocks/L06-06-06/blk-l06-06-06-s03-line.json"
+    },
+    {
+      "blockRef": "questions/L06-06-06/q-l06-06-06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L06-06-06/blk-l06-06-06-s05.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

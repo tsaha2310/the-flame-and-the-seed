@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-01/blk-l04-08-01-s01.md",
+  "image": {
+    "src": "media/L04-08-01/blk-l04-08-01-s01.webp",
+    "alt": "A woman scientist in a 1950s London laboratory holding up a film showing an X-shaped diffraction shadow."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

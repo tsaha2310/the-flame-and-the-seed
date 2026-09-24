@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-05-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir swaps a surface polar bead for another polar bead and nothing happens. He says \"so surface beads never matter\". What does the sim show if he swaps a surface polar bead for an oily one?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The fold holds but the protein grows a sticky patch, and in a crowd the copies clump into rods. Surface beads matter when the personality changes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing, as before."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Polar to polar is one thing. Polar to oily puts an oily patch in the water, and water squeezes it against its neighbours."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The fold breaks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The fold is held by the buried core, which the swap did not touch. The fold is fine. The surface is not."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The protein works better."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It works exactly as well alone. In a crowd, it sticks to itself, and sticking is the problem."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask two questions of any swap. Does it change the bead's personality? Does the bead sit inside or outside? The answers predict which of the three outcomes you get."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

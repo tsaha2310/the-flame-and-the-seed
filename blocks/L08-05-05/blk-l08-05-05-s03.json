@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-05-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-05/blk-l08-05-05-s03.md",
+  "simulation": {
+    "src": "simulations/L08-05-05/LamarckScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

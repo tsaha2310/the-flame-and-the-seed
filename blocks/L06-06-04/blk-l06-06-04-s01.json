@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-04/blk-l06-06-04-s01.md",
+  "image": {
+    "src": "media/L06-06-04/blk-l06-06-04-s01.webp",
+    "alt": "The same coiled DNA tape used to build two very different cells, a muscle cell with myosin and actin, a nerve cell with different proteins, from the same source."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

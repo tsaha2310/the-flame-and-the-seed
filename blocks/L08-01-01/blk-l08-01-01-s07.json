@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-01/blk-l08-01-01-s07.md",
+  "image": {
+    "src": "media/L08-01-01/blk-l08-01-01-s07.webp",
+    "alt": "A long DNA tape with an extremely rare error mark far along its length, one in a billion letters, next to a copier machine."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

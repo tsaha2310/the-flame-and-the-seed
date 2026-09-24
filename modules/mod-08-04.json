@@ -1,0 +1,48 @@
+{
+  "id": "mod-08-04",
+  "moduleId": "mod-08-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VIII.4 Alleles"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "allele",
+      "genotype",
+      "phenotype",
+      "none",
+      "incomplete-dominance",
+      "codominance",
+      "abo",
+      "carrier"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-08-04-01.json",
+      "title": {
+        "en": "Why wrinkled peas wrinkle"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-04-02.json",
+      "title": {
+        "en": "Working and broken"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-04-03.json",
+      "title": {
+        "en": "Pink flowers and blood groups"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-04-04.json",
+      "title": {
+        "en": "Carriers"
+      }
+    }
+  ]
+}

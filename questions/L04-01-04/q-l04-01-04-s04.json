@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-01-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A skeleton drawing shows a five-corner ring with one double line in it. How many hydrogens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Eight. Five carbons, each with two neighbours, would have ten. The double bond takes one from each of its two carbons."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Ten."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is the count for the ring with no double bond. The double bond removes two."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Twelve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rings need fewer than chains, because there are no ends. Five carbons in a ring with two hydrogens each is ten, and the double bond makes it eight."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Five."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each carbon in a ring has two bonds to carbon and two to spare, not one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ring first: two hydrogens per carbon. Then each double bond costs one hydrogen on each of its carbons."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

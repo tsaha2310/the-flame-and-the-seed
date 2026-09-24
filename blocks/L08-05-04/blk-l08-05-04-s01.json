@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-04/blk-l08-05-04-s01.md",
+  "image": {
+    "src": "media/L08-05-04/blk-l08-05-04-s01.webp",
+    "alt": "One island splitting into two by rising sea, one half with big hard seed plants and one with small soft seed plants, each with its own finch population."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

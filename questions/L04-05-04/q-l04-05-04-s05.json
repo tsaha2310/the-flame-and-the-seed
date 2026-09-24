@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-05-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If the boiled seed's proteins have every atom and every bond, we could just refold them and it would be alive again.\" What stands in the way?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The unfolded chains tangled into a mat with their neighbours, and each has thousands of possible wrong folds. There is no way to untangle them one by one and set each back into its one right shape. The sequence is there; the shape is gone."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it just needs cooling."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It cooled, and stayed tangled. Cooling does not undo a tangle any more than cooling an egg un-fries it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The atoms have changed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The elements and bonds are the same, as Book I and the bond census showed. Only the fold is gone."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The proteins were never important."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The starch is fine in the boiled seed. What is missing is every cutter and every machine that would have used it."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Shape is information that is easy to lose and hard to recover. A tangled mat of ten thousand chains is at the valley floor, from III.8, and nothing there is going to climb back."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q-l01-05-05-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"The live and boiled seeds have the same elements in the same amounts. If elements were the difference, one of them would be missing something.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The seed has nitrogen and the flame does not, so nitrogen is the spark of life.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The boiled seed has just as much nitrogen and is dead. And the air the flame burns in is four-fifths nitrogen. An element that dead things also have cannot be the difference."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The seed has metals in it, so the seed is a bit of a machine.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The oil has traces of metal too, and the boiled seed has exactly as much as the live one."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "image": {
+    "src": "media/L01-05-05/q-l01-05-05-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed elements ledger, a pinch of ash and salt on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

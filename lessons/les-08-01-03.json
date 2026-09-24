@@ -1,0 +1,34 @@
+{
+  "id": "les-08-01-03",
+  "lessonId": "les-08-01-03",
+  "type": "lesson",
+  "title": {
+    "en": "The choreography"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08-01-03/blk-l08-01-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08-01-03/blk-l08-01-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08-01-03/blk-l08-01-03-s03.json"
+    },
+    {
+      "blockRef": "questions/L08-01-03/q-l08-01-03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08-01-03/blk-l08-01-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08-01-03/blk-l08-01-03-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

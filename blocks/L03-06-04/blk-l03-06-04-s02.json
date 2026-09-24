@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-06-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-06-04/blk-l03-06-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing. It has finished.",
+      "feedback": "Kabir's card: \"Settled means stopped.\""
+    },
+    {
+      "id": "b",
+      "text": "Gas is still leaving the water, and gas is still dissolving into it, at exactly equal rates."
+    },
+    {
+      "id": "c",
+      "text": "Gas is very slowly leaving, and the drink is going flat.",
+      "feedback": "Kabir's card: \"Sealed drinks go flat eventually.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-06-04/blk-l03-06-04-s02.webp",
+    "alt": "A sealed fizzy drink bottle at rest for a week, gas above the liquid and gas dissolved in it, everything looking still."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

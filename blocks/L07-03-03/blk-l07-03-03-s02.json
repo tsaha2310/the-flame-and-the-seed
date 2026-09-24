@@ -1,0 +1,32 @@
+{
+  "id": "blk-l07-03-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07-03-03/blk-l07-03-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing; they are attached, so they count each other as before.",
+      "feedback": "Kabir's card: \"They are stuck together.\""
+    },
+    {
+      "id": "b",
+      "text": "Fast flow washes the signal away before it builds up, so they never reach threshold. Slow or still water lets it build."
+    },
+    {
+      "id": "c",
+      "text": "Flow brings more signal from upstream, so they reach threshold sooner.",
+      "feedback": "Kabir's card: \"More water, more signal.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L07-03-03/blk-l07-03-03-s02.webp",
+    "alt": "Bacteria settling on a surface in flowing water, each leaking its signal molecule which is swept away by the current."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

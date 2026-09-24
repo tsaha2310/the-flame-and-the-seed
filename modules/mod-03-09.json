@@ -1,0 +1,63 @@
+{
+  "id": "mod-03-09",
+  "moduleId": "mod-03-09",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.9 The electron waterfall"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "half-reaction",
+      "electrode",
+      "electrochemical-cell",
+      "voltage-upgraded",
+      "reactivity-series",
+      "daniell-cell",
+      "salt-bridge",
+      "recharge",
+      "corrosion",
+      "short-circuit",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-09-01.json",
+      "title": {
+        "en": "The inverter dies"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-09-02.json",
+      "title": {
+        "en": "Steepness"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-09-03.json",
+      "title": {
+        "en": "Volts times charge"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-09-04.json",
+      "title": {
+        "en": "Pushing electrons uphill"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-09-05.json",
+      "title": {
+        "en": "The short circuit"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-09-06.json",
+      "title": {
+        "en": "Ledger duel III"
+      }
+    }
+  ]
+}

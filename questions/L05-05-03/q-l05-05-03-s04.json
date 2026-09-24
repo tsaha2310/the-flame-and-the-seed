@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-05-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why withdrawal \"comes out already tagged, for free, when deposit cost a coin per bead\". Where did the free tag come from?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "From the deposit. The coin spent on each bead going in built a link that holds enough free energy to pay for a phosphate coming out. The tag is that coin, partly refunded."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From the phosphate in the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Phosphate is free; putting it on a glucose is not. The link's own fall pays for it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "From glycogen phosphorylase, which supplies energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Enzymes pay nothing. They lower humps. The energy is in the link."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is not really free; a coin is spent somewhere hidden."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The catch is at deposit time. Nothing is hidden; it was paid then."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the coin. Deposit stores it in the link. Withdrawal by phosphate gets some of it back as a tag. That is why banks store energy as links, not as coins."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

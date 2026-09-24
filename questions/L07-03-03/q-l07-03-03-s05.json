@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-03-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir brushes his teeth and asks why plaque \"comes back by morning if brushing kills the bacteria\". What does brushing actually do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It scrapes the biofilm off and scatters the cells, dropping their count below threshold. Survivors on the surface start leaking signal again, and in a still mouth overnight they reach threshold and rebuild. Brushing resets the count; it does not sterilise."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It kills them all and new ones arrive from food."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Brushing kills few. It disperses. The same bacteria rebuild."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It removes the sugar they eat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sugar feeds them, and less helps, but plaque forms even in a mouth that fasts overnight. The rebuild is a quorum reached again."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It does nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A film that is scattered every twelve hours never gets thick or old enough to do much damage. That is the point of the routine."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A biofilm is a threshold crossed. Brushing pushes the count back below it. Time in a still mouth pushes it back over."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

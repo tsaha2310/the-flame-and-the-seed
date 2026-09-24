@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-02-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A gene's promoter is deleted by a mutation. The gene's own letters are perfect. Kabir says \"so the protein will still be made, just a bit late\". What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The protein is never made. The copyist cannot land, so no mRNA is written, so the workshop never sees the recipe. A perfect recipe with no start sign is a page nobody opens."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is made late."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The copyist does not search. It grips promoters. No promoter, no grip, ever."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is made from the other strand instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The other strand is not a spare recipe; it is the complement. Read backwards it spells nonsense, and it has no promoter either."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is made twice as much, because there is no sign to stop."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sign is a start, not a stop. Removing it removes the start."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The promoter is the door. A gene behind a bricked-up door is intact and silent. Book VI.6 uses this: switch a gene off by blocking its door."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

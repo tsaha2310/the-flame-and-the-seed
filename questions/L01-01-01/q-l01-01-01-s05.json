@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A candle burns in the open on a balance and the reading falls. Kabir says: \"See, the flame ate it.\" What does the sealed-jar run show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The candle's mass went into the air as gas. In a sealed jar, the total mass stays the same."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The candle's mass was destroyed by the heat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If heat destroyed mass, the sealed jar would get lighter too. It does not."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The jar traps the flame's food, so the candle cannot burn properly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The candle did go out early in the jar, but only after burning for a while, and in that time the total mass did not change at all."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The balance is broken in the open air."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The steel wool got heavier on the same balance in the same air."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In the open, gas leaves and the balance cannot weigh what has blown away. Seal the jar, and every gram is still on the pan."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

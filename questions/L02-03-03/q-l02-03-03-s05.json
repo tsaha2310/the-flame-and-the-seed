@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-03-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Alcohol holds about 18 drops on the coin. Water holds 31. Alcohol has one O-H group per molecule; water has two. Kabir says alcohol \"should be half as sticky, so 15 drops\". What is the better reading?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Alcohol can make hydrogen bonds but fewer per molecule than water, so it holds itself together less strongly. The count is not exactly half, because a drop's shape depends on more than one thing, but the direction is right."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Alcohol has no hydrogen bonds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Any molecule with a hydrogen on an oxygen or nitrogen can make one. Alcohol's O-H does. That is why it beats oil so easily."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Alcohol is lighter, so it spills sooner."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lighter would mean a taller dome before it spills, not a shorter one. Weight is not what limits the pile."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Alcohol evaporates, so the drops are lost."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It does evaporate, but the test counts drops added before the dome breaks, and the dome breaks long before much has gone."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "More hydrogen-bonding sites per molecule means a tighter hold. Water's two hydrogens and two lone pairs give it more than any other small molecule."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

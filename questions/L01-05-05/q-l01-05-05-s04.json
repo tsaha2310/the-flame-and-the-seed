@@ -1,0 +1,64 @@
+{
+  "id": "q-l01-05-05-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Kabir wants the story so far in order. Arrange these from first to last."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A balance shows burning steel wool gets heavier: something from the air joins it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Lavoisier's sealed jar shows total mass never changes: only rearranged."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fixed recipes point to atoms, grains that join in whole numbers."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rutherford's bounce shows an atom is a tiny nucleus with electrons far outside."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "Electrons sit at fixed energies, which is why sodium is always yellow."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "Outer electrons decide an element's family, and the strongest pullers sit top right."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

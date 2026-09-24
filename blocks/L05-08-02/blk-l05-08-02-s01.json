@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-08-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-08-02/blk-l05-08-02-s01.md",
+  "image": {
+    "src": "media/L05-08-02/blk-l05-08-02-s01.webp",
+    "alt": "Four small samples on a bench: dahi, idli batter, bread dough, and a muscle sample, each glowing with a small side-reaction icon."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

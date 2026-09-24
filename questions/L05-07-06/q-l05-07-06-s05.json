@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-07-06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"if fat leaves through the lungs, you could lose weight by breathing faster\". What is wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Breathing out carbon dioxide only removes carbon that the mitochondria have already stripped. Breathing faster without burning more just removes carbon dioxide the blood needs for its buffer, from III.7, and makes you dizzy. The burning has to happen first."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it would work."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The lungs release what the wheel makes. They do not make it. Over-breathing empties the buffer, not the fat."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fat does not leave through the lungs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The carbon of fat leaves as a gas, and the lungs are where gas leaves. The sim's balance shows it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "You would lose muscle instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The fuel is chosen by the cells, not by the breathing. Fast breathing changes nothing about which fuel burns."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The lungs are the exit, not the engine. To lose fat you must run the staircase on fat, which takes work or fasting. The exhaust is just where it comes out."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

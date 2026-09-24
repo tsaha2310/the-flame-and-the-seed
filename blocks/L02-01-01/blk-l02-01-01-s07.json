@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-01-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-01-01/blk-l02-01-01-s07.md",
+  "image": {
+    "src": "media/L02-01-01/blk-l02-01-01-s07.webp",
+    "alt": "Three grips shown as three small scenes: one atom handing an electron to another, a lump of orange atoms in a shared blue haze, and two atoms holding one electron pair between them."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

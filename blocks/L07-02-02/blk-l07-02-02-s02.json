@@ -1,0 +1,32 @@
+{
+  "id": "blk-l07-02-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07-02-02/blk-l07-02-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The message is small for a small poke and big for a big one, like turning a volume knob.",
+      "feedback": "Kabir's card: \"Bigger poke, bigger message.\""
+    },
+    {
+      "id": "b",
+      "text": "Below the gate's opening voltage, nothing travels. Above it, a full-sized wave runs the whole length, the same size whatever the poke."
+    },
+    {
+      "id": "c",
+      "text": "Any poke sends a full wave.",
+      "feedback": "Kabir's card: \"Touch it and it fires.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L07-02-02/blk-l07-02-02-s02.webp",
+    "alt": "A nerve cable receiving a small poke and a bigger poke at one end, small gates in the wall not yet responding."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

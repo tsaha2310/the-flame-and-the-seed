@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-02-03/blk-l04-02-03-s01.md",
+  "image": {
+    "src": "media/L04-02-03/blk-l04-02-03-s01.webp",
+    "alt": "Three spoons holding a gram each of white candle wax, white sugar and black charcoal, three cups of water waiting above three flames."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

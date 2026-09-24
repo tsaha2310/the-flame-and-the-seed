@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-09-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A Daniell cell at 1.1 volts and a torch cell at 1.5 volts each run an LED until dead. Kabir says \"the torch cell must deliver more energy, because 1.5 is more than 1.1\". What else matters?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "How much charge each can pass before its reactants are used up. A big Daniell cell with a lot of zinc can deliver far more total energy than a tiny torch cell, despite the lower volts."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing else."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Volts are per electron. Total energy needs the number of electrons, which depends on how much zinc and copper sulphate there is."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The size of the LED."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The LED decides how fast the energy is used, not how much there is."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The colour of the LED."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A blue LED needs about 3 volts to light at all, which is a different point: neither cell alone will light it. Total energy is still volts times charge."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Volts times charge. Volts are fixed by the reaction. Charge is fixed by how much reactant there is to fall."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

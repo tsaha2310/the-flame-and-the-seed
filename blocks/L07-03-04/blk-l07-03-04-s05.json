@@ -1,0 +1,30 @@
+{
+  "id": "blk-l07-03-04-s05",
+  "type": "reflection@1",
+  "prompt": {
+    "en": "Would you rather fight an infection with an antibiotic that kills the bacteria, or a jammer that stops them cooperating? Write your view first."
+  },
+  "viewpoints": [
+    {
+      "en": "Killing is decisive and proven. A jammer leaves the bacteria alive for the body to deal with, and a weak patient might not manage."
+    },
+    {
+      "en": "Killing selects hard for resistance: any survivor is a survivor of the drug, from Book VIII. A jammer that only silences may select less strongly, because a deaf bacterium still lives and divides."
+    },
+    {
+      "en": "Both together. Silence the biofilm first so the antibiotic can reach the cells, then kill. Most real strategies against biofilms are combinations."
+    },
+    {
+      "en": "There is no settled answer. The trials are running now."
+    }
+  ],
+  "image": {
+    "src": "media/L07-03-04/blk-l07-03-04-s05.webp",
+    "alt": "Two paths to fighting an infection, one a direct strike killing bacteria and one a quiet jammer silencing their communication, side by side and unresolved."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

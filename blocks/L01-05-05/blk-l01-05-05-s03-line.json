@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-05-s03-line",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-05/blk-l01-05-05-s03-line.md",
+  "image": {
+    "src": "media/L01-05-05/blk-l01-05-05-s03-line.webp",
+    "alt": "A notebook page with three columns, each filled with the same small cluster of coloured element balls, and a mango being handed over."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

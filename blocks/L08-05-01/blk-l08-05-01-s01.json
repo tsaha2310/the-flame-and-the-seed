@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-01/blk-l08-05-01-s01.md",
+  "image": {
+    "src": "media/L08-05-01/blk-l08-05-01-s01.webp",
+    "alt": "A Victorian pigeon breeder selecting specific birds to breed from a diverse flock, shaping fantails and pouters from an ordinary rock dove over generations."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

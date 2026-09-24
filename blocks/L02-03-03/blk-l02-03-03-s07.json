@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-03-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-03-03/blk-l02-03-03-s07.md",
+  "image": {
+    "src": "media/L02-03-03/blk-l02-03-03-s07.webp",
+    "alt": "Three kinds of pull between molecules drawn as three ropes of different thickness, with a bent water molecule on a screen and a lone-pair switch."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

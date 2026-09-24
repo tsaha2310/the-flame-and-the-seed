@@ -1,0 +1,34 @@
+{
+  "id": "les-07-02-04",
+  "lessonId": "les-07-02-04",
+  "type": "lesson",
+  "title": {
+    "en": "The gap"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07-02-04/blk-l07-02-04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-04/blk-l07-02-04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-04/blk-l07-02-04-s03.json"
+    },
+    {
+      "blockRef": "questions/L07-02-04/q-l07-02-04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-04/blk-l07-02-04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-04/blk-l07-02-04-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

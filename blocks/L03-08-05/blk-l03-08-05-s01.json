@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-05/blk-l03-08-05-s01.md",
+  "image": {
+    "src": "media/L03-08-05/blk-l03-08-05-s01.webp",
+    "alt": "A phone showing a grid of short videos, a glass falling, a candle, ink spreading, a ball bouncing, a kettle, a boy running, some of them reversed."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

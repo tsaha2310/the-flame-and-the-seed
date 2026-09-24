@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-01-01/blk-l02-01-01-s01.md",
+  "image": {
+    "src": "media/L02-01-01/blk-l02-01-01-s01.webp",
+    "alt": "A boy with a hammer at a chopping board: a copper square dented but whole, a chunk of rock salt shattered into tiny cubes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

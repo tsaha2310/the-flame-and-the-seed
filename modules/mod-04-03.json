@@ -1,0 +1,50 @@
+{
+  "id": "mod-04-03",
+  "moduleId": "mod-04-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "IV.3 Add a little oxygen: fats"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "functional-group",
+      "hydroxyl",
+      "carboxyl",
+      "ester",
+      "fatty-acid",
+      "triglyceride",
+      "saturated",
+      "unsaturated",
+      "soap-as-a-molecule",
+      "micelle"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-04-03-01.json",
+      "title": {
+        "en": "Ghee is solid, oil pours"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-03-02.json",
+      "title": {
+        "en": "Fat builder"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-03-03.json",
+      "title": {
+        "en": "Kinks"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04-03-04.json",
+      "title": {
+        "en": "Soap"
+      }
+    }
+  ]
+}

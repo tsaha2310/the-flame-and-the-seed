@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-06-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-06-01/blk-l08-06-01-s01.md",
+  "image": {
+    "src": "media/L08-06-01/blk-l08-06-01-s01.webp",
+    "alt": "An eighteenth-century naturalist sorting cards of different organisms into grouped piles based purely on shared physical features."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-01-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-01-03/blk-l01-01-03-s06.md",
+  "image": {
+    "src": "media/L01-01-03/blk-l01-01-03-s06.webp",
+    "alt": "A grandmother unrolling a large periodic-table-shaped chart of blank coloured tiles on a verandah wall, a boy guarding a bowl of sprouting seeds."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

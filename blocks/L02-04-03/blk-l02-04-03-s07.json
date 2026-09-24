@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-03/blk-l02-04-03-s07.md",
+  "image": {
+    "src": "media/L02-04-03/blk-l02-04-03-s07.webp",
+    "alt": "An ice cube floating in a glass of water, with a lump of solid ghee sunk in melted ghee and solid wax sunk in melted wax beside it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

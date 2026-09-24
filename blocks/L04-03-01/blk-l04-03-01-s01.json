@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-03-01/blk-l04-03-01-s01.md",
+  "image": {
+    "src": "media/L04-03-01/blk-l04-03-01-s01.webp",
+    "alt": "Two glasses of water, one where a splash of lamp spirit mixes in and one where kerosene floats on top, a boy staring at the difference."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

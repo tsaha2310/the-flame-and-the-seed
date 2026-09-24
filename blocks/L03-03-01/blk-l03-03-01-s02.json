@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-03-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-03-01/blk-l03-03-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The dry one, because air has the most oxygen.",
+      "feedback": "Kabir's card: \"Rust is oxygen. Air is oxygen.\""
+    },
+    {
+      "id": "b",
+      "text": "The half-in, half-out one, and the salt-water one rusts fastest of all."
+    },
+    {
+      "id": "c",
+      "text": "The one fully under water, because water is wet and rust is a wet thing.",
+      "feedback": "Kabir's card: \"More water, more rust.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-03-01/blk-l03-03-01-s02.webp",
+    "alt": "Four iron nails in four jars: dry air, tap water under a lid, half in water half out, and salt water."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

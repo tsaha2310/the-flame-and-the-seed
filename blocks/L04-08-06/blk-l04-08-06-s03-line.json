@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-06-s03-line",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-06/blk-l04-08-06-s03-line.md",
+  "image": {
+    "src": "media/L04-08-06/blk-l04-08-06-s03-line.webp",
+    "alt": "A three-column notebook page: a fat molecule under the flame, five molecule families under the live seed, and the same five under the boiled seed with the protein unfolded."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

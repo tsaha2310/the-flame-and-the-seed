@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-06-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-06-02/blk-l05-06-02-s01.md",
+  "image": {
+    "src": "media/L05-06-02/blk-l05-06-02-s01.webp",
+    "alt": "Carbon atoms handing electrons not straight to oxygen but into a bucket-shaped carrier first, unlike the direct handoff in a flame."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

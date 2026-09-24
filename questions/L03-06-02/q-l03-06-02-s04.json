@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-06-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Hydrogen and oxygen can sit mixed in a balloon for years. Touch a flame to it and it explodes. Kabir says \"the flame gives the gas its energy\". What is the better account?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The reaction is downhill and releases far more energy than the flame supplied. The flame only lifted a few collisions over the hump; the heat they released lifted the rest."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The flame supplies all the energy of the explosion."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A match's heat is tiny compared with the bang. Almost all of it came from the hydrogen and oxygen falling to water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The balloon was holding the gas back."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The gas is mixed inside the balloon and could react at any moment. It does not, because nothing is over the hump."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Hydrogen and oxygen are not really downhill."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Downhill things go by themselves only if there is no hump. This hump is high enough to hold the reaction for years."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate the hump from the fall. The match pays for the hump, once. The fall pays for everything after."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-05-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-05-02/blk-l08-05-02-s01.md",
+  "image": {
+    "src": "media/L08-05-02/blk-l08-05-02-s01.webp",
+    "alt": "Four open drawers revealing fossil layers, matching bone structures across different animals, a shared genetic code table, and DNA comparison strands."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

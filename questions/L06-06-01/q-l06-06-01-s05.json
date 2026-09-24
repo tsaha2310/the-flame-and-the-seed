@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-06-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says most of Gurdon's eggs failed, \"so the gut nucleus was mostly damaged and a few lucky ones were fine\". What does the low success rate more likely reflect?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Resetting the switches is hard. A gut nucleus has its chromatin set for gut, and the egg has to undo all of it, in the right order, before development can start. Most attempts get part of the way. The ones that succeed show the tape was intact."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The gut nucleus lost genes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A single complete frog from a gut nucleus proves the tape was complete. Genes cannot be missing and then present."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The needle killed most eggs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some, but eggs given their own nucleus back by the same needle developed far more often. The difference was the reset."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Frogs are just unreliable."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Later work with sheep and mice showed the same pattern: possible, and hard, because of the switches."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate \"is the information there\" from \"can it be re-read\". Gurdon's few successes answered the first. The many failures are the difficulty of the second."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

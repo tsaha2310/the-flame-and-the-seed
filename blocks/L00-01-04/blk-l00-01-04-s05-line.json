@@ -1,0 +1,14 @@
+{
+  "id": "blk-l00-01-04-s05-line",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L00-01-04/blk-l00-01-04-s05-line.md",
+  "image": {
+    "src": "media/L00-01-04/blk-l00-01-04-s05-line.webp",
+    "alt": "A notebook page ruled into three columns with tick marks under the flame and seed and crosses under the boiled seed, a mango placed on the page like a wager."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

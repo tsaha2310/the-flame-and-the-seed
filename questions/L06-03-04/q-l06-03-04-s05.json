@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-03-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A typo changes GAA to GAG. Kabir says \"so the protein is broken\". Both codons name glutamate. What happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing. Same bead, same chain, same fold. The typo is silent, because the third letter is redundant for this bead."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The protein is broken."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The chain is identical. The tape changed and the protein did not."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The protein is made twice."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One codon, one bead, one chain. The two codons are two spellings of the same word."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The protein is made faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some codons are read a little faster than others in some cells, but the chain is the same. Fold and job unchanged."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Look the codon up. If the bead is the same, the typo is silent. Redundancy at work."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-01-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-01-01/blk-l07-01-01-s07.md",
+  "image": {
+    "src": "media/L07-01-01/blk-l07-01-01-s07.webp",
+    "alt": "One messenger triggering a relay of many small helper molecules, each step multiplying, ending in a huge release of sugar."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

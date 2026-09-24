@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-06-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A car's exhaust pipe contains a catalyst that turns poisonous carbon monoxide into carbon dioxide. Kabir says \"the catalyst gives energy to the exhaust\". What does it do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It lowers the hump for a reaction that was already downhill, so it runs at exhaust temperature instead of needing a flame. It supplies no energy and is not used up."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It supplies energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The exhaust heats the catalyst, not the other way round. It works by offering a lower path, and it is still there after ten years."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is a fuel that burns with the carbon monoxide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A fuel would be used up. The catalyst weighs the same after a hundred thousand kilometres."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It stops the carbon monoxide being made."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The carbon monoxide is made in the engine. The catalyst finishes it off in the pipe, downhill, with a lower hump."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask two questions of anything called a catalyst. Is it used up? Does it change the energy out? If the answers are no and no, it is a catalyst, and it works on the hump."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

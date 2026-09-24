@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-02-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads that some cars run on \"hydrogen fuel\" and their exhaust is only water. He says \"so hydrogen is free energy, water is everywhere\". What is missing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The hydrogen had to be made by pushing water back up the Hill, with electricity, at a cost bigger than the car gets back. Hydrogen is a way to carry energy, not a source of it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; water is free."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water is at the bottom of the Hill. Getting hydrogen out of it is electrolysis, and Book I showed the battery doing the work."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Hydrogen cars are a hoax."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are real. They are a battery with the charging done at the factory and the discharge done in the car."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Hydrogen burns to something other than water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It burns to water, which is exactly why it is clean at the tailpipe and exactly why the hydrogen had to be lifted out of water first."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask where the fuel's fall came from. Every fuel was pushed up the Hill by something. For hydrogen from water, that something is a power station."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

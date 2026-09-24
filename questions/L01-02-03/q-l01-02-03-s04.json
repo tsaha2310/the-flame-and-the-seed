@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-02-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A rubbed balloon sticks to the wall, and the wall was never rubbed. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The balloon's charge pulls the opposite charge in the wall a little closer and pushes the same charge a little further away, so the near side of the wall is opposite to the balloon and the two attract."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The wall is charged too."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The wall has equal amounts of both kinds and no extra of either. A balloon that is not rubbed does not stick to it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The balloon is sticky from Kabir's hair."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A balloon rubbed on a clean dry cloth sticks just as well, and a balloon wiped with a damp cloth stops sticking. Water carries the charge away."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The wall is a magnet."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A fridge magnet does not stick to the wall. Charge and magnetism are different things, with different rules."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Charge can be shifted a little inside an uncharged object. The balloon pulls the wall's opposite charge toward itself. Opposites are now nearest, so they attract."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

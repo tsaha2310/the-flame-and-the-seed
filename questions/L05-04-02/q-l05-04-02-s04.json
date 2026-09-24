@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Enzymes make reactions happen that would not happen otherwise.\" Where is that right and where is it wrong?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Right about speed: without the enzyme, starch splits so slowly at body temperature that it never matters. Wrong about direction: the split was downhill already. The enzyme lowered the hump. It changed nothing about the valley."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Entirely right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No enzyme, a very slow reaction. The direction and the final mix are set by the Hill, not the enzyme."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Entirely wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They change a wait of centuries into a second. That is not nothing; it is what lets a seed run its chemistry at room temperature."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Right, because enzymes supply energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An enzyme supplies no energy. It offers a lower path. A catalyst that supplied energy would be the free-energy loop from III.6."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask what the enzyme touched. The hump, yes. The valley, never. A reaction the enzyme speeds was going to go that way anyway, given time."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

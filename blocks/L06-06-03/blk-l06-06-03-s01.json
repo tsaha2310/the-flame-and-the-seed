@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-03/blk-l06-06-03-s01.md",
+  "image": {
+    "src": "media/L06-06-03/blk-l06-06-03-s01.webp",
+    "alt": "A bacterium wired with two sensing inputs, glucose present and lactose present, only switching on the lactose gene when glucose is absent."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

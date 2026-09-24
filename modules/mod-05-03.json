@@ -1,0 +1,47 @@
+{
+  "id": "mod-05-03",
+  "moduleId": "mod-05-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.3 Swallow and spit"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "endocytosis",
+      "macrophage",
+      "vesicle",
+      "receptor",
+      "exocytosis",
+      "lysosome",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-03-01.json",
+      "title": {
+        "en": "Play the macrophage"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-03-02.json",
+      "title": {
+        "en": "Drinking and pickup"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-03-03.json",
+      "title": {
+        "en": "Spit and recycle"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-03-04.json",
+      "title": {
+        "en": "Block the exit"
+      }
+    }
+  ]
+}

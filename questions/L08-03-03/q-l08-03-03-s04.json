@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-03-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two genes on the same chromosome give 8 percent recombinant offspring. Two others give 40 percent. Kabir says \"so the second pair of genes crosses over more easily\". What does the difference mean?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The second pair of genes are further apart on the chromosome. Crossing over happens at random points; the longer the stretch between two genes, the more often a crossover lands between them. Recombinant fraction measures distance."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The second pair is on a weaker chromosome."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Crossing over is a normal step in every chromosome. The rate between two genes depends on their spacing."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The second pair is not really on the same chromosome."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Genes on different pairs give 50 percent recombinants, from independent sorting. Forty is less than fifty, so they are on the same pair, far apart."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Recombination is random and the numbers mean nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "With thousands of offspring the fractions are stable, and they add up along a chromosome like distances on a road. That is a map."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Crossovers land at random along the chromosome. The chance one lands between two genes grows with the distance between them. Fifty percent is the ceiling, and it equals independence."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

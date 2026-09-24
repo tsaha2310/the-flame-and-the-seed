@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-02/blk-l05-07-02-s06.md",
+  "image": {
+    "src": "media/L05-07-02/blk-l05-07-02-s06.webp",
+    "alt": "A tagged carbon travelling around a circular wheel of eight steps inside the bean structure, leaving as breath, with buckets filling along the way."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

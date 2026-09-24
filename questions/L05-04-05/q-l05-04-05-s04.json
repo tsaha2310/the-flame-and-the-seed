@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-04-05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir tunes the feedback so strong that a single product molecule shuts the first enzyme completely. What happens to the factory?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It flickers. One molecule shuts it; the molecule is used; it opens; makes one; shuts. The level is always near zero and the cell is always just short. Feedback is meant to lean, not slam."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It runs perfectly with no waste."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tight control that overshoots to zero is a shortage. The cell needs a steady supply, which needs a gradual lean."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It runs faster."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Strong feedback slows the first enzyme harder. It is a brake, and this is the brake jammed on."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It ignores the feedback."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing is ignored. The enzyme shuts, exactly as set."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Good feedback is proportional. A little product, a little slowing; a lot, a lot. Le Chatelier's lean, from III.6, built into a fold."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

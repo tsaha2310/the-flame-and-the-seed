@@ -1,0 +1,34 @@
+{
+  "id": "les-08-02-01",
+  "lessonId": "les-08-02-01",
+  "type": "lesson",
+  "title": {
+    "en": "The pea garden"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08-02-01/blk-l08-02-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-01/blk-l08-02-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-01/blk-l08-02-01-s03.json"
+    },
+    {
+      "blockRef": "questions/L08-02-01/q-l08-02-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-01/blk-l08-02-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-01/blk-l08-02-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

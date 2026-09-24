@@ -1,0 +1,49 @@
+{
+  "id": "mod-07-01",
+  "moduleId": "mod-07-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VII.1 Messages that change shapes"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "signal",
+      "relay",
+      "amplification",
+      "hormone",
+      "adrenaline",
+      "cyclic-amp",
+      "insulin",
+      "glucagon",
+      "diabetes"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-07-01-01.json",
+      "title": {
+        "en": "One molecule in"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-01-02.json",
+      "title": {
+        "en": "Trace the message"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-01-03.json",
+      "title": {
+        "en": "Steady sugar"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-01-04.json",
+      "title": {
+        "en": "Two ways to lose it"
+      }
+    }
+  ]
+}

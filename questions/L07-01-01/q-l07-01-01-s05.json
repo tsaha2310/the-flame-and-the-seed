@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the messenger \"does not just go inside and switch on the phosphorylase itself\". What does the relay buy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Amplification and a chance to control. One molecule outside becomes millions of switched enzymes inside, which a single molecule wandering in could never do. And every step of the chain is a place where the cell can turn the message up, down or off."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; it would be simpler inside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One molecule inside could switch on one enzyme. The cell needs a million switched on in seconds."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The messenger is too big to enter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some messengers are small enough and still stay outside, because the relay is the point."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The wall would leak if messengers came through."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing is punched. The receptor passes the shape change through the wall with no hole at all."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A relay is a series of wheels. Each turns many. The message grows at every step and can be adjusted at every step."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-08-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir shuffles a pack of cards and deals himself a hand. Every card is a spade, in order. He says \"that was impossible\". Was it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No. That exact hand is exactly as likely as any other exact hand. What is unlikely is \"a hand that looks special\", because there are very few special-looking hands among the enormous number of ordinary-looking ones."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, it was impossible."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Any single hand can happen. The one he got has the same chance as the boring one he usually gets."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It was more likely than an ordinary hand, because the pack was new."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If the pack was truly shuffled, the order is gone. If not, it was not a shuffle."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It shows the shuffle was rigged."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Possibly. But a fair shuffle produces this hand once in every 300,000 or so tries, which is rare, not impossible."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every exact arrangement is equally likely. \"Special\" outcomes are rare because there are few of them, not because any of them is disfavoured. That is entropy: a count of arrangements that look the same."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

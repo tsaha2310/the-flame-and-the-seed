@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-08-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-08-04/blk-l05-08-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The one with air. Air means more energy, so more everything.",
+      "feedback": "Kabir's card: \"Air is fuel.\""
+    },
+    {
+      "id": "b",
+      "text": "The sealed one. Without air, yeast gets only two coins per glucose, so it must burn far more sugar for the same growth."
+    },
+    {
+      "id": "c",
+      "text": "The same, because yeast is yeast.",
+      "feedback": "Kabir's card: \"Same yeast, same speed.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-08-04/blk-l05-08-04-s02.webp",
+    "alt": "Two flasks of yeast in grape juice, one open to air and one sealed, both starting with identical sugar levels."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-04-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir runs the bench for twice as long. What happens to the ratio of the two gases?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays 2 to 1. Both tubes hold twice as much, and the ratio is fixed by what water is made of."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It becomes 4 to 1."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Twice as long gives twice the oxygen too. Water can only come apart in the ratio it was put together."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It becomes 1 to 1, because the oxygen catches up."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oxygen is not slow; each water molecule simply gives two hydrogens and one oxygen, every time, from the first bubble to the last."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The water runs out and the ratio stops meaning anything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bowl of water is billions of billions of molecules. A battery would take weeks to empty it, and the ratio would be 2 to 1 the whole way."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Every water molecule that is split gives the same pieces. Run it longer and you split more molecules, not different ones."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

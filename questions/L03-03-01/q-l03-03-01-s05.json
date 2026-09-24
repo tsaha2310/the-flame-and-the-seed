@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-03-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A steel bicycle in Chennai rusts faster than the same bicycle in Jodhpur. Kabir says \"Chennai has more oxygen\". What is the better reason?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Chennai's air is humid and salty from the sea. Rust needs water with the oxygen, and salt makes it faster. Jodhpur's air is dry."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Chennai has more oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air is a fifth oxygen everywhere. The difference is the water and the salt."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Jodhpur's sand scrubs the rust off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sand scratches, which if anything exposes fresh iron. The dry air simply gives rust nothing to work with."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Chennai is hotter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heat speeds most reactions a little, but Jodhpur is often hotter than Chennai. Dry heat rusts slowly."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask what the reaction needs, then ask which place supplies it. Rust needs oxygen, water and, ideally, salt. Only one city offers all three."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

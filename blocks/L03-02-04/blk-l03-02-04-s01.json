@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-02-04/blk-l03-02-04-s01.md",
+  "image": {
+    "src": "media/L03-02-04/blk-l03-02-04-s01.webp",
+    "alt": "Laddoo ingredients on a shelf, six cups of besan, two of ghee and five of sugar, beside a recipe card showing two, one and one for a plate of twelve laddoos."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

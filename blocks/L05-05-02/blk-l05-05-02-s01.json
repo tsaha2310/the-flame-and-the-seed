@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-05-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-05-02/blk-l05-05-02-s01.md",
+  "image": {
+    "src": "media/L05-05-02/blk-l05-05-02-s01.webp",
+    "alt": "Four parathas on a plate beside a blood vessel full of glucose being packed away into a branching glycogen tree in the liver."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

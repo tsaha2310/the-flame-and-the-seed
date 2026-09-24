@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-02/blk-l08-01-02-s01.md",
+  "image": {
+    "src": "media/L08-01-02/blk-l08-01-02-s01.webp",
+    "alt": "A DNA copier machine adding letters rapidly with occasional mistakes, most caught and corrected before the machine moves on."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

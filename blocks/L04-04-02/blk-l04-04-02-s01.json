@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-04-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-04-02/blk-l04-04-02-s01.md",
+  "image": {
+    "src": "media/L04-04-02/blk-l04-04-02-s01.webp",
+    "alt": "Three jars on a table: white table sugar, a milk-sugar powder packet, and a jar of dark malt syrup, each with a pair of rings above it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

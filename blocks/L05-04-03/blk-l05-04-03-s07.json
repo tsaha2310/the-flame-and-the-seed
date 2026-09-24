@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-04-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-04-03/blk-l05-04-03-s07.md",
+  "image": {
+    "src": "media/L05-04-03/blk-l05-04-03-s07.webp",
+    "alt": "A completed optimum curve for an enzyme, rising then falling off a cliff at high heat, with a small inhibitor molecule blocking a pocket and a boiled seed's protein tangled at the far end."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

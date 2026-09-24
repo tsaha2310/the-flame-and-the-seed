@@ -1,0 +1,32 @@
+{
+  "id": "blk-l07-05-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07-05-01/blk-l07-05-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A body. Sticking together is what a body is.",
+      "feedback": "Kabir's card: \"Stuck cells are a body.\""
+    },
+    {
+      "id": "b",
+      "text": "Size and a shared surface, but nothing more. The cells are still each doing everything alone, and none can specialise."
+    },
+    {
+      "id": "c",
+      "text": "Nothing; sticking together only makes them starve, from the surface rule.",
+      "feedback": "Kabir's card: \"Big clumps die.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L07-05-01/blk-l07-05-01-s02.webp",
+    "alt": "A small cluster of stuck-together cells with the outer ones absorbing more light and the inner ones more sheltered, an early division of roles, the gain left as a question."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

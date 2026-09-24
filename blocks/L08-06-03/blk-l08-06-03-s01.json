@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-06-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-06-03/blk-l08-06-03-s01.md",
+  "image": {
+    "src": "media/L08-06-03/blk-l08-06-03-s01.webp",
+    "alt": "Two family trees built for the same animals, one from physical looks and one from DNA comparison, drawn side by side for comparison."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-03-02/blk-l04-03-02-s01.md",
+  "image": {
+    "src": "media/L04-03-02/blk-l04-03-02-s01.webp",
+    "alt": "A fat molecule drawn as a glycerol backbone with three long tails, and a small water molecule falling out where each tail joins."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

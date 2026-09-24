@@ -1,0 +1,34 @@
+{
+  "id": "les-03-04-03",
+  "lessonId": "les-03-04-03",
+  "type": "lesson",
+  "title": {
+    "en": "The bond ledger"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-04-03/blk-l03-04-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-03/blk-l03-04-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-03/blk-l03-04-03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03-04-03/q-l03-04-03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-03/blk-l03-04-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-04-03/blk-l03-04-03-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

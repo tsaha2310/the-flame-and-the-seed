@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-04-04/blk-l03-04-04-s01.md",
+  "image": {
+    "src": "media/L03-04-04/blk-l03-04-04-s01.webp",
+    "alt": "A red-faced, sweaty boy back from cricket with a thermometer in his mouth, a bat over his shoulder, a litre of water boiling in a thought-bubble."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-03-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Glycerol is a three-carbon chain with a hydroxyl on every carbon. It is thick, sweet, and mixes with water in any amount. Kabir says \"three hydroxyls is three times as sour as one\". What is it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Not sour at all. Hydroxyls love water but do not give up their hydrogen as an ion. Sourness needs a carboxyl. Three hydroxyls make it very water-loving and sticky, which is why it is thick."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Three times as sour."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oxygen alone is not sourness. Vinegar's sour comes from the carboxyl's particular arrangement, which glycerol lacks."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Three times as oily."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The opposite. Three water-loving spots on a three-carbon chain leave no oily part to speak of."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Explosive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nitroglycerine is glycerol with a very different group hung on it. Glycerol itself is a food additive."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Read the groups. Hydroxyl means water-loving. Carboxyl means sour. Count which ones are present, not how many oxygens."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

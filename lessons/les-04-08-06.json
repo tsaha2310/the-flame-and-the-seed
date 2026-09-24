@@ -1,0 +1,40 @@
+{
+  "id": "les-04-08-06",
+  "lessonId": "les-04-08-06",
+  "type": "lesson",
+  "title": {
+    "en": "Ledger duel IV"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04-08-06/blk-l04-08-06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-06/blk-l04-08-06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-06/blk-l04-08-06-s03.json"
+    },
+    {
+      "blockRef": "questions/L04-08-06/q-l04-08-06-s03-say.json"
+    },
+    {
+      "blockRef": "questions/L04-08-06/q-l04-08-06-s03-attack-01.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-06/blk-l04-08-06-s03-line.json"
+    },
+    {
+      "blockRef": "questions/L04-08-06/q-l04-08-06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L04-08-06/blk-l04-08-06-s05.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

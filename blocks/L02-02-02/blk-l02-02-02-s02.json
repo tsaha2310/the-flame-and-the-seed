@@ -1,0 +1,32 @@
+{
+  "id": "blk-l02-02-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02-02-02/blk-l02-02-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A straight line, oxygen, carbon, oxygen."
+    },
+    {
+      "id": "b",
+      "text": "Bent, like a boomerang.",
+      "feedback": "Kabir's card: \"Everything with three atoms is bent.\""
+    },
+    {
+      "id": "c",
+      "text": "A flat triangle.",
+      "feedback": "Kabir's card: \"Three atoms make a triangle.\""
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L02-02-02/blk-l02-02-02-s02.webp",
+    "alt": "A carbon atom between two oxygen atoms, each joined by a double rod, the shape still undecided."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

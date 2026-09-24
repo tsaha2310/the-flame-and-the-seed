@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-05-04/blk-l05-05-04-s01.md",
+  "image": {
+    "src": "media/L05-05-04/blk-l05-05-04-s01.webp",
+    "alt": "A flexed forearm with a cutaway showing a walking protein pulling itself along a track fibre, one nanometre step at a time."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-01-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06-01-01/blk-l06-01-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It lives. Dead germs are dead, and rough germs are harmless.",
+      "feedback": "Kabir's card: \"Dead plus harmless is harmless.\""
+    },
+    {
+      "id": "b",
+      "text": "It dies, and its blood is full of live smooth bacteria."
+    },
+    {
+      "id": "c",
+      "text": "It dies from the dead germs' poison, and its blood has only rough bacteria.",
+      "feedback": "Kabir's card: \"The dead ones leaked poison.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L06-01-01/blk-l06-01-01-s02.webp",
+    "alt": "A mouse about to be injected with a mixture of dead smooth-coated bacteria and live rough bacteria, the outcome unresolved."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

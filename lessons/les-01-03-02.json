@@ -1,0 +1,37 @@
+{
+  "id": "les-01-03-02",
+  "lessonId": "les-01-03-02",
+  "type": "lesson",
+  "title": {
+    "en": "Rutherford's black box"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01-03-02/blk-l01-03-02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-02/blk-l01-03-02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-02/blk-l01-03-02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-02/blk-l01-03-02-s04.json"
+    },
+    {
+      "blockRef": "questions/L01-03-02/q-l01-03-02-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-02/blk-l01-03-02-s06.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-02/blk-l01-03-02-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-07-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A runner breathes hard for ten minutes, blowing off far more carbon dioxide than usual. Kabir says \"her blood must be getting more acid from all the exercise\". Which way does the buffer say the pH moves, and why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Slightly toward base. Losing carbon dioxide pulls carbonic acid apart to replace it, and that uses up hydrogen ions. Her muscles make acid, but the breathing over-corrects."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Strongly acid."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Muscles do make acid, but the buffer absorbs most of it and hard breathing removes carbon dioxide, which pushes the other way."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No change at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Buffers resist change; they do not forbid it. Hard breathing shifts pH by a measurable tenth or two."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Strongly base, into danger."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The shift is real but small, and the kidneys correct it over hours. It takes deliberate hyperventilation to cause fainting, and even that is not deadly."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the carbon dioxide. Less in the blood means less carbonic acid, so the equilibrium pulls hydrogen ions back to make more, and pH rises a little."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

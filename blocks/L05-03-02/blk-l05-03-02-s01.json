@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-03-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-03-02/blk-l05-03-02-s01.md",
+  "image": {
+    "src": "media/L05-03-02/blk-l05-03-02-s01.webp",
+    "alt": "A busy cell membrane taking in some bubbles at random and others through a shaped receptor spot, like a shopper being choosy."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

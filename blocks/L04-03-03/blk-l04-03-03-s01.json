@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-03-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-03-03/blk-l04-03-03-s01.md",
+  "image": {
+    "src": "media/L04-03-03/blk-l04-03-03-s01.webp",
+    "alt": "Solid white ghee in a tin beside pouring golden mustard oil, with a single double bond kink drawn glowing in one chain."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

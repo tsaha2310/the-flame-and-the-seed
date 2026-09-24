@@ -1,0 +1,34 @@
+{
+  "id": "les-03-02-01",
+  "lessonId": "les-03-02-01",
+  "type": "lesson",
+  "title": {
+    "en": "Counting coins by weighing"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03-02-01/blk-l03-02-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03-02-01/blk-l03-02-01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03-02-01/blk-l03-02-01-s03.json"
+    },
+    {
+      "blockRef": "questions/L03-02-01/q-l03-02-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03-02-01/blk-l03-02-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03-02-01/blk-l03-02-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

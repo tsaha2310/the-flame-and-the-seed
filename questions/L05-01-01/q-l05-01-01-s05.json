@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks whether a bilayer bubble \"leaks\". He drops salt into the water outside one in the sim; it does not get in. He drops a little oil-loving dye; it slides straight through. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The bubble's middle is two oily tails thick. Anything oily can dissolve in it and cross. A charged ion cannot enter an oily layer, from III.5, so salt stays out."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bubble has holes just the size of dye."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There are no holes. The dye dissolves into the oily middle and out the other side, the way wax dissolves in oil."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Salt is too heavy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ions are tiny. What stops them is charge: an ion with its water shell cannot enter oil."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The bubble is closed, so nothing gets in."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The dye got in. The wall is choosy, not sealed, and the choosing is by oiliness."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The wall's middle is oil. Ask of anything: can it dissolve in oil? Oil-lovers pass. Charges are stopped."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

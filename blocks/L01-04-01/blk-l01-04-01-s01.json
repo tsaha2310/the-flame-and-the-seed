@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-04-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-04-01/blk-l01-04-01-s01.md",
+  "image": {
+    "src": "media/L01-04-01/blk-l01-04-01-s01.webp",
+    "alt": "A boy with a battery, two wires and a small LED dipping the bare wire ends into a glass of water that does nothing, six glasses waiting on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-08-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-08-01/blk-l05-08-01-s01.md",
+  "image": {
+    "src": "media/L05-08-01/blk-l05-08-01-s01.webp",
+    "alt": "A bowl of idli batter risen overnight with visible bubbles and a faintly sour smell suggested by wavy lines, no air needed."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

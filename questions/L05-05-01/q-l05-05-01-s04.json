@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-05-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"Then ATP could pay for any uphill reaction, as long as the fall is bigger.\" What else is needed?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "An enzyme with a pocket for both. Without a wheel, the ATP's fall happens on its own, into water, and the uphill reaction never sees it. Every coupled step needs its own enzyme."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing else."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Big fall and small lift side by side gives heat and an unlifted bucket. The connection is the whole trick."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "More ATP."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More coins in a glass with no enzyme is more heat. The problem is coupling, not quantity."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Heat, to get it over the hump."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heat raises the rate of the uncoupled ATP breaking too, wasting more. The enzyme lowers the hump for the coupled step only."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two things for every uphill step. A coin, and a wheel shaped for that step. The seedling has a few hundred coins and thousands of wheels."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

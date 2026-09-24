@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-04/blk-l08-08-04-s06.md",
+  "image": {
+    "src": "media/L08-08-04/blk-l08-08-04-s06.webp",
+    "alt": "Four different biome silhouettes each shown running the same basic ecological loops of production, consumption and decomposition, just at different rates."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

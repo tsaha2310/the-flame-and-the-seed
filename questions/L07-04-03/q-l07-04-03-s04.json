@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-04-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads that trees \"feed their seedlings through the wood wide web\". Which part of that is shown, and which is not?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Shown: fungal threads connect trees, and labelled carbon has moved between connected plants in experiments. Not settled: whether the amount matters to a seedling in a real forest, or is more than a fungus shuffling its own stores. The claim outruns the evidence."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "All of it is shown."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Documentaries and one famous experiment overstate what repeated field studies find. The transfer is real in some settings and small."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "None of it; fungi just rot things."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mycorrhizal fungi are partners, not rotters, and the root-fungus trade is beyond doubt."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The seedlings feed the trees."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Where transfer is measured, it tends to run from well-lit to shaded plants. But how much, and whether it helps, is the open question."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate the pot from the forest. The trade at one root is proven. The web between trees is a hypothesis with mixed evidence, and saying so is science."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

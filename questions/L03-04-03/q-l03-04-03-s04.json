@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-04-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads a label: \"Energy is released when the high-energy bonds in the fuel are broken.\" What is wrong with it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Breaking bonds always costs energy. The energy comes out because the new bonds in carbon dioxide and water are worth more than the old bonds in the fuel."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing, that is how fuel works."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A fuel is not a store of energy in its bonds. It is a set of weak-ish bonds that can be swapped for stronger ones, with oxygen's help."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The bonds should be called low-energy, not high-energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The word swap is closer, but the sentence still says breaking releases. Breaking never releases. Making does."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fuel has no bonds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Methane has four C-H bonds, and paying to break them is the first line of the ledger."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Write the ledger. Pay column: every bond broken. Earn column: every bond made. The net is the heat. Nothing is released by breaking."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

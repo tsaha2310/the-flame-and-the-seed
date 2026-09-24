@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-04-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says \"water is a conductor, that is why wet hands are dangerous.\" What does the six-glass test actually show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Pure water is not a conductor. Wet hands are dangerous because sweat and tap water carry dissolved salts, which make them a weak electrolyte."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Water is a good conductor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Distilled water gave nothing at all. The conducting is done by what is dissolved, not by the water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water conducts only when it is cold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Temperature was never a dial in this test. Salt was. Warm salt water conducts as well as cold."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only sea water conducts."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nimbu pani glowed too, and tap water glowed faintly. Anything with the right kind of dissolved stuff conducts a little."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Look at what the six glasses have in common. Every one that glowed had something dissolved in it that came from a salt or an acid. Every one that stayed dark either had nothing dissolved or had sugar or oil."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

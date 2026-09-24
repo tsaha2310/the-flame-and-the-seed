@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-02-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Carbon dioxide is one carbon and two oxygens. Kabir says it is \"one-third carbon by mass, because one atom out of three\". What is the mass share of carbon?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "12 out of 44, about 27 percent. One carbon at 12 plus two oxygens at 16 each makes 44."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "One-third."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Atoms do not weigh the same. Oxygen is heavier than carbon, so two oxygens are more than two-thirds of the mass."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Half."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There are two oxygens and one carbon, and each oxygen is heavier than the carbon."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It cannot be known without a balance."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The relative masses are already known. The arithmetic gives the share without any weighing."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Add up the atoms by their relative masses. Then take the share. The count of atoms and the share of mass are different things."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

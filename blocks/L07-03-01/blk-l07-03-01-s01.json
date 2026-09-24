@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-03-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-03-01/blk-l07-03-01-s01.md",
+  "image": {
+    "src": "media/L07-03-01/blk-l07-03-01-s01.webp",
+    "alt": "A small squid glowing softly from its underside at night, matching moonlight exactly, casting no shadow to fish below."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

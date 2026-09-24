@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-05-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Oxygen has 8 protons. Sulphur, directly below it, has 16. Kabir says sulphur must pull harder, \"because sixteen is more than eight\". Which is right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Oxygen pulls harder. Sulphur's outer electrons sit in a third shell, further out and shielded by more inner electrons, so the extra protons are more than cancelled."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sulphur pulls harder."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Protons matter, but distance matters more. Sulphur's outer shell is a whole shell further from its nucleus."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They pull the same, because they are in the same column."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same family means the same number of outer electrons. Going down the column, the pull drops."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither pulls; only chlorine and fluorine do."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oxygen is the third-strongest puller in the whole table. It is why burning happens."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Down a column the atom gets bigger. The outer electrons are further from the nucleus and behind more shells, so the pull on them is weaker, whatever the proton count."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mod-08-02",
+  "moduleId": "mod-08-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VIII.2 Mendel's peas"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "trait",
+      "pure-line",
+      "hybrid",
+      "dominant",
+      "recessive",
+      "punnett-square",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-08-02-01.json",
+      "title": {
+        "en": "The pea garden"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-02-02.json",
+      "title": {
+        "en": "Pairs of factors"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-02-03.json",
+      "title": {
+        "en": "Two traits at once"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-02-04.json",
+      "title": {
+        "en": "Paint"
+      }
+    }
+  ]
+}

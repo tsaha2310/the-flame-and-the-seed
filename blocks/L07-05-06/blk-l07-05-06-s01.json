@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-05-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-05-06/blk-l07-05-06-s01.md",
+  "image": {
+    "src": "media/L07-05-06/blk-l07-05-06-s01.webp",
+    "alt": "A boy unscrewing a geyser's thermostat cover and holding up a small bent bimetal strip that senses heat and flips a switch."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

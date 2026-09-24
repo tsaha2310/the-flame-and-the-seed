@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-05-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Ajji's mango pickle sits in salt and oil for years without rotting. Kabir says \"the oil keeps the germs out\". What does osmosis add?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Any microbe landing in the salt is a tiny bag of watery insides in a very salty bath. Water leaves it by osmosis and it shrivels. Salt is a wall of thirst."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The salt poisons them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt is not a poison in the ordinary sense; it is in your blood. It kills by pulling water out through the microbe's own sieve."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The mangoes have no water for germs."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The mango does lose water into the salt, by osmosis, which is the point. The germs lose theirs too."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Pickles are too sour."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sourness helps in some pickles, and that is III.7. Salt alone preserves, and it does it by osmosis."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A microbe is a sieve around watery insides. Put it in something saltier than itself and water leaves. Salt, sugar and honey all preserve food this way."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

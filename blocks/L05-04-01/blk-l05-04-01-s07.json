@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-04-01-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-04-01/blk-l05-04-01-s07.md",
+  "image": {
+    "src": "media/L05-04-01/blk-l05-04-01-s07.webp",
+    "alt": "A crowd of molecules stuck behind small humps on many separate tracks, each needing something to lower its own hump."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

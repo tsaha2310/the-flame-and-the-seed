@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-09-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir wires the zinc strip and the copper strip together with a bare wire, no LED, and the LED is not lit because there is no LED. He says \"no electricity is flowing\". What is happening?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Electrons are flowing hard through the bare wire, and the zinc is dissolving fast. Without a load the energy of the fall turns into a little heat in the wire and the water."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing flows without an LED."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A bulb shows current; it does not cause it. The bare wire carries more current than the LED did, since nothing slows it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The zinc stops dissolving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The zinc dissolves faster. The reaction runs as long as electrons have any path at all."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The copper dissolves instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The direction is set by the ladder. Zinc gives, copper receives, wire or no wire."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Current needs a path and a push. The bare wire is a path; the difference between the metals is the push. The LED was only a way to make the flow do something useful."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

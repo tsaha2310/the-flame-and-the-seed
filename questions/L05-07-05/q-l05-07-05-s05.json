@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-07-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A chemical was once sold as a slimming pill. It punches holes in the dam. Kabir says \"so it would give you more energy\". What did it do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It made the fall into heat instead of coins. Users burned fat and sugar fast, and ran hot; some died of fever. More burning, less ATP, and a body at the temperature of a short circuit."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "More energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More burning, yes. Less usable energy, because none of the fall reaches the turbine. Heat is not ATP."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No effect, because the dam refills."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The chain refills it, and it leaks again, round and round, as heat. That is exactly the danger."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It stopped burning entirely."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Holes speed burning. Only blocking the last puller or jamming the turbine stops it."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask where the fall goes. Through the turbine: coins. Through holes: heat. The pill chose heat, and the body cannot survive much of that."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

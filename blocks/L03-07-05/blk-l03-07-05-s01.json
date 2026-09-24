@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-07-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-07-05/blk-l03-07-05-s01.md",
+  "image": {
+    "src": "media/L03-07-05/blk-l03-07-05-s01.webp",
+    "alt": "A grandmother reading a thick medical book, a narrow safe band drawn on a dial, and a boy holding two empty glasses of lemon water."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

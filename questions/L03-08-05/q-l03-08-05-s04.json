@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-08-05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A hot cup of tea on the table cools to room temperature. It never warms back up on its own. Kabir says \"because heat goes from hot to cold, that is a law\". What is the reason under the law?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Heat spread through the room has vastly more ways than heat gathered in the cup. The spread-out arrangement is overwhelmingly more likely, so heat always ends up spread."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because cold pulls heat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing pulls. The molecules bump randomly, and random bumping ends up in the arrangement with the most ways, which is spread out."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because the tea is trying to match the room."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tea does not try. The count of ways does it, one collision at a time."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because the cup leaks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sealed steel flask cools too, just slower. The question is why never the other way, and the answer is counting."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "\"Heat goes from hot to cold\" is the rule you observe. Entropy is the reason: the spread-out arrangement has more ways, and more ways means more likely, by a margin with more digits than you could ever write."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

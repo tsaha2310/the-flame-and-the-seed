@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-02-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-02-03/blk-l04-02-03-s06.md",
+  "simulation": {
+    "src": "simulations/L04-02-03/BurnOMeterScene-preview-co2.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

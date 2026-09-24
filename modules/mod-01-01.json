@@ -1,0 +1,49 @@
+{
+  "id": "mod-01-01",
+  "moduleId": "mod-01-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "I.1 What fire leaves behind"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "mass",
+      "oxygen",
+      "conservation-of-mass",
+      "element",
+      "compound",
+      "mixture",
+      "atom",
+      "definite-proportions",
+      "hydrogen"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01-01-01.json",
+      "title": {
+        "en": "Ajji's balance"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-01-02.json",
+      "title": {
+        "en": "Phlogiston or oxygen?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-01-03.json",
+      "title": {
+        "en": "Sorting the shelf"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-01-04.json",
+      "title": {
+        "en": "Grains and recipes"
+      }
+    }
+  ]
+}

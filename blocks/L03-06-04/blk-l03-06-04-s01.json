@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-06-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-06-04/blk-l03-06-04-s01.md",
+  "image": {
+    "src": "media/L03-06-04/blk-l03-06-04-s01.webp",
+    "alt": "Two rooms drawn on a blackboard with a door between them, twenty little figures starting on the left and ten and ten after an hour, still walking."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

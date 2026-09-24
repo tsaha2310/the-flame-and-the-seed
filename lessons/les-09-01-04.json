@@ -1,0 +1,46 @@
+{
+  "id": "les-09-01-04",
+  "lessonId": "les-09-01-04",
+  "type": "lesson",
+  "title": {
+    "en": "The final duel"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L09-01-04/blk-l09-01-04-s01.json"
+    },
+    {
+      "blockRef": "questions/L09-01-04/q-l09-01-04-s02-say.json"
+    },
+    {
+      "blockRef": "questions/L09-01-04/q-l09-01-04-s02-attack-01.json"
+    },
+    {
+      "blockRef": "questions/L09-01-04/q-l09-01-04-s02-attack-02.json"
+    },
+    {
+      "blockRef": "questions/L09-01-04/q-l09-01-04-s02-attack-03.json"
+    },
+    {
+      "blockRef": "questions/L09-01-04/q-l09-01-04-s02-attack-04.json"
+    },
+    {
+      "blockRef": "blocks/L09-01-04/blk-l09-01-04-s02-line.json"
+    },
+    {
+      "blockRef": "questions/L09-01-04/q-l09-01-04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L09-01-04/blk-l09-01-04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L09-01-04/blk-l09-01-04-s05.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "q-l09-01-04-s02-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the final line. Why is a seed alive when a flame is not?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "A flame and a seed are made of the same few atoms, held by the same grips, and run the same reaction: fuel and oxygen, downhill. The flame runs it as a short circuit: one drop, all heat, no wall, nothing kept. The seed runs it inside a wall, in about thirty small steps, and catches about a third of the fall as coins. It spends the coins keeping its inside different from the outside, building its own machines from recipes on a tape, reading the tape with a machine made of tape, sensing and signalling, and copying the tape with small errors, so that its kind changes over generations. The seed is a loop: the tape builds the machines, the machines catch energy, the energy keeps the wall and copies the tape. The boiled seed has every part and the loop is broken: its machines are unfolded and it sits at the valley floor. The flame never had a loop. The seed is alive because the loop is closed. That is not a line in the Ledger. It is all of them, joined."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

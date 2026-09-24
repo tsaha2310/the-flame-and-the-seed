@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-07-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-07-02/blk-l03-07-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "pH 3."
+    },
+    {
+      "id": "b",
+      "text": "pH 20, because ten times more water.",
+      "feedback": "Kabir's card: \"Ten times more dilute, ten times the number.\""
+    },
+    {
+      "id": "c",
+      "text": "Still pH 2, because it is still the same acid.",
+      "feedback": "Kabir's card: \"Acid is acid.\""
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-07-02/blk-l03-07-02-s02.webp",
+    "alt": "One beaker of acid being poured into nine beakers' worth of pure water, with a pH pen waiting."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

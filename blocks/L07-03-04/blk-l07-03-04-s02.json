@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-03-04-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-03-04/blk-l07-03-04-s02.md",
+  "simulation": {
+    "src": "simulations/L07-03-04/GrowTheColonyScene-cheat.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

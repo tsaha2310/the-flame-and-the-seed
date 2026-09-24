@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-01/blk-l05-01-01-s01.md",
+  "image": {
+    "src": "media/L05-01-01/blk-l05-01-01-s01.webp",
+    "alt": "A fresh moong seed in a bowl beside a wall drawing of a soft skin made of two-tailed fat molecules with charged heads."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

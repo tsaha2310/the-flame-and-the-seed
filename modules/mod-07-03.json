@@ -1,0 +1,45 @@
+{
+  "id": "mod-07-03",
+  "moduleId": "mod-07-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VII.3 Quorum"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "quorum-sensing",
+      "signal-molecule",
+      "threshold",
+      "biofilm",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-07-03-01.json",
+      "title": {
+        "en": "The glowing squid"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-03-02.json",
+      "title": {
+        "en": "The threshold"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-03-03.json",
+      "title": {
+        "en": "Plaque"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07-03-04.json",
+      "title": {
+        "en": "Cheaters and jammers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-01-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says an egg is a single cell and it is huge, \"so cells can be big\". What does the yolk show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A yolk is a store, not working cell material. It barely burns anything. The living part of an egg is a thin disc on top of the yolk, small enough for diffusion to feed it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cells can be big if they are round."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Round is the worst shape for surface per volume. The egg gets away with it by being mostly inert store."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Eggs are not cells."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A hen's egg begins as one cell. The exception is real; it works because almost none of the cell's volume is doing chemistry."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Eggs have holes in the shell."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air does get through the shell, to the thin living disc. That disc is the size rule obeyed, not broken."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "When a rule seems broken, ask what is really burning. In an egg, almost nothing, until the living part has grown into thousands of small cells."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

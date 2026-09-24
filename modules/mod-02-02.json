@@ -1,0 +1,49 @@
+{
+  "id": "mod-02-02",
+  "moduleId": "mod-02-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "II.2 Shapes and clouds"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "orbital-cloud",
+      "electron-pair",
+      "linear",
+      "trigonal",
+      "tetrahedral",
+      "lone-pair",
+      "bent",
+      "pyramidal",
+      "bond-angle"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-02-02-01.json",
+      "title": {
+        "en": "Four balloons at the neck"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02-02-02.json",
+      "title": {
+        "en": "Naming the shapes"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02-02-03.json",
+      "title": {
+        "en": "Lone pairs bend things"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02-02-04.json",
+      "title": {
+        "en": "Carbon's four directions"
+      }
+    }
+  ]
+}

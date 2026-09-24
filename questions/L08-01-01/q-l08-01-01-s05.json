@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-01-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks what the bands would show after three divisions. What does semi-conservative predict?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Two bands again: one halfway and one light, but now the light band is three times the size of the halfway one. The two original heavy strands are still there, each in a half-heavy helix, among six all-light helices."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Three bands."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There are only ever two kinds of helix after the first division: half-heavy, and light. The bands stay two; their sizes change."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "One light band; the heavy is gone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The original strands are never destroyed. They are still there, each paired with a light partner, forever."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "One halfway band."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Only the two helices holding original strands are halfway. Every other helix is light."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count strands. Two original heavy strands exist, always. Every division doubles the helices, and all new strands are light."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

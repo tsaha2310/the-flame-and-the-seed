@@ -1,0 +1,1 @@
+**Ledger line, written:** Flame - fuel + oxygen gives carbon dioxide + water; short circuit. Live seed - fuel + oxygen gives carbon dioxide + water; has a load, unseen. Boiled seed - same fuel, same oxygen, no reaction at all. Verdict: the mystery is at its worst. Same equation, same energy.

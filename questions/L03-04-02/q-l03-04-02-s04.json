@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Steam at 100 degrees scalds far worse than water at 100 degrees. Kabir says \"steam is hotter\". What is the better explanation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Steam is at the same temperature but holds far more energy in its grips bin. When it condenses on skin, all that grip energy is released as heat."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Steam is hotter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Steam from a boiling kettle is at 100 degrees, the same as the water. Its extra danger is not temperature."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Steam moves faster, so it hits harder."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Jiggle speed is the same at the same temperature. What steam carries extra is the energy that was spent pulling the molecules apart."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Steam is dry, and dry burns worse."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Steam is water. It burns worse because condensing hands back everything boiling put in."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Boiling a gram of water takes about five times the heat needed to warm it from zero to 100. Steam returns all of it on your hand."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

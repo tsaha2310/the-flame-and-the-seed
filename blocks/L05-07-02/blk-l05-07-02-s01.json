@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-02/blk-l05-07-02-s01.md",
+  "image": {
+    "src": "media/L05-07-02/blk-l05-07-02-s01.webp",
+    "alt": "A single carbon atom drawn glowing differently from its neighbours, placed into a peanut's fat, ready to be tracked through the body."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

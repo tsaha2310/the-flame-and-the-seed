@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-01-02/blk-l03-01-02-s01.md",
+  "image": {
+    "src": "media/L03-01-02/blk-l03-01-02-s01.webp",
+    "alt": "A blackboard with two paired white spheres and two paired red spheres on one side, and a single bent water molecule on the other, one red sphere missing."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

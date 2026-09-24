@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-03-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-03-03/blk-l04-03-03-s07.md",
+  "image": {
+    "src": "media/L04-03-03/blk-l04-03-03-s07.webp",
+    "alt": "A bar of soap held up, with a molecule showing a charged head and a long oily tail, one end reaching to water and the other to a drop of oil."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

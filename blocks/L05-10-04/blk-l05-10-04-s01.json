@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-04/blk-l05-10-04-s01.md",
+  "image": {
+    "src": "media/L05-10-04/blk-l05-10-04-s01.webp",
+    "alt": "A sealed glass jar containing a small plant, a garden snail, and water, with a lamp on a switch above it, kept alive for a month."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

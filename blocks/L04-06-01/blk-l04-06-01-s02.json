@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-06-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04-06-01/blk-l04-06-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Easy. They are the same kind of group, and like joins like.",
+      "feedback": "Kabir's card: \"Same things stick together.\""
+    },
+    {
+      "id": "b",
+      "text": "Hard. Each phosphate is negative, and pushing a negative onto a chain of negatives is uphill. The joined chain sits high on the Hill."
+    },
+    {
+      "id": "c",
+      "text": "Impossible. Three negatives can never be next to each other.",
+      "feedback": "Kabir's card: \"They would fly apart.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L04-06-01/blk-l04-06-01-s02.webp",
+    "alt": "Phosphate groups drawn as an orange sphere with four red oxygens carrying a charge glow, two already chained and a third being pushed on."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

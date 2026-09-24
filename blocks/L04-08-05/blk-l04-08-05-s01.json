@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-05/blk-l04-08-05-s01.md",
+  "image": {
+    "src": "media/L04-08-05/blk-l04-08-05-s01.webp",
+    "alt": "A double helix of constant width like a spiral staircase, a boy holding a measuring tape across it, and the X-shaped film in the background."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

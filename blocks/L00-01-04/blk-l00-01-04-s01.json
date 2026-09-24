@@ -1,0 +1,14 @@
+{
+  "id": "blk-l00-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L00-01-04/blk-l00-01-04-s01.md",
+  "image": {
+    "src": "media/L00-01-04/blk-l00-01-04-s01.webp",
+    "alt": "A brass lens held over a sprouting seed, the view through the glass zooming from root hairs to rope-like hairs to brick-like cells."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

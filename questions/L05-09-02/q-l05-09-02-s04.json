@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-09-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why a leaf \"does not just absorb every colour and be black, since black absorbs the most\". Set that question aside; it returns in three lessons. For now: a photon of green light hits a chlorophyll. What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It passes through or bounces off. Green's energy matches no gap between chlorophyll's rungs, so no electron is lifted. The photon leaves, which is why you see it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is absorbed and lifts an electron a little way."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Electrons take whole rungs or nothing, from I.3. A photon that fits no rung is not absorbed at all."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is absorbed and turned into heat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A leaf does warm in the sun, but green photons mostly leave it. That is the whole reason it looks green."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is absorbed and lifts two electrons half way."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One photon lifts one electron one whole rung. There is no half."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A photon is a packet, from I.3. It is absorbed only if its energy equals a gap. Chlorophyll's gaps are red-sized and blue-sized. Green fits nowhere."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

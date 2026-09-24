@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-01-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-01-04/blk-l08-01-04-s01.md",
+  "image": {
+    "src": "media/L08-01-04/blk-l08-01-04-s01.webp",
+    "alt": "A plant cutting standing in a glass of water, showing fresh white root tips growing after four days with no seed or flower involved."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

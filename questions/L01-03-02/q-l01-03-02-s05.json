@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-03-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "One in eight thousand particles bounced back. Kabir says, \"Then the nucleus must be about one eight-thousandth of the atom.\" What is wrong with his reasoning?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The chance of a hit depends on the nucleus's area, not its width. A nucleus about one ten-thousandth of the atom's width has a far smaller share of its area, roughly one in a hundred million, and the strong push from its charge makes near-misses bounce too."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "You are counting hits on a target, and a target's chance of being hit goes with its area. A dot one ten-thousandth as wide covers a hundred-millionth of the area."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The nucleus is bigger than that, because gold is heavy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The nucleus is heavy and tiny. Almost all the mass of the atom is packed into one ten-thousandth of its width."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The particles were too slow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Faster particles bounce less, not more. The bounce comes from the nucleus's charge, and only a near-direct hit is turned around."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A bounce needs a near-direct hit on something very small. The tiny fraction that bounced tells you the nucleus is tiny. The fact that they bounced at all tells you it is heavy and charged."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

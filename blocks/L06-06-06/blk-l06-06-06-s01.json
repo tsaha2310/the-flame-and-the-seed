@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-06/blk-l06-06-06-s01.md",
+  "image": {
+    "src": "media/L06-06-06/blk-l06-06-06-s01.webp",
+    "alt": "An old handwritten cookbook opened to a dosa recipe page, placed on the table between the three samples: oil, live seed, boiled seed."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-04-04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06-04-04/blk-l06-04-04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The protein cannot fold and the person makes no oxygen carrier at all.",
+      "feedback": "Kabir's card: \"One wrong bead, no protein.\""
+    },
+    {
+      "id": "b",
+      "text": "The protein folds and carries oxygen, but in low oxygen the copies stick together into rods that bend the red cells into sickles."
+    },
+    {
+      "id": "c",
+      "text": "Nothing; one bead in 146 is too few to matter.",
+      "feedback": "Kabir's card: \"One in a hundred and forty-six.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L06-04-04/blk-l06-04-04-s02.webp",
+    "alt": "A single codon on a gene changing from one three-letter code to another, one letter different, about to be translated."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

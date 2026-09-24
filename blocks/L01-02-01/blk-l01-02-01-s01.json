@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-01/blk-l01-02-01-s01.md",
+  "image": {
+    "src": "media/L01-02-01/blk-l01-02-01-s01.webp",
+    "alt": "A boy's cardboard marble run on an indoor staircase, a marble rolling back and forth in a dip between two slopes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-02-02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-02-02/blk-l08-02-02-s06.md",
+  "image": {
+    "src": "media/L08-02-02/blk-l08-02-02-s06.webp",
+    "alt": "A filled Punnett-style square grid showing three cells with a tall outcome and one cell with a short outcome, a clear three-to-one pattern."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

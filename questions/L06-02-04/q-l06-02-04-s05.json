@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-02-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A drug makes one gene's copies last ten times longer. The gene's copying rate does not change. Kabir says \"so the cell makes the same amount of protein, just from older copies\". What actually changes?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ten times more copies are alive at any moment, because they pile up before fading, so about ten times more protein is made. Lifetime and copying rate multiply."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No change."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Same rate in, one-tenth the rate out. The pile grows until it is ten times bigger."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Less protein, because old copies are worn."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A copy reads the same until it is cut. There is no wearing, only ending."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The gene is copied less to make up for it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some genes have feedback like V.4's, but the question says the rate is unchanged. Ten times the copies, ten times the protein."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Copies alive equals rate made times average life. Change either and the protein level follows."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-10-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-10-05/blk-l05-10-05-s01.md",
+  "image": {
+    "src": "media/L05-10-05/blk-l05-10-05-s01.webp",
+    "alt": "Three sabotage jars: one kept dark, one with carbon dioxide removed, and a whole glowing Earth with a switch about to be flipped off at noon."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

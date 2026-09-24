@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-02/blk-l07-02-02-s01.md",
+  "image": {
+    "src": "media/L07-02-02/blk-l07-02-02-s01.webp",
+    "alt": "A stadium crowd doing a wave, each person only ever standing once, the wave moving around the whole ground."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-04/blk-l01-03-04-s01.md",
+  "image": {
+    "src": "media/L01-03-04/blk-l01-03-04-s01.webp",
+    "alt": "A boy holding a torch that shines red, green and blue beams in turn, the blue beam drawn strongest."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

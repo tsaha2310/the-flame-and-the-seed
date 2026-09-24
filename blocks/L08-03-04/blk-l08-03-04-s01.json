@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-03-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-03-04/blk-l08-03-04-s01.md",
+  "image": {
+    "src": "media/L08-03-04/blk-l08-03-04-s01.webp",
+    "alt": "Two versions of the odd chromosome pair, one with two long matched chromosomes and one with a long and a short barely-pairing chromosome."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

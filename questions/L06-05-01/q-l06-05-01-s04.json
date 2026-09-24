@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-05-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A mutation removes the tag from the copyist enzyme. The enzyme is otherwise perfect. Kabir says \"so it copies genes a bit slower\". What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It never enters the nucleus. The pores stop untagged large proteins, so the copyist is made on the workshop floor and stays there, and no gene is ever copied. The cell dies without new messages."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It copies slower."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The tag is the ticket in. No ticket, no entry, no copying at all."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It copies genes outside the nucleus instead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The DNA is inside and never leaves. A copyist outside has nothing to copy."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The pores let it in eventually."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pore's gate is a choosy channel, from V.2. A large untagged protein does not get through by waiting."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A pore is a shaped gate. Large cargo needs a tag the gate's carriers fit. No tag, no crossing."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

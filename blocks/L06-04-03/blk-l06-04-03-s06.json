@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-04-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-04-03/blk-l06-04-03-s06.md",
+  "image": {
+    "src": "media/L06-04-03/blk-l06-04-03-s06.webp",
+    "alt": "Four labelled-by-icon outcomes of a single letter swap: no change, one bead swapped, an early stop, and a scrambled reading frame."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

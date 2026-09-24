@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-04-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-04-02/blk-l06-04-02-s01.md",
+  "image": {
+    "src": "media/L06-04-02/blk-l06-04-02-s01.webp",
+    "alt": "A two-lobed ribosome machine clamped onto an RNA ribbon, walking along it three letters at a time with three slots occupied by adaptor molecules."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-09-04-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-09-04/blk-l03-09-04-s03.md",
+  "simulation": {
+    "src": "simulations/L03-09-04/InverterManagerScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

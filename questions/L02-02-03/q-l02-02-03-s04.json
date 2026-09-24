@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-02-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Hydrogen sulphide is sulphur with two hydrogens. Sulphur, like oxygen, has six outer electrons. What shape is it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bent. Sulphur has two shared pairs and two lone pairs, four groups, and you see two corners."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Linear."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The two lone pairs on the sulphur push the hydrogens down into a bend, exactly as in water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Trigonal."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Shape is counted at the central atom. Sulphur has four groups around it, two of them lone pairs."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Tetrahedral."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The four groups are arranged tetrahedrally, but the shape you name is the shape the atoms make. Two visible corners out of four is called bent."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Same column as oxygen, same count of outer electrons, same groups, same bent shape. The table you built in I.5 predicts shapes as well as families."
+  },
+  "hints": [],
+  "tags": [
+    "mod-02-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

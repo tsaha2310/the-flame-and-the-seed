@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-05-s03-line",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-05/blk-l02-04-05-s03-line.md",
+  "image": {
+    "src": "media/L02-04-05/blk-l02-04-05-s03-line.webp",
+    "alt": "A three-column notebook page where the flame column shows two pull pictograms and both seed columns show the same four, with two mangoes on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l00-01-04-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put these in order from biggest to smallest."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "the verandah"
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kabir"
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "a moong seed"
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "a root hair"
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "a microbe from the spoiled broth"
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-00-01"
+  ],
+  "image": {
+    "src": "media/L00-01-04/q-l00-01-04-s04.webp",
+    "alt": "Five things of wildly different sizes lined up for comparison: a verandah, a boy, a moong seed, a root hair, and a microbe, waiting to be ranked biggest to smallest."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

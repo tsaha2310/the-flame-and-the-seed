@@ -1,0 +1,52 @@
+{
+  "id": "q-l07-05-06-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"You keep leaning on 'copies itself' and 'made its own'. Fine. Show me the copying. You have not shown me how a cell copies two metres of tape without a mistake, or what happens when it makes one. Until you do, 'copies itself' is a promise.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"A thermostat with a robot plumber that replaces it would be alive, then.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A robot plumber is made by a factory too. The regress ends at the cell, which makes its own parts from its own recipe, with no factory behind it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The flame responds to a draught, so it senses.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It bends because air pushes it, like a curtain. No receptor, no relay, no line held. That card was played in the Prologue."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "image": {
+    "src": "media/L07-05-06/q-l07-05-06-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed sensing ledger, a geyser thermostat strip on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

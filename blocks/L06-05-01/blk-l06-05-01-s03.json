@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-05-01-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-05-01/blk-l06-05-01-s03.md",
+  "simulation": {
+    "src": "simulations/L06-05-01/NucleusTourScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

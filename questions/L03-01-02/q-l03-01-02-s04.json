@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir balances hydrogen and oxygen by writing H2 + O2 gives H2O2. The atoms count. Why is Ajji shaking her head?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "H2O2 is a different molecule, hydrogen peroxide, not water. You may only change the numbers in front, never the little numbers inside, because those say what the molecule is."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because the pans are not level."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The atom count is fine: two and two each side. The problem is that the product is not water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because you need a 2 in front of everything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Numbers in front go wherever the count needs them. The rule is about which numbers you may touch."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because oxygen cannot make peroxide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Peroxide is real; it is in the brown bottle in the medicine box. It is simply not what the equation was for."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The inside numbers are the molecule's identity. Changing them changes the substance. Balancing means finding how many of each real molecule, not inventing new ones."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

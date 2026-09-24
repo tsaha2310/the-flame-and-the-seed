@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks how the ribosome \"knows which bead comes next\". What does it actually check?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only that the tRNA's anticodon pairs with the codon in the right-hand slot. It never looks at the bead. Whatever the charging enzyme put on the hook is what goes on the chain."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It reads the codon and picks the bead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ribosome has no table. The table is in the charging enzymes. The ribosome checks three letters against three."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It checks the bead's shape."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bead is far from the checking site. The ribosome would join a wrong bead on a correctly paired tRNA without noticing."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It does not check anything; it joins whatever arrives."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tRNA whose anticodon does not pair is rejected before joining. The check is on the pairing, and it is strict."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two checks in the whole system. Charging enzymes check bead against tRNA. The ribosome checks tRNA against codon. Neither checks bead against codon, which is the sabotage lesson."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

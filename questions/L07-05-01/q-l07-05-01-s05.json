@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-05-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says a colony of bacteria in a biofilm, from VII.3, \"is a body, then: they stick and they signal\". What is missing?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Different switch settings that last. Biofilm cells are mostly the same kind doing the same thing, and any of them can leave and live alone. A body's cells have taken on jobs they cannot leave, and most cannot live alone at all."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; a biofilm is a body."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is close, and some biofilms have a little division of labour. But its cells are not committed. A skin cell cannot become a nerve cell or go and live in a pond."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Size; a biofilm is too small."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Some biofilms are visible and some animals are smaller than a biofilm. Size is not the test."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A brain; bodies think."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A moong plant is a body and has no brain. Stick, signal, switch is enough."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The third ability is the one that separates a body from a crowd. Cells with committed, different jobs, held together by signals, cannot be a heap again."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

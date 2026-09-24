@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-01-02-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-01-02/blk-l03-01-02-s03.md",
+  "simulation": {
+    "src": "simulations/L03-01-02/AtomAccountantScene-worked.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

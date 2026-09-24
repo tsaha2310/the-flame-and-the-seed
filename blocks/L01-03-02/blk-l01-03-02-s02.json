@@ -1,0 +1,32 @@
+{
+  "id": "blk-l01-03-02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01-03-02/blk-l01-03-02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Almost all pass straight through with tiny bends, and a few in every thousand bounce back."
+    },
+    {
+      "id": "b",
+      "text": "All of them pass straight through, bending a little.",
+      "feedback": "Kabir's card: \"Soft pudding cannot stop a fast bullet.\""
+    },
+    {
+      "id": "c",
+      "text": "Most bounce back, because gold is hard.",
+      "feedback": "Kabir's card: \"Gold is metal. Metal is hard.\""
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L01-03-02/blk-l01-03-02-s02.webp",
+    "alt": "A plum-pudding model atom, a soft positive ball with negative dots, and a beam of fast positive particles aimed at a thin gold sheet."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

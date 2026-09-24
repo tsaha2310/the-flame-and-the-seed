@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-04-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-04-02/blk-l08-04-02-s01.md",
+  "image": {
+    "src": "media/L08-04-02/blk-l08-04-02-s01.webp",
+    "alt": "Six gene squares filled in with actual protein pictures instead of letters, including one recognisable as the sickle cell gene from earlier."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

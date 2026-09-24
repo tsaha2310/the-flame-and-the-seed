@@ -1,0 +1,37 @@
+{
+  "id": "les-08-02-03",
+  "lessonId": "les-08-02-03",
+  "type": "lesson",
+  "title": {
+    "en": "Two traits at once"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08-02-03/blk-l08-02-03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-03/blk-l08-02-03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-03/blk-l08-02-03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-03/blk-l08-02-03-s04.json"
+    },
+    {
+      "blockRef": "questions/L08-02-03/q-l08-02-03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-03/blk-l08-02-03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L08-02-03/blk-l08-02-03-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

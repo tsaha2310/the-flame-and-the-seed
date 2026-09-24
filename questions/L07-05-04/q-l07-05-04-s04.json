@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-05-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir cuts a stem of the moong plant and puts it in water, and it grows roots. He asks why \"a cut-off finger does not grow a person\". What is the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cutting has meristems and cells whose pages can be reopened toward root; a finger's cells are committed, with their unneeded pages locked tight, and it has only a few stem cells for skin and bone. A plant's cells keep more options open."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plants are simpler."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A plant's cells are not simpler. They keep their chromatin more reopenable, from VI.6, which is a difference in switches, not complexity."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water makes plants grow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A finger in water grows nothing. The cutting grows because its cells can become root."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A finger has no DNA for a whole person."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every finger cell has the whole tape, from Gurdon. The pages are locked, not missing."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Regrowth depends on how firmly a cell's switches are set. Plant cells reset more easily than animal cells, and animals keep few reserves."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

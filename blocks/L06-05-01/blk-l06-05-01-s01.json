@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-05-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-05-01/blk-l06-05-01-s01.md",
+  "image": {
+    "src": "media/L06-05-01/blk-l06-05-01-s01.webp",
+    "alt": "A nucleus wall studded with pore gates, an RNA ribbon squeezing through one pore while a copyist enzyme enters through another."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

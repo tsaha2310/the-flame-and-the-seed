@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-05/blk-l05-07-05-s01.md",
+  "image": {
+    "src": "media/L05-07-05/blk-l05-07-05-s01.webp",
+    "alt": "Three sabotage points marked on the bean-shaped power structure: the final oxygen step, the membrane gap, and the turbine itself, a boy with a spanner."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

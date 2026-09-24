@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-08-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A leaf makes a working message, uses it for an hour, and it falls apart. Kabir says \"that is wasteful; it should make messages out of DNA so they last\". Why is the short life useful?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A message that falls apart on its own can be switched off just by not making more. If it lasted for years, the leaf could never stop making that protein. The short life is the off switch."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is wasteful."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A message that lasted forever would keep being read forever. Control needs things that stop."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "RNA is cheaper."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cost is not the point. A leaf can afford the oxygen. It cannot afford a message it cannot stop."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The leaf does not know how to make DNA messages."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The leaf makes both DNA and RNA all the time. It uses each for what its lifetime suits."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two jobs, two lifetimes. The archive must last; the working message must expire. The one oxygen sets which is which."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-01/blk-l07-02-01-s01.md",
+  "image": {
+    "src": "media/L07-02-01/blk-l07-02-01-s01.webp",
+    "alt": "A stopwatch showing a fraction of a second for a hand's reflex versus twenty seconds for a hormone message, an ion battery cable being built between."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

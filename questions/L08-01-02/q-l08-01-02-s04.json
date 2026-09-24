@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the polymerase \"does not go slower and make no mistakes at all\". What does the sim show as you slow down?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Slower helps, up to a point, and then the error rate stops falling: the wrong nucleotide sometimes fits well enough to pass, however long you look. Meanwhile a cell that copies too slowly is out-divided. The real rate is a compromise. And, from tomorrow's what-if, zero would be a disaster of its own."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Slower means no errors."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A wrong base can pair well enough to fool any check for an instant. Some slips get through at any speed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Faster is more accurate."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Faster is less accurate; the sim shows it. Speed is traded against care."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Errors are made on purpose."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing is on purpose. The rate is where checking's cost and benefit balance, and it happens to leave a few slips."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Checking costs time and coins. Past a point it buys nothing. The surviving rate is what selection has settled on, and it is not zero."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-08-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-08-03/blk-l04-08-03-s01.md",
+  "image": {
+    "src": "media/L04-08-03/blk-l04-08-03-s01.webp",
+    "alt": "DNA from yeast, a cow, a person and bacteria broken into four kinds of nucleotide and weighed in four tiny heaps."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

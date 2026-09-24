@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Phlogiston explained why a candle in a jar goes out: the air \"fills up\" with phlogiston. What is the oxygen explanation for the same fact?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The candle uses up the oxygen in the jar, and with no oxygen left it cannot burn."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The jar gets too hot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A candle burns happily in a hot kitchen. The jar run shows the flame dying while the jar is still barely warm."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The smoke smothers the flame."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A clean-burning candle makes almost no smoke and still goes out in a jar."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The candle runs out of wax."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The candle in the jar goes out with plenty of wax left. Relight it in open air and it burns on."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Both stories fit \"the flame goes out\". Only one fits \"the metal gets heavier\". Phlogiston could not survive the balance."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

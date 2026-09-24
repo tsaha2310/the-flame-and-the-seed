@@ -1,0 +1,86 @@
+{
+  "id": "q-l02-04-05-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each fact by which model explains it."
+  },
+  "categories": [
+    {
+      "id": "the-hill",
+      "label": {
+        "en": "The Hill"
+      }
+    },
+    {
+      "id": "the-tug-of-war",
+      "label": {
+        "en": "The Tug-of-War"
+      }
+    },
+    {
+      "id": "the-crowd",
+      "label": {
+        "en": "The Crowd"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "Sodium's electron falls into chlorine's shell and stays there"
+      },
+      "correctCategoryId": "the-hill"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "Oxygen pulls harder on a shared pair than hydrogen does, so water is polar"
+      },
+      "correctCategoryId": "the-tug-of-war"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "Ghee melts on a hot roti and sets in a draught"
+      },
+      "correctCategoryId": "the-crowd"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "A marble cannot climb higher than it fell"
+      },
+      "correctCategoryId": "the-hill"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "The matka is cool by morning"
+      },
+      "correctCategoryId": "the-crowd"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "Carbon and hydrogen share almost fairly, so oil is not polar"
+      },
+      "correctCategoryId": "the-tug-of-war"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "image": {
+    "src": "media/L02-04-05/q-l02-04-05-s04.webp",
+    "alt": "A scattered set of everyday facts waiting to be matched to the Hill, the Tug-of-War, or the Crowd: a salt cube, a bent water molecule, melting ghee, a marble, a cool matka, an oil chain."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

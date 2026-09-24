@@ -1,0 +1,50 @@
+{
+  "id": "mod-01-02",
+  "moduleId": "mod-01-02",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "I.2 The Hill and the Spark"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "force",
+      "kinetic-energy",
+      "potential-energy",
+      "work",
+      "conservation-of-energy",
+      "the-hill",
+      "charge",
+      "attract",
+      "repel",
+      "electrical-potential-energy"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01-02-01.json",
+      "title": {
+        "en": "The marble run on the stairs"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-02-02.json",
+      "title": {
+        "en": "Nothing is lost"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-02-03.json",
+      "title": {
+        "en": "The spark"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-01-02-04.json",
+      "title": {
+        "en": "Charges on the Hill"
+      }
+    }
+  ]
+}

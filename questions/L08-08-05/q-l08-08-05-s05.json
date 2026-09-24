@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-08-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If carbon dioxide is plant food, more of it is good for the planet. Plants will just grow more and use it up.\" What does the Earth run show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Plants do grow a little faster, and they take back only a fraction of the extra; leaves are limited by water, nitrogen and RuBisCO's slowness, from V.10. Meanwhile the extra warms the air and sours the sea, which hurts far more than the extra growth helps."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "More is good."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plant food, and also a blanket and an acid. The Earth run's forests do not keep pace with the rise."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Plants use it up within a year."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The measured carbon dioxide has risen every year for two centuries. The leaves are not keeping up."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It does nothing to the sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Gases dissolve in water, from III.5, and carbon dioxide makes carbonic acid, from III.7. The sea has measurably soured."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow all three roles of the molecule: food, blanket, acid. The first is small and capped; the other two are not."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

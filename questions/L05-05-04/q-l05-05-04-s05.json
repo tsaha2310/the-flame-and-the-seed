@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-05-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"So ATP splitting is the power stroke, like petrol exploding in an engine.\" What does the step-through show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The split happens while the head is off the track, and it cocks the head without pulling anything. The pull comes later, when phosphate leaves and the cocked head relaxes against the track. The energy is stored as strain in the fold between those two moments."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "He is right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "At the moment of splitting, the head is not touching the track. Nothing can be pulled."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The pull happens when ATP binds."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "ATP binding makes the head let go. That is the opposite of a pull."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "There is no single pull; the head vibrates."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Crowd's jiggle is there, but the step is a one-way swing timed by phosphate release. The sim shows a clean stroke."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Separate the steps. Bind lets go. Split cocks. Phosphate release pulls. ADP release holds. The coin's fall is spread across the cycle, and the pull is where the stored strain comes out."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

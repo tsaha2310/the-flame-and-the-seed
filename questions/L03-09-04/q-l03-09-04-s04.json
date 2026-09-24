@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-09-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ship's steel hull is fitted with blocks of zinc bolted to it below the waterline. The zinc wastes away and the steel stays sound. Kabir says \"the zinc is paint\". What is it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A deliberate battery. Zinc is higher on the ladder than iron, so zinc gives electrons instead of the steel, and the zinc corrodes in the steel's place."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Paint."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The zinc is in blocks, not a coat. It works even where it does not touch most of the hull, because the sea water carries the ions."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A weight to keep the ship steady."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A few kilograms of zinc do nothing for a ship's balance. They are there to be eaten."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A magnet that pulls rust off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Zinc is not magnetic, and rust is not pulled. The zinc is a sacrificial giver, replaced every few years."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Corrosion is a cell. Give it a more generous giver than the iron, and the iron is spared. The zinc is called a sacrificial anode."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

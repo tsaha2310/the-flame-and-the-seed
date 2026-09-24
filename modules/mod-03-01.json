@@ -1,0 +1,49 @@
+{
+  "id": "mod-03-01",
+  "moduleId": "mod-03-01",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "III.1 Atoms rearrange"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "reactant",
+      "product",
+      "chemical-reaction",
+      "chemical-equation",
+      "balanced",
+      "combination",
+      "decomposition",
+      "displacement",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-03-01-01.json",
+      "title": {
+        "en": "A reaction is a re-gripping"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-01-02.json",
+      "title": {
+        "en": "The atom accountant"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-01-03.json",
+      "title": {
+        "en": "Four kinds of rearranging"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03-01-04.json",
+      "title": {
+        "en": "Which equation is lying?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "q-l01-01-03-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each item into the right bin."
+  },
+  "categories": [
+    {
+      "id": "element",
+      "label": {
+        "en": "Element"
+      }
+    },
+    {
+      "id": "compound",
+      "label": {
+        "en": "Compound"
+      }
+    },
+    {
+      "id": "mixture",
+      "label": {
+        "en": "Mixture"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "iron nail"
+      },
+      "correctCategoryId": "element"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "water"
+      },
+      "correctCategoryId": "compound"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "salt"
+      },
+      "correctCategoryId": "compound"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "dal and rice"
+      },
+      "correctCategoryId": "mixture"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "air"
+      },
+      "correctCategoryId": "mixture"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "burned steel wool"
+      },
+      "correctCategoryId": "compound"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "the copper wire from the torch"
+      },
+      "correctCategoryId": "element"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "nimbu pani"
+      },
+      "correctCategoryId": "mixture"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-01-01"
+  ],
+  "image": {
+    "src": "media/L01-01-03/q-l01-01-03-s04.webp",
+    "alt": "An unsorted jumble of kitchen items on a tray: an iron nail, a glass of water, a salt jar, a bowl of dal and rice, a balloon of air, burned steel wool, a copper wire, and a glass of nimbu pani."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

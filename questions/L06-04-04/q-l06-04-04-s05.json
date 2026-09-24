@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-04-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the sickling \"only happens when oxygen is low, if the wrong bead is always there\". What does oxygen change?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The protein's shape. Haemoglobin bends slightly when it lets go of oxygen, and only in that shape is the oily patch exposed enough to stick to a neighbour. With oxygen bound, the patch is tucked."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Oxygen washes the patch off."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The bead is part of the chain and never leaves. What changes is whether it is exposed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Low oxygen makes more protein."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The amount of protein is the same. The shape is what shifts."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Oxygen is polar and hides oily things."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Oxygen is not polar and does not coat anything. Its binding changes the fold."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Lock and Shape: a fit bends the piece. Oxygen bound or unbound is two shapes. The patch matters in one of them."
+  },
+  "hints": [],
+  "tags": [
+    "mod-06-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

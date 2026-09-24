@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-01-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A bacterium is a hundred times smaller than a moong cell and has no inner rooms. Kabir says \"so it must be starving or badly organised\". Why does it get by?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "At a hundredth the size, it has a hundred times more skin per bit of inside. Diffusion feeds every part in an instant, and it can run its chemistry in one room because nothing is far from anything."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is starving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Small cells are the best fed of all. Rooms are needed when a cell is big enough for its chemistries to need separating."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It has a special wall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Its wall is the same bilayer, with a fence outside. Size does the work."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bacteria are not really alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Leeuwenhoek watched them swim and divide. Simple is not dead."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Turn the surface rule around. Smaller means more skin per inside, so a tiny cell is fed everywhere at once and needs no rooms."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

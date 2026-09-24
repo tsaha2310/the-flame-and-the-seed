@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-02-03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir crosses a double hybrid, TtRr, with a pure short-wrinkled plant, ttrr. What ratio does the square predict?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One to one to one to one. The double hybrid gives TR, Tr, tR or tr equally; the other parent gives only tr. Four kinds of child, equal."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nine to three to three to one."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That ratio needs two hybrids. Here one parent gives only recessive factors, and every child shows whatever the hybrid gave."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "All tall and round."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dominant shows when present. The hybrid gives a t half the time and an r half the time."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Three to one for each trait, so three to one overall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A hybrid crossed with a pure recessive gives one to one per trait, from VIII.2 L02. Two independent one-to-ones give four equal kinds."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Write what each parent can give. Multiply. The test cross with a double recessive reveals the hybrid's four combinations directly, which is why Mendel used it."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

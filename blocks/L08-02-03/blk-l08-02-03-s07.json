@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-02-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-02-03/blk-l08-02-03-s07.md",
+  "image": {
+    "src": "media/L08-02-03/blk-l08-02-03-s07.webp",
+    "alt": "A completed four-by-four grid showing a nine-three-three-one pattern of tall-round, tall-wrinkled, short-round, and short-wrinkled pea plants."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

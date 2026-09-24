@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-01-02/blk-l07-01-02-s01.md",
+  "image": {
+    "src": "media/L07-01-02/blk-l07-01-02-s01.webp",
+    "alt": "A small gland above a kidney squirting a molecule into the bloodstream, traced all the way to a liver cell's sugar release."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

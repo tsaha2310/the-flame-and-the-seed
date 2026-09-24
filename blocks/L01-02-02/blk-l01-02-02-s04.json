@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-02-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-02/blk-l01-02-02-s04.md",
+  "simulation": {
+    "src": "simulations/shared/HillScene-two-hills-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

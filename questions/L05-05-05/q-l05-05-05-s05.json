@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-05-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A doctor can estimate how long ago someone died from how stiff the body is. Kabir says \"so the body gets stiff because it is cold\". What does rigor actually track?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The muscles' ATP running out and their myosin heads locking onto their tracks. It begins a few hours after death, peaks around twelve, and fades over a day or two as the proteins break down. Cold slows the timetable; it does not cause the stiffness."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A body in a warm room goes into rigor too, faster. The stiffness is a chemical lock, not a chill."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The blood clotting."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Blood does clot, but the stiffness is in the muscles, and a muscle in a dish with no blood at all goes into rigor when its ATP is gone."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The bones setting."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bones do not change. The muscles that move them have locked their heads."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Rigor is a chemistry clock. It starts when the last coin is spent and ends when the locked proteins are broken down. Doctors read the clock."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-05"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

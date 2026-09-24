@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-01-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-01-03/blk-l06-01-03-s06.md",
+  "image": {
+    "src": "media/L06-01-03/blk-l06-01-03-s06.webp",
+    "alt": "A long double helix thread wound tightly onto small spool-like proteins, packed into a tiny nucleus, yet still able to be found and read."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

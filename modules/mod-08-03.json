@@ -1,0 +1,47 @@
+{
+  "id": "mod-08-03",
+  "moduleId": "mod-08-03",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VIII.3 Meiosis"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "gamete",
+      "homologous-pair",
+      "meiosis",
+      "crossing-over",
+      "fertilisation",
+      "sex-chromosomes",
+      "nondisjunction"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-08-03-01.json",
+      "title": {
+        "en": "Half"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-03-02.json",
+      "title": {
+        "en": "The shuffle"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-03-03.json",
+      "title": {
+        "en": "Where Mendel's laws live"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08-03-04.json",
+      "title": {
+        "en": "X and Y"
+      }
+    }
+  ]
+}

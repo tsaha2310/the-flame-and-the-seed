@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-07-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"A parasite that kills its host is the strongest kind of parasite.\" What does the ledger say about a parasite that kills quickly?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It loses its home and its way to spread before it has spread far. Parasites that keep their hosts alive and moving, like most colds, spread more. A killer parasite is selected toward mildness unless it has another way out, as cholera does through water."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Strongest wins."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A dead host is a dead end. The parasite's descendants are the ones that got to the next host."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Parasites cannot kill."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Malaria kills hundreds of thousands a year. The point is that killing quickly is usually a poor strategy, not that it never happens."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The host always wins in the end."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sometimes. The race between host and parasite is tomorrow's lesson, and it has no end."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask how the parasite gets to its next host. Anything that needs the host alive and moving is pushed toward doing less harm."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-08-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why his heart does not \"sprint\" the way his calf does. Why does heart muscle run almost entirely aerobic?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The heart must never stop, and lactate would stop it within minutes. It is packed with mitochondria and blood vessels so that oxygen never runs short, and it burns fat and lactate as well as glucose, steadily."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The heart is too small to ferment."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size is not the reason. The heart's enzymes are tuned for the long pipeline because the short one's waste would be fatal to a muscle that cannot rest."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The heart does sprint, you just cannot feel it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Heart muscle has almost no fermentation capacity by design. A heart starved of oxygen does not ferment and carry on; it fails."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The heart runs on coins from the liver."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Coins do not travel between cells. The heart makes its own, aerobically, from what the blood brings."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask whether the tissue can afford to stop. A calf can rest and clear its lactate. A heart cannot, so it stays on the pipeline whose waste is water and breath."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

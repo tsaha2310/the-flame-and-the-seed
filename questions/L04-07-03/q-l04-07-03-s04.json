@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-07-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir has a strand GGGGAAAACCCC. He says it cannot fold, \"because the G's and the C's are at opposite ends\". What happens when he bends it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It folds into a hairpin. Bent back, the GGGG end lies against the CCCC end running the other way, G pairs with C four times, and the AAAA becomes the loop."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It cannot fold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Far apart along the strand is exactly what folding brings together. The ends meet."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The A's pair with each other."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A pairs with U only. Four A's in a row have no partner, so they form the loop."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It folds into a straight line."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A straight strand has no pairs. The hairpin pairs four, which is why it forms."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Look for a stretch and its reverse partner. GGGG and CCCC read against each other in reverse are four G-C pairs. Whatever lies between is the loop."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

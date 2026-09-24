@@ -1,0 +1,61 @@
+{
+  "id": "q-l01-02-02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The light marble has a hump in its path. The heavy marble's fall is worth 30 cm of lift. The hump is 35 cm high. What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The light marble climbs to 30 cm, stops short of the hump, and rolls back."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It gets over, because it is moving."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The fall gave enough for 30 cm of climb. The hump needs 35. Moving does not add energy; it is the energy."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The heavy marble falls harder to help."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A marble cannot try. Its fall is worth the same whatever is on the other end."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The hump is knocked flat."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "On the Hill, a hump is a real barrier. Too little energy means no crossing, however many times you retry."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A hump blocks the way whenever the energy available is less than its height, even if the valley beyond is far lower. Remember this hump. It comes back as the reason petrol does not burn without a spark."
+  },
+  "hints": [],
+  "tags": [
+    "mod-01-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

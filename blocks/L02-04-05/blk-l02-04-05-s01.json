@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-05/blk-l02-04-05-s01.md",
+  "image": {
+    "src": "media/L02-04-05/blk-l02-04-05-s01.webp",
+    "alt": "Three samples under a brass lens: a drop of lamp oil, a sliver of live seed and a sliver of boiled seed, with tiny bonds and links visible through the glass."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

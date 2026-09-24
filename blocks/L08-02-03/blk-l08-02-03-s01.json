@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-02-03/blk-l08-02-03-s01.md",
+  "image": {
+    "src": "media/L08-02-03/blk-l08-02-03-s01.webp",
+    "alt": "Two hybrid pea plants, each tall and round but carrying hidden short and wrinkled factors, about to be crossed with each other."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

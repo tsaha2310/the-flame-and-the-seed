@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-09-03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03-09-03/blk-l03-09-03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Only the volts. More volts, more energy, however long it runs.",
+      "feedback": "Kabir's card: \"Volts are the energy.\""
+    },
+    {
+      "id": "b",
+      "text": "Volts times the charge that flowed. A steep fall for a lot of electrons is a lot of energy."
+    },
+    {
+      "id": "c",
+      "text": "Only how long it ran.",
+      "feedback": "Kabir's card: \"Time is energy.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L03-09-03/blk-l03-09-03-s02.webp",
+    "alt": "A Daniell cell running for an hour with an LED lit, an hourglass, and charge drawn as a stream of small dots through the wire."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

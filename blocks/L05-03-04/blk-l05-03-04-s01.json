@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-03-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-03-04/blk-l05-03-04-s01.md",
+  "image": {
+    "src": "media/L05-03-04/blk-l05-03-04-s01.webp",
+    "alt": "A cell membrane taking bubbles in normally while its outward door is jammed shut, bubbles piling up unable to be released."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

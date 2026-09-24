@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-01-02/blk-l06-01-02-s01.md",
+  "image": {
+    "src": "media/L06-01-02/blk-l06-01-02-s01.webp",
+    "alt": "A crystal-like virus landing on a bacterium and injecting its core, the bacterium bursting open later full of new viruses."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

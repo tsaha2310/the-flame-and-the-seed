@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-01/blk-l02-04-01-s01.md",
+  "image": {
+    "src": "media/L02-04-01/blk-l02-04-01-s01.webp",
+    "alt": "A spoon of white ghee melting into a clear golden puddle on a hot roti, then setting again as a white smear when waved in the air."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

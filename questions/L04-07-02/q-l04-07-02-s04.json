@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-07-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"A and U have two bonds, G and C have three. So G-C is a different kind of thing, and A-U is weak and useless.\" What is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both are the same kind of thing: hydrogen-bonded pairs of the same width. G-C holds a little more tightly. A chain rich in G-C is harder to pull apart, and that difference is used, but A-U pairs are real pairs."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A-U is useless."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two hydrogen bonds are enough to hold a pair together at body temperature. Water itself is held by hydrogen bonds."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "G-C is a covalent bond."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All three are hydrogen bonds between two separate molecules. No shared pair forms. The bases can still be pulled apart."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The number does not matter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It matters a bit. Three bonds hold harder than two, and Book IV's next module measures exactly that."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Same kind, different strength. Count the bonds to know how tightly, and check the width to know that both fit the same slot."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

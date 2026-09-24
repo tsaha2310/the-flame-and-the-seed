@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-02-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A dentist injects a local anaesthetic before drilling. It blocks sodium channels near the tooth for an hour. Kabir says \"so the tooth's nerve is dead for an hour\". What has happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The nerve is intact and its gates are plugged. Waves cannot start or pass through that region, so no message reaches the brain. When the drug diffuses away, the gates work again and feeling returns."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The nerve is dead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A dead nerve would not recover in an hour. This one is intact and silenced."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The nerve is sending pain the brain ignores."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No wave leaves the region. There is nothing for the brain to ignore."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The tooth has no nerve."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tooth's pulp is full of nerve endings, which is why drilling without the injection hurts."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A plugged gate is a silent nerve, for as long as the plug stays. Reversible blocking is the whole art of anaesthesia."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-06-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05-06-01/blk-l05-06-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "About thirty ATP, and the cell is fine. One big fall, one big wheel.",
+      "feedback": "Kabir's card: \"Big fall, big wheel, lots of coins.\""
+    },
+    {
+      "id": "b",
+      "text": "One ATP at most, and the rest of the fall becomes heat all at once. The cell cooks."
+    },
+    {
+      "id": "c",
+      "text": "No ATP, because a single step cannot be coupled.",
+      "feedback": "Kabir's card: \"Coupling needs small steps.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L05-06-01/blk-l05-06-01-s02.webp",
+    "alt": "A single glucose molecule releasing all its energy in one coupled step through one wheel, coins and heat both produced."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

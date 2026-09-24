@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-10-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If the oxygen would last thousands of years, then oxygen is not the thing to worry about.\" In the Earth jar, what should he worry about first?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Food. Every animal, fungus and non-green cell eats what leaves made, and the world's stores are a year or two deep. Oxygen is the deepest store on Earth; food is the shallowest."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Oxygen, because breathing is the most urgent thing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Urgent for a person, yes. For the planet's store, the air is the last thing to run low, by centuries."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Water, because plants make water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Plants make a little water in respiration, as everything does. The seas do not depend on leaves."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing, because animals could eat each other."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Eating each other moves the same carbon around and loses most of it as breath at each step, from III.8's thinning. Without a leaf, the pile only shrinks."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ask how deep each store is. Air: thousands of years. Food: a year or two. The shallow store is the emergency."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

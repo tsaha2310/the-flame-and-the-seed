@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-04/blk-l07-02-04-s01.md",
+  "image": {
+    "src": "media/L07-02-04/blk-l07-02-04-s01.webp",
+    "alt": "A reflex circuit built with two gaps, from a hand through the spinal cord straight back to the arm muscle, bypassing the brain."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

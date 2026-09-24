@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-04-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-04-01/blk-l01-04-01-s06.md",
+  "image": {
+    "src": "media/L01-04-01/blk-l01-04-01-s06.webp",
+    "alt": "Six glasses in a row, one salt-water glass lighting a small LED while the sugar-water glass beside it stays dark; the LED is the only light in the room."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

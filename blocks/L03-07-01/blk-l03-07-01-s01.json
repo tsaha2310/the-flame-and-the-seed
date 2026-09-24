@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-07-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-07-01/blk-l03-07-01-s01.md",
+  "image": {
+    "src": "media/L03-07-01/blk-l03-07-01-s01.webp",
+    "alt": "A boy's shirt with a turmeric stain turned red under a dab of soap, then back to yellow under the tap."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

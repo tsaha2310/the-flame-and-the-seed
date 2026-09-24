@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-07-04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If mitochondria are bacteria, I could grow some in a dish without a cell.\" What has changed in two billion years?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Most of the mitochondrion's genes have moved to the host's nucleus. It cannot make most of its own proteins; the host makes them and ships them in. A mitochondrion outside a cell starves within hours. Partner became part."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; mitochondria grow in dishes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They survive briefly and cannot divide, because the recipes for most of their parts are in the nucleus they left behind."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Mitochondria are not really bacteria any more, so the story is wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Descended from bacteria and no longer free-living is exactly what the story predicts."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The host would digest them."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Inside the cell they are protected. Outside, the problem is that they lack most of their own recipes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Two billion years of partnership moved the recipes. The mitochondrion is a bacterium that outsourced its genome to its landlord."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-07"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

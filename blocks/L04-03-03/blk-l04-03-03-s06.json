@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-03-03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-03-03/blk-l04-03-03-s06.md",
+  "simulation": {
+    "src": "simulations/L04-03-03/KinkPackerScene-spinning-double.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "les-08-08-04",
+  "lessonId": "les-08-08-04",
+  "type": "lesson",
+  "title": {
+    "en": "Biomes"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08-08-04/blk-l08-08-04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-04/blk-l08-08-04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-04/blk-l08-08-04-s03.json"
+    },
+    {
+      "blockRef": "questions/L08-08-04/q-l08-08-04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-04/blk-l08-08-04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08-08-04/blk-l08-08-04-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-03-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-03-03/blk-l07-03-03-s01.md",
+  "image": {
+    "src": "media/L07-03-03/blk-l07-03-03-s01.webp",
+    "alt": "A tooth surface covered in a layered bacterial city, drawn like small buildings and streets in miniature, communicating with leaked signal molecules."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

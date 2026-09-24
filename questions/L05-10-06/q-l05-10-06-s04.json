@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-10-06-s04",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the slow fire in order, from sugar to coin."
+  },
+  "items": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hexokinase clamps glucose with one coin; glycolysis splits it into two pyruvate, filling two buckets and earning two coins net."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Pyruvate enters the mitochondrion, loses a carbon as carbon dioxide, and becomes acetyl-CoA."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The Krebs cycle strips the acetyl's electrons into carriers and lets its carbons go as breath."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The electron transport chain hands the electrons down a staircase of pullers to oxygen, pumping ions across the inner wall."
+      }
+    },
+    {
+      "id": "e",
+      "text": {
+        "en": "The proton gradient flows back through ATP synthase, which spins and presses about twenty-six coins."
+      }
+    },
+    {
+      "id": "f",
+      "text": {
+        "en": "In the leaf, light lifts electrons from water twice, fills NADPH and a dam, and the Calvin cycle spends both to make sugar from air."
+      }
+    }
+  ],
+  "correctOrder": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "hints": [],
+  "tags": [
+    "mod-05-10"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

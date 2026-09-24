@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-01-02/blk-l02-01-02-s01.md",
+  "image": {
+    "src": "media/L02-01-02/blk-l02-01-02-s01.webp",
+    "alt": "A saucer on a sunny windowsill where evaporated salt water has left a ring of tiny perfect cubes."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "les-00-01-01",
+  "lessonId": "les-00-01-01",
+  "type": "lesson",
+  "title": {
+    "en": "The diya and the question"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L00-01-01/blk-l00-01-01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-01/blk-l00-01-01-s02.json"
+    },
+    {
+      "blockRef": "questions/L00-01-01/q-l00-01-01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-01/blk-l00-01-01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-01/blk-l00-01-01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L00-01-01/blk-l00-01-01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

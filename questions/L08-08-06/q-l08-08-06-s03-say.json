@@ -1,0 +1,31 @@
+{
+  "id": "q-l08-08-06-s03-say",
+  "type": "semantic-descriptive@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Write the Book VIII line. What does the seed do across generations that a flame does not, and what does Kabir's ledger of cards now show?"
+  },
+  "rubric": [],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Model answer"
+      },
+      "text": {
+        "en": "The seed copies its tape, with about one slip per billion letters, and shuffles it with a partner's, so every seed is a new combination. Because copies vary and more are made than survive, its kind changes over generations: selection, with no chooser. Its line traces back through every other line to one root, and it lives in loops of carbon, nitrogen and water with partners at every level. The flame copies nothing and has no kind. The boiled seed carries the tape and cannot copy it."
+      },
+      "rubricId": null
+    }
+  ],
+  "mode": "full-answer",
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

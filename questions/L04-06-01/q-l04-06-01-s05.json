@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-06-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir reads a poster: \"The high-energy bond in the phosphate chain releases energy when broken.\" What is the honest version?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Breaking the bond costs energy, as every bond break does. Energy comes out overall because the two pieces, with water gripping their charges and their negatives no longer crowded, sit far lower than the joined chain did."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The poster is right."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No bond releases energy on breaking. The fall is in the whole arrangement, before and after, and water is a big part of it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Phosphorus is radioactive, and that is the energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ordinary phosphorus is not radioactive. The energy is the charge repulsion and water's grip, nothing more."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The energy comes from the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water does not give energy. Water molecules gripping the freed charges is part of why the separated state is low. The fall is the difference between the two states."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Use the ledger. Pay to break the phosphate-to-phosphate bond. Earn from the new bond to water, from the charges no longer crowded, and from water wrapping the pieces. The earn column wins."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

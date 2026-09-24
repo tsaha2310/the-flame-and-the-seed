@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-06-03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If birds are reptiles, then a crocodile is more closely related to a sparrow than to a lizard.\" Is he right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes. Crocodiles and birds share an ancestor after the lizard line split off. On the DNA tree, a crocodile's nearest living relatives are birds. The word reptile, as used for lizards and crocodiles but not birds, names a group with a branch left out."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No; crocodiles are obviously lizards."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Scales and legs are inherited from further back and shared with lizards, but the tape and the fossils put crocodiles and birds on one branch, lizards on another."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No; birds are not reptiles at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Feathers are modified scales, and feathered dinosaurs have been dug up by the hundred. Birds sit inside the reptile branch."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It cannot be known."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Gene distances say it clearly, and fossils agree."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Relatedness is about the most recent shared ancestor, not about looks. Crocodile and bird share a more recent one than crocodile and lizard."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

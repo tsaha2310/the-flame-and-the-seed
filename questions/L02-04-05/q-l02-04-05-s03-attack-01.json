@@ -1,0 +1,52 @@
+{
+  "id": "q-l02-04-05-s03-attack-01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Kabir attacks. Pick his best card."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"The boiled seed has the same grips in the same amounts. If a grip were the difference, it would be gone from the boiled one.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"The seed has hydrogen bonds and the oil does not. Hydrogen bonds are life.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The water in your glass has hydrogen bonds and is not alive. And the boiled seed has as many as the live one."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"The seed has ions and the oil has none. Ions are the spark.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt water is full of ions. The boiled seed has the same ions as the live seed."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-02-04"
+  ],
+  "image": {
+    "src": "media/L02-04-05/q-l02-04-05-s03-attack-01.webp",
+    "alt": "A boy playing his best card in a duel over a notebook page showing the flame-and-seed bonding ledger, a salt cube and an oil dish on the table."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

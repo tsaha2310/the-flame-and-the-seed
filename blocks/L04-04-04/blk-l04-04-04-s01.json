@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-04-04/blk-l04-04-04-s01.md",
+  "image": {
+    "src": "media/L04-04-04/blk-l04-04-04-s01.webp",
+    "alt": "A plate of rice on a kitchen balance, and a grandmother's hand about to flip a switch drawn beside it from one link shape to another."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

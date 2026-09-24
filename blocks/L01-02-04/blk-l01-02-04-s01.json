@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-04/blk-l01-02-04-s01.md",
+  "image": {
+    "src": "media/L01-02-04/blk-l01-02-04-s01.webp",
+    "alt": "A boy stretching a rubber band between his hands, beside a drawing of a ball on a hill and two charged spheres pulled apart."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

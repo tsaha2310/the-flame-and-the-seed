@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-01-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a chain of five carbons and asks the bench for the hydrogens. It puts on twelve. He says \"that is wrong, five carbons need twenty hydrogens, four each\". Where did the eight go?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each carbon in the middle uses two of its four bonds on neighbouring carbons, and the end carbons use one. Only the leftover bonds hold hydrogens: 3 + 2 + 2 + 2 + 3 is twelve."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bench is wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Four bonds each, yes. But a bond to a carbon is one of the four. Count the carbon-to-carbon bonds first."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Some hydrogens are hidden."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rotate the model. Twelve is all there are, and every carbon still has exactly four bonds."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Chains do not follow the valency rule."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Chains follow it exactly. That is what sets the number twelve."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Each carbon has four bonds. Subtract the ones it spends on other carbons. The rest carry hydrogens."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

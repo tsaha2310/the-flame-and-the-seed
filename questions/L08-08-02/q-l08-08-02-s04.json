@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-08-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why a field can feed a hundred people on rice \"but only ten on the meat of animals fed that rice\". What does the tenfold rule say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Eating the rice directly takes the energy at the first step. Feeding the rice to animals and eating them takes it at the second, after the animals have burned nine-tenths of it staying alive. Ten times more people per field on the shorter chain."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Meat is less nutritious."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meat is rich food. The loss is not in the meal; it is in the animal's own burning between the field and the plate."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Animals eat more than people."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An animal eats about as much per kilogram as a person. It is that most of what it eats leaves as heat and breath."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The rice is wasted in transport."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The loss is on the Hill, not on the road. Every extra step in a chain costs nine-tenths."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Count the arrows between the sunlight and the plate. Each arrow is a tenth. Fewer arrows, more people fed."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

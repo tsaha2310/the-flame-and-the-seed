@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir builds a fat with three sixteen-carbon tails and asks the bench how much water it makes when burned. It says 49 molecules. He says \"that is impossible, only three water molecules went into building it\". What did he mix up?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The three water molecules leaving during building are about the ester links. Burning is a different reaction: every hydrogen on the three long tails joins oxygen to make water. Ninety-eight hydrogens, forty-nine waters."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The bench is wrong."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Building and burning are different re-grippings. Burning takes all the hydrogens on the tails."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Fat cannot burn."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The diya burns oil, which is triglyceride. Ghee burns too, with a yellow flame."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The water was hiding in the tails."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There is no water in a fat. There are hydrogens, and burning makes water out of them with oxygen from the air."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Keep the two reactions apart. Ester building loses three waters. Combustion makes water from every hydrogen on the molecule."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-03-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-03-01/blk-l05-03-01-s06.md",
+  "image": {
+    "src": "media/L05-03-01/blk-l05-03-01-s06.webp",
+    "alt": "A round hunter cell wrapping itself entirely around a bacterium and pinching the wrap closed into an internal bubble."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

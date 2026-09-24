@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-04-04/blk-l08-04-04-s01.md",
+  "image": {
+    "src": "media/L08-04-04/blk-l08-04-04-s01.webp",
+    "alt": "A population map showing sickle allele carriers remaining common in a mosquito-heavy malaria region despite the allele's harm."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

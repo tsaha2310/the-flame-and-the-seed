@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-04-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-04-04/blk-l05-04-04-s01.md",
+  "image": {
+    "src": "media/L05-04-04/blk-l05-04-04-s01.webp",
+    "alt": "Three unlabeled folded proteins on a bench, one shaped like it belongs in a mouth, one curled tight and dormant, one glowing near a glucose and a coin."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

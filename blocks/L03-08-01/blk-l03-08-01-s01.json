@@ -1,0 +1,14 @@
+{
+  "id": "blk-l03-08-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03-08-01/blk-l03-08-01-s01.md",
+  "image": {
+    "src": "media/L03-08-01/blk-l03-08-01-s01.webp",
+    "alt": "A jug of evenly blue water beside four coins on a table, a grandmother's hand placing the last coin."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

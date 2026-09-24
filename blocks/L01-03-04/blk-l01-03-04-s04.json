@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-04-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-04/blk-l01-03-04-s04.md",
+  "simulation": {
+    "src": "simulations/L01-03-04/ShellLadderScene-labelled.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

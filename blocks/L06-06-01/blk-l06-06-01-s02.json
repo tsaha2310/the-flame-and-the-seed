@@ -1,0 +1,32 @@
+{
+  "id": "blk-l06-06-01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06-06-01/blk-l06-06-01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing, or it grows a lump of gut. A gut cell's nucleus has only gut genes left.",
+      "feedback": "Kabir's card: \"Gut nucleus, gut stuff.\""
+    },
+    {
+      "id": "b",
+      "text": "It develops into a complete, normal tadpole, and then a frog, with every kind of cell."
+    },
+    {
+      "id": "c",
+      "text": "It develops into a tadpole with no gut, because the gut genes were used up.",
+      "feedback": "Kabir's card: \"Those pages are torn out.\""
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "image": {
+    "src": "media/L06-06-01/blk-l06-06-01-s02.webp",
+    "alt": "A frog egg with its own nucleus destroyed by light, a new nucleus from a tadpole's gut cell being inserted into it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

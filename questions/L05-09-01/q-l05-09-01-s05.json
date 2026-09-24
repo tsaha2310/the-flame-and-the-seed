@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-09-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If trees come from air, then a forest makes the air lighter.\" What does the balance say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The forest takes carbon dioxide from the air and turns it into wood. The air does lose that mass, and gains the oxygen the trees give back, which is lighter. A forest is air turned solid."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No, trees come from soil."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "He was wrong about water, not about soil. The soil lost 57 grams in five years. The tree gained 74 kilograms."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Air has no mass, so nothing can come from it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cubic metre of air weighs over a kilogram, from II.4's pressure. The carbon dioxide in it is real mass."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Trees come from sunlight, which has mass."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Light brings the push, the free energy. The atoms come from the air and water. Keep energy and stuff separate, as with the lost fat."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the atoms. Soil unchanged. Water: hydrogen. Air: carbon and oxygen. The tree is air and water rearranged, with light paying for the rearranging."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-09"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-01-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-01-02/blk-l05-01-02-s01.md",
+  "image": {
+    "src": "media/L05-01-02/blk-l05-01-02-s01.webp",
+    "alt": "A brass lens over a root tip revealing tiny stacked box-like cells, like bricks, with a seventeenth-century scientist looking at cork in an inset."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

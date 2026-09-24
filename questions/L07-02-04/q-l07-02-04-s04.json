@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-02-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks why the nervous system \"bothers with gaps, if the wave could just run along one very long cable\". What does a gap buy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Choice. At a synapse the next neuron adds up many inputs, some pushing it toward threshold and some away, and fires only if the sum is enough. A synapse is where a signal can be strengthened, weakened, blocked or combined. One long cable could only pass a wave on."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing; gaps slow it down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They cost half a millisecond each. They buy computation."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Gaps stop the wave getting too big."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waves are all-or-none; they never get too big. Gaps are about what to do with them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cells cannot be longer than a metre."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A single neuron can run from your spine to your toe. Length is not the reason for synapses."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A wire carries. A synapse decides. Every place in the nervous system where inputs are weighed is a synapse."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

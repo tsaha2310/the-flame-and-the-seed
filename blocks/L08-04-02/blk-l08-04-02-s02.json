@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-04-02-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-04-02/blk-l08-04-02-s02.md",
+  "simulation": {
+    "src": "simulations/L08-04-02/MolecularPunnettScene-fill.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

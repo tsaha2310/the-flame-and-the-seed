@@ -1,0 +1,34 @@
+{
+  "id": "les-07-02-05",
+  "lessonId": "les-07-02-05",
+  "type": "lesson",
+  "title": {
+    "en": "Pufferfish"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07-02-05/blk-l07-02-05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-05/blk-l07-02-05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-05/blk-l07-02-05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-05/blk-l07-02-05-s04.json"
+    },
+    {
+      "blockRef": "questions/L07-02-05/q-l07-02-05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L07-02-05/blk-l07-02-05-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

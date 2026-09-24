@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-06-02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06-06-02/blk-l06-06-02-s01.md",
+  "image": {
+    "src": "media/L06-06-02/blk-l06-06-02-s01.webp",
+    "alt": "A bacterium with a milk-sugar-digesting gene switched off until a repressor protein senses milk sugar and lets go of the DNA."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mod-06-04",
+  "moduleId": "mod-06-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "VI.4 The ribosome"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "trna",
+      "anticodon",
+      "translation",
+      "ribosome",
+      "three-slots",
+      "mutation",
+      "frameshift",
+      "haemoglobin",
+      "sickle-cell",
+      "none"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-06-04-01.json",
+      "title": {
+        "en": "The true translators"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-04-02.json",
+      "title": {
+        "en": "Run the ribosome"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-04-03.json",
+      "title": {
+        "en": "The tape editor"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-04-04.json",
+      "title": {
+        "en": "One letter"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06-04-05.json",
+      "title": {
+        "en": "Ribosome sabotage"
+      }
+    }
+  ]
+}

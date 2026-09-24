@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-05-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-05/blk-l08-08-05-s06.md",
+  "simulation": {
+    "src": "simulations/shared/LedgerScene-note.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

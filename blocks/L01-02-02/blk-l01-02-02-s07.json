@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-02-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-02/blk-l01-02-02-s07.md",
+  "image": {
+    "src": "media/L01-02-02/blk-l01-02-02-s07.webp",
+    "alt": "A grandmother drawing a ball on a bumpy line at the top of a fresh notebook page, with a lens and a balloon waiting beside it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

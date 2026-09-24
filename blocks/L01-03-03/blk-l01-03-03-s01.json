@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-03-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-03-03/blk-l01-03-03-s01.md",
+  "image": {
+    "src": "media/L01-03-03/blk-l01-03-03-s01.webp",
+    "alt": "Two identical glasses of water on a kitchen balance, one pan dipping slightly lower than the other."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

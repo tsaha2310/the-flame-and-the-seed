@@ -1,0 +1,52 @@
+{
+  "id": "q-l09-01-04-s02-attack-04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Attack four: \"Then answer the mule, the virus, the dry seed, and the machine. If your loop cannot say yes or no to those, it is not an answer.\""
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "\"The loop says exactly what each one has and lacks: a loop that does not continue, a loop on loan, a loop paused, a loop not yet built. It refuses a yes or no where the world does not give one, and gives one everywhere else. An answer that pretended to settle the mule would be a worse answer, not a better one.\""
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "\"They are all alive.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Then the unbuilt machine is alive before it is built, and the virus is alive in a crystal in a drawer. Saying yes to all is a list again."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "\"They are all dead.\""
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The mule is standing in a field eating grass. An answer that calls it dead has failed the Prologue's own test."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "hints": [],
+  "tags": [
+    "mod-09-01"
+  ],
+  "image": {
+    "src": "media/L09-01-04/q-l09-01-04-s02-attack-04.webp",
+    "alt": "Kabir's fourth and final Epilogue attack, laying down all four edge cards together, the mule, the virus, the dry seed and the machine, demanding a clear answer for each."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

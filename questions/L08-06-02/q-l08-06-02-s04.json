@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-06-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"A mushroom is a plant. It grows in the ground and does not move.\" Where does the tape file it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "With animals, closer than with plants. Fungi and animals share an ancestor after the plant line had split off; both eat rather than photosynthesise, and their DNA says so. A mushroom is a distant cousin of Kabir, not of the moong."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "With plants."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Growing in soil is a way of life. No chloroplasts, walls of a different sugar, and DNA nearer to animals: fungi are their own kingdom on the animal side."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "With bacteria."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A fungus has a nucleus and organelles. It is a eukaryote, in the same domain as you."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nowhere; fungi are not alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rotting is what fungi do for a living. They are as alive as the moong."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Looks file the mushroom with plants. Inherited features, from cell walls to genes, file it nearer animals. The tree follows inheritance."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-06"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

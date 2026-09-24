@@ -1,0 +1,37 @@
+{
+  "id": "les-01-03-04",
+  "lessonId": "les-01-03-04",
+  "type": "lesson",
+  "title": {
+    "en": "Shells and the colour of light"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01-03-04/blk-l01-03-04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-04/blk-l01-03-04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-04/blk-l01-03-04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-04/blk-l01-03-04-s04.json"
+    },
+    {
+      "blockRef": "questions/L01-03-04/q-l01-03-04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-04/blk-l01-03-04-s06.json"
+    },
+    {
+      "blockRef": "blocks/L01-03-04/blk-l01-03-04-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

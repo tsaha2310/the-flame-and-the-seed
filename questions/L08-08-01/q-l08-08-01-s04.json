@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-08-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks where the carbon in a mango tree's trunk \"was last week\". Which is the likeliest answer?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "In the air, as carbon dioxide, until a leaf took it and built it into sugar and then into cellulose for the trunk. A tree is air turned solid, from V.9 L01."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "In the soil, sucked up by the roots."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Van Helmont's soil lost fifty-seven grams in five years. Carbon comes from the air."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "In the water the tree drank."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water has no carbon. It gives the tree hydrogen and, from V.9, the oxygen it breathes out."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "In the tree; it made its own."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing makes carbon. The tree lifts it from the air into sugar, atom by atom."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the atom backward through the reactions. Wood is cellulose is glucose is a leaf's product is carbon dioxide from the air."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-08"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

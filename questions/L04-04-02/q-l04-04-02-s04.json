@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-04-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says: \"If sucrose is glucose plus fructose, then sucrose should weigh the same as a glucose and a fructose together.\" What does the balance say?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sucrose weighs 18 units less: one water molecule was lost when the link formed. 180 plus 180 minus 18 is 342."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The same."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing was added, but something left. One water, mass 18, escaped as the link formed."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "More, because a link weighs something."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A link is a shared pair of electrons around an oxygen already counted. It weighs nothing extra, and the water that left weighs 18."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It cannot be weighed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The molar mass from III.2 handles it. A mole of sucrose is 342 g."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Condensation loses one water per link. Subtract 18 for every link when you weigh a joined molecule."
+  },
+  "hints": [],
+  "tags": [
+    "mod-04-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

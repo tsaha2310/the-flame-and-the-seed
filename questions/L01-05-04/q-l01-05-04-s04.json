@@ -1,0 +1,100 @@
+{
+  "id": "q-l01-05-04-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each element by where it sits and how it behaves."
+  },
+  "categories": [
+    {
+      "id": "metal",
+      "label": {
+        "en": "Metal"
+      }
+    },
+    {
+      "id": "non-metal",
+      "label": {
+        "en": "Non-metal"
+      }
+    },
+    {
+      "id": "metalloid",
+      "label": {
+        "en": "Metalloid"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-01",
+      "text": {
+        "en": "iron"
+      },
+      "correctCategoryId": "metal"
+    },
+    {
+      "id": "chip-02",
+      "text": {
+        "en": "oxygen"
+      },
+      "correctCategoryId": "non-metal"
+    },
+    {
+      "id": "chip-03",
+      "text": {
+        "en": "silicon"
+      },
+      "correctCategoryId": "metalloid"
+    },
+    {
+      "id": "chip-04",
+      "text": {
+        "en": "sodium"
+      },
+      "correctCategoryId": "metal"
+    },
+    {
+      "id": "chip-05",
+      "text": {
+        "en": "chlorine"
+      },
+      "correctCategoryId": "non-metal"
+    },
+    {
+      "id": "chip-06",
+      "text": {
+        "en": "boron"
+      },
+      "correctCategoryId": "metalloid"
+    },
+    {
+      "id": "chip-07",
+      "text": {
+        "en": "calcium"
+      },
+      "correctCategoryId": "metal"
+    },
+    {
+      "id": "chip-08",
+      "text": {
+        "en": "carbon"
+      },
+      "correctCategoryId": "non-metal"
+    }
+  ],
+  "hints": [],
+  "tags": [
+    "mod-01-05"
+  ],
+  "image": {
+    "src": "media/L01-05-04/q-l01-05-04-s04.webp",
+    "alt": "A scattered set of element samples on a tray, iron, oxygen gas, silicon, sodium, chlorine, boron, calcium and carbon, waiting to be placed on the periodic staircase chart."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

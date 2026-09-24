@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-08-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08-08-01/blk-l08-08-01-s01.md",
+  "image": {
+    "src": "media/L08-08-01/blk-l08-08-01-s01.webp",
+    "alt": "A single glowing carbon atom traced backward through a flame, an oil seed, the air, a leaf, a cow, grass and an ancient swamp fern."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

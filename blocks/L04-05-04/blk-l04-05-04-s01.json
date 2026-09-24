@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-05-04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-05-04/blk-l04-05-04-s01.md",
+  "image": {
+    "src": "media/L04-05-04/blk-l04-05-04-s01.webp",
+    "alt": "An egg cracked into a hot pan, its clear white turning white and solid, with a folded protein unravelling above it."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

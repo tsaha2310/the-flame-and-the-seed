@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-02-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-02-03/blk-l01-02-03-s01.md",
+  "image": {
+    "src": "media/L01-02-03/blk-l01-02-03-s01.webp",
+    "alt": "A boy rubbing a balloon on his hair while a thin stream of tap water bends toward it, and a comb lifting scraps of paper."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-02-01-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07-02-01/blk-l07-02-01-s06.md",
+  "image": {
+    "src": "media/L07-02-01/blk-l07-02-01-s06.webp",
+    "alt": "A long nerve cable at rest, its outside more positive and inside more negative, a steady voltage difference like a battery along its length."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

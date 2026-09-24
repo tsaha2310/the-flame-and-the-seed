@@ -1,0 +1,60 @@
+{
+  "id": "mod-05-04",
+  "moduleId": "mod-05-04",
+  "type": "module",
+  "authorId": "flame-and-seed",
+  "title": {
+    "en": "V.4 Enzymes: the hump-lowerers"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "metabolism",
+      "catabolic",
+      "anabolic",
+      "enzyme",
+      "substrate",
+      "active-site",
+      "optimum",
+      "inhibitor",
+      "induced-fit",
+      "amylase",
+      "pepsin",
+      "hexokinase",
+      "allostery",
+      "feedback-inhibition"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-05-04-01.json",
+      "title": {
+        "en": "Downhill and uphill work"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-04-02.json",
+      "title": {
+        "en": "The docking bay"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-04-03.json",
+      "title": {
+        "en": "The dial lab"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-04-04.json",
+      "title": {
+        "en": "The gallery"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05-04-05.json",
+      "title": {
+        "en": "Feedback factory"
+      }
+    }
+  ]
+}

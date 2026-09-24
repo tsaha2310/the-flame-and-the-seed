@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-03-02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Magnesium ribbon burns in carbon dioxide. It keeps burning, and black carbon specks appear. Which is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Magnesium is oxidised, losing electrons, and the carbon in carbon dioxide is reduced, gaining them. Oxygen changes partners but is not \"the oxidiser\" here."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing is oxidised, because carbon dioxide has no free oxygen."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Magnesium loses electrons, so it is oxidised. What takes them is the carbon, which ends up as black carbon."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Magnesium is reduced, because it takes the oxygen off the carbon dioxide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Taking oxygen is not the definition any more. Magnesium loses electrons, and losing is oxidation."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Carbon dioxide is oxidised."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The carbon gains electrons and comes out as carbon. Gaining is reduction."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Follow the electrons, not the oxygen. Magnesium's outer electrons end up on the carbon. Whoever loses is oxidised, whoever gains is reduced."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

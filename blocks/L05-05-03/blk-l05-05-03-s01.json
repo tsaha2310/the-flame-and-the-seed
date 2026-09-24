@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-05-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-05-03/blk-l05-05-03-s01.md",
+  "image": {
+    "src": "media/L05-05-03/blk-l05-05-03-s01.webp",
+    "alt": "A boy running between cricket wickets while his muscle cells rapidly strip sugar rings off a branched tree at high speed."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-02-05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir says a sports drink is \"basically ORS, so it would cure cholera\". The sports drink has three times the sugar and a fifth of the salt. What happens in the sim?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The gut is much sweeter than the blood, so water moves into the gut by osmosis, and there is too little sodium to run the carrier. The patient loses more water, faster."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It works about as well."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Too much sugar reverses the water flow. The concentrations are the medicine."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It works better, because more sugar means more energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The patient is dying of water loss, not hunger. Extra sugar pulls water out of them."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It does nothing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It does something: harm. Concentration decides the direction of water, and this one points the wrong way."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Run the osmosis rule from V.2 L04. Which side is more concentrated? Water goes there. The right ORS is close to blood; a sports drink is far sweeter."
+  },
+  "hints": [],
+  "tags": [
+    "mod-05-02"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-01-04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir writes: CH4 + O2 gives CO2 + H2O. The teacher marks it wrong. Kabir says \"but that is what happens when gas burns\". Who is right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Both. It is the right reaction and the wrong equation. Balanced, it is CH4 + 2 O2 gives CO2 + 2 H2O. As written it makes two hydrogens and one oxygen disappear."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kabir."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are. The counts are not. Four hydrogens go in and two come out."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The teacher, because methane does not burn to water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hold a cold steel plate over a gas flame and it fogs with water. Methane burns to carbon dioxide and water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because burning is not a chemical reaction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Burning is the most famous re-gripping there is. It is how Book I began."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The molecules can all be right and the equation still lie about the counts. Fix the numbers in front, never the molecules."
+  },
+  "hints": [],
+  "tags": [
+    "mod-03-01"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

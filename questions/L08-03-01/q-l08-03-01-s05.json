@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-03-01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A human cell has 46 chromosomes. Kabir says \"so a sperm has 23 and an egg has 23, any 23 each\". What is the constraint?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Twenty-three, and exactly one from each of the twenty-three pairs. Two from one pair and none from another would give a child with three of one chromosome and one of another, which mostly does not survive."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Any twenty-three."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Half by count is not enough. It must be half by pairs, one of each, or genes go missing and double up."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Twenty-three, always the father's set or the mother's set whole."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each pair separates on its own, so a gamete carries a mix of grandparents' chromosomes. That mix is the next lesson."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Forty-six, and the egg has none."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both gametes carry twenty-three. Children get half from each parent, which is why they resemble both."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Meiosis separates pairs. Each gamete gets one member of every pair. The count halves and the set stays complete."
+  },
+  "hints": [],
+  "tags": [
+    "mod-08-03"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

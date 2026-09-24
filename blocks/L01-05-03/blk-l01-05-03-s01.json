@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-05-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01-05-03/blk-l01-05-03-s01.md",
+  "image": {
+    "src": "media/L01-05-03/blk-l01-05-03-s01.webp",
+    "alt": "Two boys in a tug-of-war with a dupatta on a verandah, the knot sliding toward the bigger boy."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

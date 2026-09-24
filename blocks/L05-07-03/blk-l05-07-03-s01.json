@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-07-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05-07-03/blk-l05-07-03-s01.md",
+  "image": {
+    "src": "media/L05-07-03/blk-l05-07-03-s01.webp",
+    "alt": "A line of increasingly strong puller proteins set into the inner folded wall, each stronger than the last, oxygen waiting at the very end."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

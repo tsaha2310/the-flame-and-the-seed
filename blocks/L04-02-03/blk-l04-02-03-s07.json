@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-02-03-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-02-03/blk-l04-02-03-s07.md",
+  "image": {
+    "src": "media/L04-02-03/blk-l04-02-03-s07.webp",
+    "alt": "A fuel molecule at the bottom of a tall drop with its hydrogens, a half-burned sugar halfway down, and a seed storing a bright drop of fat for the sprout."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

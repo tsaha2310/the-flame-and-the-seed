@@ -1,0 +1,61 @@
+{
+  "id": "q-l07-04-01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Kabir asks how the ants \"decided\" the short route was better. What decided?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing decided. Ants on the short route finished trips sooner, so that route collected drops faster, while evaporation took drops from both at the same rate. The difference in rates chose the route. No ant compared anything."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The first ant home chose it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The first ant home is often on the long route by chance. The trail shifts to the short one anyway, over minutes."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The queen sent the order."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The queen never leaves the nest and lays no trail. The route emerges from the walkers."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ants can see which route is shorter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ants navigate mostly by smell and cannot see the far end of a route. The sim's ants are blind to length and still find it."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Faster reinforcement beats equal evaporation. A rule about drops and smells, run by thousands of ants, produces a choice no ant made."
+  },
+  "hints": [],
+  "tags": [
+    "mod-07-04"
+  ],
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

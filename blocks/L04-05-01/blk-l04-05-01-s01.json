@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-05-01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04-05-01/blk-l04-05-01-s01.md",
+  "image": {
+    "src": "media/L04-05-01/blk-l04-05-01-s01.webp",
+    "alt": "Boiling milk splitting into white curds and clear whey after a squeeze of lemon, the curds tied in a cloth as paneer."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}

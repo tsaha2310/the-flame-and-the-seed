@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-04-03-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02-04-03/blk-l02-04-03-s01.md",
+  "image": {
+    "src": "media/L02-04-03/blk-l02-04-03-s01.webp",
+    "alt": "Morning on the verandah: a boy's hand on the damp outside of a clay matka, beside a plastic bucket that is dry."
+  },
+  "authoring": {
+    "status": "ai-draft",
+    "flags": [],
+    "reviewedAt": null
+  }
+}
